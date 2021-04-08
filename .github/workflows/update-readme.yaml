@@ -8,6 +8,10 @@ on:
 
   workflow_dispatch:
 
+env:
+
+  CREDLY_USER: mahdtech
+
 jobs:
 
   build:
@@ -37,3 +41,11 @@ jobs:
           COMMIT_MSG: "Update README with recent GitHub activity"
           MAX_LINES: 10
 
+      - id: update_badges
+        name: Update Badges
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          COMMIT_MESSAGE: "Update Credly Badges"
+          CREDLY_USER: "${{ env.CREDLY_USER }}"
+          CREDLY_SORT: RECENT
