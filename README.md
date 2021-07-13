@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2484](https://github.com/code-ready/crc/issues/2484) in [code-ready/crc](https://github.com/code-ready/crc)
+1. 💪 Opened PR [#131](https://github.com/redhat-cop/anarchy/pull/131) in [redhat-cop/anarchy](https://github.com/redhat-cop/anarchy)
 <!--END_SECTION:activity-->
 
 </details>
