@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#131](https://github.com/redhat-cop/anarchy/pull/131) in [redhat-cop/anarchy](https://github.com/redhat-cop/anarchy)
+1. ❗️ Opened issue [#58](https://github.com/redhat-cop/poolboy/issues/58) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
 <!--END_SECTION:activity-->
 
 </details>
