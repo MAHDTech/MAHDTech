@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/redhat-cop/poolboy/issues/58) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
+1. 💪 Opened PR [#66](https://github.com/rht-labs/lodestar-automation/pull/66) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
 <!--END_SECTION:activity-->
 
 </details>
