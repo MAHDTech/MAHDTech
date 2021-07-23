@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/rht-labs/lodestar-automation/pull/66) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+1. 💪 Opened PR [#633](https://github.com/redhat-cop/infra-ansible/pull/633) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
 <!--END_SECTION:activity-->
 
 </details>
