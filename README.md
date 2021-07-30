@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor/pull/32) in [redhat-gpte-devopsautomation/babylon_anarchy_governor](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor)
+1. 💪 Opened PR [#74](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator/pull/74) in [redhat-gpte-devopsautomation/agnosticv-operator](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator)
 <!--END_SECTION:activity-->
 
 </details>
