@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#636](https://github.com/redhat-cop/infra-ansible/pull/636) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+1. 🗣 Commented on [#634](https://github.com/redhat-cop/infra-ansible/issues/634) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
 <!--END_SECTION:activity-->
 
 </details>
