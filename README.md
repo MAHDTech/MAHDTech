@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#634](https://github.com/redhat-cop/infra-ansible/issues/634) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+1. 🗣 Commented on [#32](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor/issues/32) in [redhat-gpte-devopsautomation/babylon_anarchy_governor](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor)
 <!--END_SECTION:activity-->
 
 </details>
