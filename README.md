@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor/issues/32) in [redhat-gpte-devopsautomation/babylon_anarchy_governor](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor)
+1. ❗️ Opened issue [#225](https://github.com/wakatime/vscode-wakatime/issues/225) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
 <!--END_SECTION:activity-->
 
 </details>
