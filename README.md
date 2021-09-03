@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor/pull/34) in [redhat-gpte-devopsautomation/babylon_anarchy_governor](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor)
+1. 💪 Opened PR [#61](https://github.com/redhat-cop/tool-integrations/pull/61) in [redhat-cop/tool-integrations](https://github.com/redhat-cop/tool-integrations)
 <!--END_SECTION:activity-->
 
 </details>
