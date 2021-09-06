@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/redhat-cop/tool-integrations/pull/61) in [redhat-cop/tool-integrations](https://github.com/redhat-cop/tool-integrations)
+1. 🎉 Merged PR [#2](https://github.com/salt-labs/arweave-miner/pull/2) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
 <!--END_SECTION:activity-->
 
 </details>
