@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/salt-labs/truenas-charts/pull/3) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+1. 🎉 Merged PR [#4](https://github.com/salt-labs/truenas-charts/pull/4) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
 <!--END_SECTION:activity-->
 
 </details>
