@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/salt-labs/truenas-charts/pull/4) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+1. ❗️ Opened issue [#6](https://github.com/salt-labs/arweave-miner/issues/6) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
 <!--END_SECTION:activity-->
 
 </details>
