@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/salt-labs/arweave-miner/issues/6) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+1. ❗️ Closed issue [#7](https://github.com/salt-labs/arweave-miner/issues/7) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
 <!--END_SECTION:activity-->
 
 </details>
