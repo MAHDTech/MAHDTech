@@ -106,7 +106,7 @@
   <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/salt-labs/arweave-miner/pull/8) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+1. 💪 Opened PR [#341](https://github.com/rht-labs/lodestar-deployment/pull/341) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
 <!--END_SECTION:activity-->
 
 </details>
