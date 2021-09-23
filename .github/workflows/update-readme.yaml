@@ -34,12 +34,9 @@ jobs:
       #         - PullRequestEvent
       - id: update_readme
         name: Update Readme
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: Readme-Workflows/recent-activity@v2.3.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Update README with recent GitHub activity"
-          MAX_LINES: 10
 
       - id: update_badges
         name: Update Badges
@@ -49,3 +46,4 @@ jobs:
           COMMIT_MESSAGE: "Update Credly Badges"
           CREDLY_USER: "${{ env.CREDLY_USER }}"
           CREDLY_SORT: RECENT
+
