@@ -105,8 +105,8 @@
 <details>
   <summary>Recent Activity</summary>
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/rht-labs/lodestar-automation/issues/66) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 </details>
+
