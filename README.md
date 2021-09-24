@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#625](https://github.com/redhat-cop/infra-ansible/pull/625) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
-2. 💪 Opened PR [#345](https://github.com/rht-labs/lodestar-deployment/pull/345) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-3. 💪 Opened PR [#341](https://github.com/rht-labs/lodestar-deployment/pull/341) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-4. 💪 Opened PR [#8](https://github.com/salt-labs/arweave-miner/pull/8) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-5. ✔️ Closed issue [#7](https://github.com/salt-labs/arweave-miner/issues/7) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-6. ⭐ Starred [enarx/enarx](https://github.com/enarx/enarx)
-7. ⭐ Starred [tinywrkb/flatpaks](https://github.com/tinywrkb/flatpaks)
-8. ⭐ Starred [francesco-adamo/arweave-tools](https://github.com/francesco-adamo/arweave-tools)
-9. ⭐ Starred [vilenarios/Arweave-Monitor](https://github.com/vilenarios/Arweave-Monitor)
-10. ⭐ Starred [lastmjs/enable-cryptocurrency-in-funding-yml](https://github.com/lastmjs/enable-cryptocurrency-in-funding-yml)
+1. 💪 Opened PR [#648](https://github.com/redhat-cop/infra-ansible/pull/648) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+2. ❌ Closed PR [#625](https://github.com/redhat-cop/infra-ansible/pull/625) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+3. 💪 Opened PR [#345](https://github.com/rht-labs/lodestar-deployment/pull/345) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+4. 💪 Opened PR [#341](https://github.com/rht-labs/lodestar-deployment/pull/341) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+5. 💪 Opened PR [#8](https://github.com/salt-labs/arweave-miner/pull/8) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+6. ✔️ Closed issue [#7](https://github.com/salt-labs/arweave-miner/issues/7) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+7. ⭐ Starred [enarx/enarx](https://github.com/enarx/enarx)
+8. ⭐ Starred [tinywrkb/flatpaks](https://github.com/tinywrkb/flatpaks)
+9. ⭐ Starred [francesco-adamo/arweave-tools](https://github.com/francesco-adamo/arweave-tools)
+10. ⭐ Starred [vilenarios/Arweave-Monitor](https://github.com/vilenarios/Arweave-Monitor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
