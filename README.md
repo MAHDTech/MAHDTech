@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#648](https://github.com/redhat-cop/infra-ansible/pull/648) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
-2. ❌ Closed PR [#625](https://github.com/redhat-cop/infra-ansible/pull/625) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
-3. 💪 Opened PR [#345](https://github.com/rht-labs/lodestar-deployment/pull/345) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-4. 💪 Opened PR [#341](https://github.com/rht-labs/lodestar-deployment/pull/341) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-5. 💪 Opened PR [#8](https://github.com/salt-labs/arweave-miner/pull/8) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-6. ✔️ Closed issue [#7](https://github.com/salt-labs/arweave-miner/issues/7) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-7. ⭐ Starred [enarx/enarx](https://github.com/enarx/enarx)
-8. ⭐ Starred [tinywrkb/flatpaks](https://github.com/tinywrkb/flatpaks)
-9. ⭐ Starred [francesco-adamo/arweave-tools](https://github.com/francesco-adamo/arweave-tools)
-10. ⭐ Starred [vilenarios/Arweave-Monitor](https://github.com/vilenarios/Arweave-Monitor)
+1. 💪 Opened PR [#71](https://github.com/rht-labs/lodestar-automation/pull/71) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+2. ❌ Closed PR [#70](https://github.com/rht-labs/lodestar-automation/pull/70) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+3. 💪 Opened PR [#70](https://github.com/rht-labs/lodestar-automation/pull/70) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+4. 💪 Opened PR [#650](https://github.com/redhat-cop/infra-ansible/pull/650) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+5. 💪 Opened PR [#648](https://github.com/redhat-cop/infra-ansible/pull/648) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+6. ❌ Closed PR [#625](https://github.com/redhat-cop/infra-ansible/pull/625) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+7. 💪 Opened PR [#345](https://github.com/rht-labs/lodestar-deployment/pull/345) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+8. 💪 Opened PR [#341](https://github.com/rht-labs/lodestar-deployment/pull/341) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+9. 💪 Opened PR [#8](https://github.com/salt-labs/arweave-miner/pull/8) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+10. ✔️ Closed issue [#7](https://github.com/salt-labs/arweave-miner/issues/7) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
