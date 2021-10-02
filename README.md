@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4138](https://github.com/redhat-cop/agnosticd/pull/4138) in [redhat-cop/agnosticd](https://github.com/redhat-cop/agnosticd)
-2. 💪 Opened PR [#349](https://github.com/rht-labs/lodestar-deployment/pull/349) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-3. 💪 Opened PR [#651](https://github.com/redhat-cop/infra-ansible/pull/651) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
-4. 💪 Opened PR [#348](https://github.com/rht-labs/lodestar-deployment/pull/348) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-5. 💪 Opened PR [#71](https://github.com/rht-labs/lodestar-automation/pull/71) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-6. ❌ Closed PR [#70](https://github.com/rht-labs/lodestar-automation/pull/70) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-7. 💪 Opened PR [#70](https://github.com/rht-labs/lodestar-automation/pull/70) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-8. 💪 Opened PR [#650](https://github.com/redhat-cop/infra-ansible/pull/650) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
-9. 💪 Opened PR [#648](https://github.com/redhat-cop/infra-ansible/pull/648) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
-10. ❌ Closed PR [#625](https://github.com/redhat-cop/infra-ansible/pull/625) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+1. ⭐ Starred [adamgreen/CHiP](https://github.com/adamgreen/CHiP)
+2. ⭐ Starred [romanz/electrs](https://github.com/romanz/electrs)
+3. ⭐ Starred [dfinity/bigmap-poc](https://github.com/dfinity/bigmap-poc)
+4. 💪 Opened PR [#4138](https://github.com/redhat-cop/agnosticd/pull/4138) in [redhat-cop/agnosticd](https://github.com/redhat-cop/agnosticd)
+5. 💪 Opened PR [#349](https://github.com/rht-labs/lodestar-deployment/pull/349) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+6. 💪 Opened PR [#651](https://github.com/redhat-cop/infra-ansible/pull/651) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+7. 💪 Opened PR [#348](https://github.com/rht-labs/lodestar-deployment/pull/348) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+8. 💪 Opened PR [#71](https://github.com/rht-labs/lodestar-automation/pull/71) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+9. ❌ Closed PR [#70](https://github.com/rht-labs/lodestar-automation/pull/70) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+10. 💪 Opened PR [#70](https://github.com/rht-labs/lodestar-automation/pull/70) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
