@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#652](https://github.com/redhat-cop/infra-ansible/pull/652) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
-2. ⭐ Starred [adamgreen/CHiP](https://github.com/adamgreen/CHiP)
-3. ⭐ Starred [romanz/electrs](https://github.com/romanz/electrs)
-4. ⭐ Starred [dfinity/bigmap-poc](https://github.com/dfinity/bigmap-poc)
-5. 💪 Opened PR [#4138](https://github.com/redhat-cop/agnosticd/pull/4138) in [redhat-cop/agnosticd](https://github.com/redhat-cop/agnosticd)
-6. 💪 Opened PR [#349](https://github.com/rht-labs/lodestar-deployment/pull/349) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-7. 💪 Opened PR [#651](https://github.com/redhat-cop/infra-ansible/pull/651) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
-8. 💪 Opened PR [#348](https://github.com/rht-labs/lodestar-deployment/pull/348) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-9. 💪 Opened PR [#71](https://github.com/rht-labs/lodestar-automation/pull/71) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-10. ❌ Closed PR [#70](https://github.com/rht-labs/lodestar-automation/pull/70) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+1. 💪 Opened PR [#351](https://github.com/rht-labs/lodestar-deployment/pull/351) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+2. ❌ Closed PR [#350](https://github.com/rht-labs/lodestar-deployment/pull/350) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+3. 💪 Opened PR [#350](https://github.com/rht-labs/lodestar-deployment/pull/350) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+4. 💪 Opened PR [#653](https://github.com/redhat-cop/infra-ansible/pull/653) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+5. 💪 Opened PR [#652](https://github.com/redhat-cop/infra-ansible/pull/652) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+6. ⭐ Starred [adamgreen/CHiP](https://github.com/adamgreen/CHiP)
+7. ⭐ Starred [romanz/electrs](https://github.com/romanz/electrs)
+8. ⭐ Starred [dfinity/bigmap-poc](https://github.com/dfinity/bigmap-poc)
+9. 💪 Opened PR [#4138](https://github.com/redhat-cop/agnosticd/pull/4138) in [redhat-cop/agnosticd](https://github.com/redhat-cop/agnosticd)
+10. 💪 Opened PR [#349](https://github.com/rht-labs/lodestar-deployment/pull/349) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
