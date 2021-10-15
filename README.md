@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#8](https://github.com/salt-labs/arweave-miner/pull/8) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-2. ✔️ Closed issue [#6](https://github.com/salt-labs/arweave-miner/issues/6) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-3. ⭐ Starred [ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave)
-4. 💪 Opened PR [#351](https://github.com/rht-labs/lodestar-deployment/pull/351) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-5. ❌ Closed PR [#350](https://github.com/rht-labs/lodestar-deployment/pull/350) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-6. 💪 Opened PR [#350](https://github.com/rht-labs/lodestar-deployment/pull/350) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-7. 💪 Opened PR [#653](https://github.com/redhat-cop/infra-ansible/pull/653) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
-8. ⭐ Starred [dfinity/bigmap-poc](https://github.com/dfinity/bigmap-poc)
-9. 💪 Opened PR [#4138](https://github.com/redhat-cop/agnosticd/pull/4138) in [redhat-cop/agnosticd](https://github.com/redhat-cop/agnosticd)
-10. 💪 Opened PR [#349](https://github.com/rht-labs/lodestar-deployment/pull/349) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+1. 🔱 Forked [MAHDTech/sre-enablement-content](https://github.com/MAHDTech/sre-enablement-content) from [rht-labs/sre-enablement-content](https://github.com/rht-labs/sre-enablement-content)
+2. ⭐ Starred [openethereum/openethereum](https://github.com/openethereum/openethereum)
+3. 💪 Opened PR [#356](https://github.com/rht-labs/lodestar-deployment/pull/356) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+4. 💪 Opened PR [#355](https://github.com/rht-labs/lodestar-deployment/pull/355) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+5. 💪 Opened PR [#354](https://github.com/rht-labs/lodestar-deployment/pull/354) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+6. 🎉 Merged PR [#9](https://github.com/salt-labs/arweave-miner/pull/9) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+7. 💪 Opened PR [#9](https://github.com/salt-labs/arweave-miner/pull/9) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+8. 🎉 Merged PR [#8](https://github.com/salt-labs/arweave-miner/pull/8) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+9. ✔️ Closed issue [#6](https://github.com/salt-labs/arweave-miner/issues/6) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+10. ⭐ Starred [ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
