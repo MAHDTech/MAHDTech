@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#72](https://github.com/rht-labs/lodestar-automation/pull/72) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-2. 🔱 Forked [MAHDTech/sre-enablement-content](https://github.com/MAHDTech/sre-enablement-content) from [rht-labs/sre-enablement-content](https://github.com/rht-labs/sre-enablement-content)
-3. ⭐ Starred [openethereum/openethereum](https://github.com/openethereum/openethereum)
-4. 💪 Opened PR [#356](https://github.com/rht-labs/lodestar-deployment/pull/356) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-5. 💪 Opened PR [#355](https://github.com/rht-labs/lodestar-deployment/pull/355) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-6. 💪 Opened PR [#354](https://github.com/rht-labs/lodestar-deployment/pull/354) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-7. 🎉 Merged PR [#9](https://github.com/salt-labs/arweave-miner/pull/9) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-8. 💪 Opened PR [#9](https://github.com/salt-labs/arweave-miner/pull/9) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-9. 🎉 Merged PR [#8](https://github.com/salt-labs/arweave-miner/pull/8) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-10. ✔️ Closed issue [#6](https://github.com/salt-labs/arweave-miner/issues/6) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+1. ⭐ Starred [motoko-unofficial/awesome-motoko](https://github.com/motoko-unofficial/awesome-motoko)
+2. ⭐ Starred [dfinity/awesome-dfinity](https://github.com/dfinity/awesome-dfinity)
+3. 💪 Opened PR [#72](https://github.com/rht-labs/lodestar-automation/pull/72) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+4. 🔱 Forked [MAHDTech/sre-enablement-content](https://github.com/MAHDTech/sre-enablement-content) from [rht-labs/sre-enablement-content](https://github.com/rht-labs/sre-enablement-content)
+5. ⭐ Starred [openethereum/openethereum](https://github.com/openethereum/openethereum)
+6. 💪 Opened PR [#356](https://github.com/rht-labs/lodestar-deployment/pull/356) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+7. 💪 Opened PR [#355](https://github.com/rht-labs/lodestar-deployment/pull/355) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+8. 💪 Opened PR [#354](https://github.com/rht-labs/lodestar-deployment/pull/354) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+9. 🎉 Merged PR [#9](https://github.com/salt-labs/arweave-miner/pull/9) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+10. 💪 Opened PR [#9](https://github.com/salt-labs/arweave-miner/pull/9) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
