@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#63](https://github.com/redhat-cop/poolboy/pull/63) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
-2. ✔️ Closed issue [#62](https://github.com/redhat-cop/poolboy/issues/62) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
-3. 💪 Opened PR [#73](https://github.com/rht-labs/lodestar-automation/pull/73) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-4. ❌ Closed PR [#64](https://github.com/redhat-cop/poolboy/pull/64) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
-5. 💪 Opened PR [#89](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator/pull/89) in [redhat-gpte-devopsautomation/agnosticv-operator](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator)
-6. 💪 Opened PR [#358](https://github.com/rht-labs/lodestar-deployment/pull/358) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-7. 💪 Opened PR [#357](https://github.com/rht-labs/lodestar-deployment/pull/357) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-8. 💪 Opened PR [#64](https://github.com/redhat-cop/poolboy/pull/64) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
-9. 💪 Opened PR [#63](https://github.com/redhat-cop/poolboy/pull/63) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
-10. ❗️ Opened issue [#62](https://github.com/redhat-cop/poolboy/issues/62) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
+1. 💪 Opened PR [#369](https://github.com/rht-labs/lodestar-deployment/pull/369) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+2. 💪 Opened PR [#367](https://github.com/rht-labs/lodestar-deployment/pull/367) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+3. 💪 Opened PR [#213](https://github.com/redhat-cop/babylon/pull/213) in [redhat-cop/babylon](https://github.com/redhat-cop/babylon)
+4. 💪 Opened PR [#365](https://github.com/rht-labs/lodestar-deployment/pull/365) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+5. ❌ Closed PR [#63](https://github.com/redhat-cop/poolboy/pull/63) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
+6. ✔️ Closed issue [#62](https://github.com/redhat-cop/poolboy/issues/62) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
+7. 💪 Opened PR [#73](https://github.com/rht-labs/lodestar-automation/pull/73) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+8. ❌ Closed PR [#64](https://github.com/redhat-cop/poolboy/pull/64) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
+9. 💪 Opened PR [#89](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator/pull/89) in [redhat-gpte-devopsautomation/agnosticv-operator](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator)
+10. 💪 Opened PR [#358](https://github.com/rht-labs/lodestar-deployment/pull/358) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
