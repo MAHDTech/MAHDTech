@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#75](https://github.com/rht-labs/lodestar-automation/pull/75) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-2. ⭐ Starred [Wonderland-Money/wonderland-frontend](https://github.com/Wonderland-Money/wonderland-frontend)
-3. ⭐ Starred [Wonderland-Money/contracts](https://github.com/Wonderland-Money/contracts)
-4. 💪 Opened PR [#369](https://github.com/rht-labs/lodestar-deployment/pull/369) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-5. 💪 Opened PR [#367](https://github.com/rht-labs/lodestar-deployment/pull/367) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-6. 💪 Opened PR [#213](https://github.com/redhat-cop/babylon/pull/213) in [redhat-cop/babylon](https://github.com/redhat-cop/babylon)
-7. 💪 Opened PR [#365](https://github.com/rht-labs/lodestar-deployment/pull/365) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-8. ❌ Closed PR [#63](https://github.com/redhat-cop/poolboy/pull/63) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
-9. ✔️ Closed issue [#62](https://github.com/redhat-cop/poolboy/issues/62) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
-10. 💪 Opened PR [#73](https://github.com/rht-labs/lodestar-automation/pull/73) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+1. 💪 Opened PR [#5](https://github.com/salt-labs/truenas-charts/pull/5) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+2. 💪 Opened PR [#10](https://github.com/salt-labs/arweave-miner/pull/10) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+3. 💪 Opened PR [#75](https://github.com/rht-labs/lodestar-automation/pull/75) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+4. ⭐ Starred [Wonderland-Money/wonderland-frontend](https://github.com/Wonderland-Money/wonderland-frontend)
+5. ⭐ Starred [Wonderland-Money/contracts](https://github.com/Wonderland-Money/contracts)
+6. 💪 Opened PR [#369](https://github.com/rht-labs/lodestar-deployment/pull/369) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+7. 💪 Opened PR [#367](https://github.com/rht-labs/lodestar-deployment/pull/367) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+8. 💪 Opened PR [#213](https://github.com/redhat-cop/babylon/pull/213) in [redhat-cop/babylon](https://github.com/redhat-cop/babylon)
+9. 💪 Opened PR [#365](https://github.com/rht-labs/lodestar-deployment/pull/365) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+10. ❌ Closed PR [#63](https://github.com/redhat-cop/poolboy/pull/63) in [redhat-cop/poolboy](https://github.com/redhat-cop/poolboy)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
