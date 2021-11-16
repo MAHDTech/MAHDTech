@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#76](https://github.com/rht-labs/lodestar-automation/pull/76) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-2. ❌ Closed PR [#356](https://github.com/rht-labs/lodestar-deployment/pull/356) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-3. ❌ Closed PR [#355](https://github.com/rht-labs/lodestar-deployment/pull/355) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-4. 💪 Opened PR [#374](https://github.com/rht-labs/lodestar-deployment/pull/374) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-5. 🎉 Merged PR [#5](https://github.com/salt-labs/truenas-charts/pull/5) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-6. 🎉 Merged PR [#10](https://github.com/salt-labs/arweave-miner/pull/10) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-7. 💪 Opened PR [#5](https://github.com/salt-labs/truenas-charts/pull/5) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-8. 💪 Opened PR [#10](https://github.com/salt-labs/arweave-miner/pull/10) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-9. 💪 Opened PR [#75](https://github.com/rht-labs/lodestar-automation/pull/75) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-10. ⭐ Starred [Wonderland-Money/wonderland-frontend](https://github.com/Wonderland-Money/wonderland-frontend)
+1. 💪 Opened PR [#375](https://github.com/rht-labs/lodestar-deployment/pull/375) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+2. 💪 Opened PR [#76](https://github.com/rht-labs/lodestar-automation/pull/76) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+3. ❌ Closed PR [#356](https://github.com/rht-labs/lodestar-deployment/pull/356) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+4. ❌ Closed PR [#355](https://github.com/rht-labs/lodestar-deployment/pull/355) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+5. 💪 Opened PR [#374](https://github.com/rht-labs/lodestar-deployment/pull/374) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+6. 🎉 Merged PR [#5](https://github.com/salt-labs/truenas-charts/pull/5) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+7. 🎉 Merged PR [#10](https://github.com/salt-labs/arweave-miner/pull/10) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+8. 💪 Opened PR [#5](https://github.com/salt-labs/truenas-charts/pull/5) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+9. 💪 Opened PR [#10](https://github.com/salt-labs/arweave-miner/pull/10) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+10. 💪 Opened PR [#75](https://github.com/rht-labs/lodestar-automation/pull/75) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
