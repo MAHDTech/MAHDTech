@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#78](https://github.com/rht-labs/lodestar-automation/pull/78) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-2. 💪 Opened PR [#384](https://github.com/rht-labs/lodestar-deployment/pull/384) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-3. 💪 Opened PR [#376](https://github.com/rht-labs/lodestar-deployment/pull/376) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-4. 💪 Opened PR [#77](https://github.com/rht-labs/lodestar-automation/pull/77) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-5. 💪 Opened PR [#375](https://github.com/rht-labs/lodestar-deployment/pull/375) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-6. 💪 Opened PR [#76](https://github.com/rht-labs/lodestar-automation/pull/76) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-7. ❌ Closed PR [#356](https://github.com/rht-labs/lodestar-deployment/pull/356) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-8. ❌ Closed PR [#355](https://github.com/rht-labs/lodestar-deployment/pull/355) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-9. 💪 Opened PR [#374](https://github.com/rht-labs/lodestar-deployment/pull/374) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-10. 🎉 Merged PR [#5](https://github.com/salt-labs/truenas-charts/pull/5) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+1. ❌ Closed PR [#94](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator/pull/94) in [redhat-gpte-devopsautomation/agnosticv-operator](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator)
+2. 💪 Opened PR [#94](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator/pull/94) in [redhat-gpte-devopsautomation/agnosticv-operator](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator)
+3. 💪 Opened PR [#83](https://github.com/rht-labs/lodestar-automation/pull/83) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+4. 💪 Opened PR [#80](https://github.com/rht-labs/lodestar-automation/pull/80) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+5. 💪 Opened PR [#79](https://github.com/rht-labs/lodestar-automation/pull/79) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+6. 💪 Opened PR [#78](https://github.com/rht-labs/lodestar-automation/pull/78) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+7. 💪 Opened PR [#384](https://github.com/rht-labs/lodestar-deployment/pull/384) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+8. 💪 Opened PR [#376](https://github.com/rht-labs/lodestar-deployment/pull/376) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+9. 💪 Opened PR [#77](https://github.com/rht-labs/lodestar-automation/pull/77) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+10. 💪 Opened PR [#375](https://github.com/rht-labs/lodestar-deployment/pull/375) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
