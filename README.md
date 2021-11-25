@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#94](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator/pull/94) in [redhat-gpte-devopsautomation/agnosticv-operator](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator)
-2. 💪 Opened PR [#94](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator/pull/94) in [redhat-gpte-devopsautomation/agnosticv-operator](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator)
-3. 💪 Opened PR [#83](https://github.com/rht-labs/lodestar-automation/pull/83) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-4. 💪 Opened PR [#80](https://github.com/rht-labs/lodestar-automation/pull/80) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-5. 💪 Opened PR [#79](https://github.com/rht-labs/lodestar-automation/pull/79) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-6. 💪 Opened PR [#78](https://github.com/rht-labs/lodestar-automation/pull/78) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-7. 💪 Opened PR [#384](https://github.com/rht-labs/lodestar-deployment/pull/384) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-8. 💪 Opened PR [#376](https://github.com/rht-labs/lodestar-deployment/pull/376) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-9. 💪 Opened PR [#77](https://github.com/rht-labs/lodestar-automation/pull/77) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-10. 💪 Opened PR [#375](https://github.com/rht-labs/lodestar-deployment/pull/375) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+1. 💪 Opened PR [#85](https://github.com/rht-labs/lodestar-automation/pull/85) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+2. 🔱 Forked [MAHDTech/avax-tutorial-nft](https://github.com/MAHDTech/avax-tutorial-nft) from [metodi96/avax-tutorial-nft](https://github.com/metodi96/avax-tutorial-nft)
+3. ⭐ Starred [trizin/NFT-Marketplace-on-Avalanche](https://github.com/trizin/NFT-Marketplace-on-Avalanche)
+4. ⭐ Starred [openai/DALL-E](https://github.com/openai/DALL-E)
+5. 💪 Opened PR [#84](https://github.com/rht-labs/lodestar-automation/pull/84) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+6. 💪 Opened PR [#392](https://github.com/rht-labs/lodestar-deployment/pull/392) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+7. ❌ Closed PR [#94](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator/pull/94) in [redhat-gpte-devopsautomation/agnosticv-operator](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator)
+8. 💪 Opened PR [#94](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator/pull/94) in [redhat-gpte-devopsautomation/agnosticv-operator](https://github.com/redhat-gpte-devopsautomation/agnosticv-operator)
+9. 💪 Opened PR [#83](https://github.com/rht-labs/lodestar-automation/pull/83) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+10. 💪 Opened PR [#80](https://github.com/rht-labs/lodestar-automation/pull/80) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
