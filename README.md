@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#393](https://github.com/rht-labs/lodestar-deployment/pull/393) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-2. 💪 Opened PR [#393](https://github.com/rht-labs/lodestar-deployment/pull/393) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-3. ❌ Closed PR [#39](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor/pull/39) in [redhat-gpte-devopsautomation/babylon_anarchy_governor](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor)
-4. 💪 Opened PR [#39](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor/pull/39) in [redhat-gpte-devopsautomation/babylon_anarchy_governor](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor)
-5. 💪 Opened PR [#88](https://github.com/rht-labs/lodestar-automation/pull/88) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-6. 💪 Opened PR [#87](https://github.com/rht-labs/lodestar-automation/pull/87) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-7. 💪 Opened PR [#86](https://github.com/rht-labs/lodestar-automation/pull/86) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-8. 💪 Opened PR [#85](https://github.com/rht-labs/lodestar-automation/pull/85) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-9. 🔱 Forked [MAHDTech/avax-tutorial-nft](https://github.com/MAHDTech/avax-tutorial-nft) from [metodi96/avax-tutorial-nft](https://github.com/metodi96/avax-tutorial-nft)
-10. ⭐ Starred [trizin/NFT-Marketplace-on-Avalanche](https://github.com/trizin/NFT-Marketplace-on-Avalanche)
+1. 👍 Approved [#659](https://github.com/redhat-cop/infra-ansible/pull/659#pullrequestreview-818593631) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+2. 💪 Opened PR [#91](https://github.com/rht-labs/lodestar-automation/pull/91) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+3. 👍 Approved [#90](https://github.com/rht-labs/lodestar-automation/pull/90#pullrequestreview-818519332) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+4. 👍 Approved [#89](https://github.com/rht-labs/lodestar-automation/pull/89#pullrequestreview-818514862) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+5. ❌ Closed PR [#393](https://github.com/rht-labs/lodestar-deployment/pull/393) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+6. 💪 Opened PR [#393](https://github.com/rht-labs/lodestar-deployment/pull/393) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+7. ❌ Closed PR [#39](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor/pull/39) in [redhat-gpte-devopsautomation/babylon_anarchy_governor](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor)
+8. 💪 Opened PR [#39](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor/pull/39) in [redhat-gpte-devopsautomation/babylon_anarchy_governor](https://github.com/redhat-gpte-devopsautomation/babylon_anarchy_governor)
+9. 💪 Opened PR [#88](https://github.com/rht-labs/lodestar-automation/pull/88) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+10. 💪 Opened PR [#87](https://github.com/rht-labs/lodestar-automation/pull/87) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
