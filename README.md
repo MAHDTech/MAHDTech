@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-2. ⭐ Starred [edrevo/dockerfile-plus](https://github.com/edrevo/dockerfile-plus)
-3. ⭐ Starred [brave/brave-browser-snap](https://github.com/brave/brave-browser-snap)
-4. ⭐ Starred [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3)
-5. 👍 Approved [#659](https://github.com/redhat-cop/infra-ansible/pull/659#pullrequestreview-818593631) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
-6. 💪 Opened PR [#91](https://github.com/rht-labs/lodestar-automation/pull/91) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-7. 👍 Approved [#90](https://github.com/rht-labs/lodestar-automation/pull/90#pullrequestreview-818519332) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-8. 👍 Approved [#89](https://github.com/rht-labs/lodestar-automation/pull/89#pullrequestreview-818514862) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-9. ❌ Closed PR [#393](https://github.com/rht-labs/lodestar-deployment/pull/393) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
-10. 💪 Opened PR [#393](https://github.com/rht-labs/lodestar-deployment/pull/393) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+1. ❗️ Opened issue [#1047](https://github.com/ModernAppsNinja/modernappsninja.github.io/issues/1047) in [ModernAppsNinja/modernappsninja.github.io](https://github.com/ModernAppsNinja/modernappsninja.github.io)
+2. ⭐ Starred [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+3. ⭐ Starred [edrevo/dockerfile-plus](https://github.com/edrevo/dockerfile-plus)
+4. ⭐ Starred [brave/brave-browser-snap](https://github.com/brave/brave-browser-snap)
+5. ⭐ Starred [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3)
+6. 👍 Approved [#659](https://github.com/redhat-cop/infra-ansible/pull/659#pullrequestreview-818593631) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
+7. 💪 Opened PR [#91](https://github.com/rht-labs/lodestar-automation/pull/91) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+8. 👍 Approved [#90](https://github.com/rht-labs/lodestar-automation/pull/90#pullrequestreview-818519332) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+9. 👍 Approved [#89](https://github.com/rht-labs/lodestar-automation/pull/89#pullrequestreview-818514862) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
+10. ❌ Closed PR [#393](https://github.com/rht-labs/lodestar-deployment/pull/393) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
