@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1047](https://github.com/ModernAppsNinja/modernappsninja.github.io/issues/1047) in [ModernAppsNinja/modernappsninja.github.io](https://github.com/ModernAppsNinja/modernappsninja.github.io)
-2. ⭐ Starred [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-3. ⭐ Starred [edrevo/dockerfile-plus](https://github.com/edrevo/dockerfile-plus)
-4. ⭐ Starred [brave/brave-browser-snap](https://github.com/brave/brave-browser-snap)
-5. ⭐ Starred [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3)
-6. 👍 Approved [#659](https://github.com/redhat-cop/infra-ansible/pull/659#pullrequestreview-818593631) in [redhat-cop/infra-ansible](https://github.com/redhat-cop/infra-ansible)
-7. 💪 Opened PR [#91](https://github.com/rht-labs/lodestar-automation/pull/91) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-8. 👍 Approved [#90](https://github.com/rht-labs/lodestar-automation/pull/90#pullrequestreview-818519332) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-9. 👍 Approved [#89](https://github.com/rht-labs/lodestar-automation/pull/89#pullrequestreview-818514862) in [rht-labs/lodestar-automation](https://github.com/rht-labs/lodestar-automation)
-10. ❌ Closed PR [#393](https://github.com/rht-labs/lodestar-deployment/pull/393) in [rht-labs/lodestar-deployment](https://github.com/rht-labs/lodestar-deployment)
+1. 🎉 Merged PR [#7](https://github.com/salt-labs/truenas-charts/pull/7) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+2. 💪 Opened PR [#7](https://github.com/salt-labs/truenas-charts/pull/7) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+3. 🎉 Merged PR [#6](https://github.com/salt-labs/truenas-charts/pull/6) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+4. 🎉 Merged PR [#14](https://github.com/salt-labs/arweave-miner/pull/14) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+5. 💪 Opened PR [#14](https://github.com/salt-labs/arweave-miner/pull/14) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+6. 🎉 Merged PR [#13](https://github.com/salt-labs/arweave-miner/pull/13) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+7. 💪 Opened PR [#6](https://github.com/salt-labs/truenas-charts/pull/6) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+8. ⭐ Starred [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+9. ⭐ Starred [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+10. 💪 Opened PR [#13](https://github.com/salt-labs/arweave-miner/pull/13) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
