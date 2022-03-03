@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/icApps](https://github.com/MAHDTech/icApps) from [tomkoom/icApps](https://github.com/tomkoom/icApps)
-2. ⭐ Starred [tomkoom/icApps](https://github.com/tomkoom/icApps)
-3. ⭐ Starred [Keats/tera](https://github.com/Keats/tera)
-4. 💪 Opened PR [#8](https://github.com/salt-labs/truenas-charts/pull/8) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-5. 🎉 Merged PR [#7](https://github.com/salt-labs/truenas-charts/pull/7) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-6. 💪 Opened PR [#7](https://github.com/salt-labs/truenas-charts/pull/7) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-7. 🎉 Merged PR [#6](https://github.com/salt-labs/truenas-charts/pull/6) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-8. 🎉 Merged PR [#14](https://github.com/salt-labs/arweave-miner/pull/14) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-9. 💪 Opened PR [#14](https://github.com/salt-labs/arweave-miner/pull/14) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-10. 🎉 Merged PR [#13](https://github.com/salt-labs/arweave-miner/pull/13) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+1. 🔱 Forked [MAHDTech/demorunner](https://github.com/MAHDTech/demorunner) from [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
+2. ⭐ Starred [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
+3. ⭐ Starred [wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
+4. ⭐ Starred [rjlucasm/motokorunner](https://github.com/rjlucasm/motokorunner)
+5. ⭐ Starred [dfinity/agent-rs](https://github.com/dfinity/agent-rs)
+6. 🔱 Forked [MAHDTech/tipjar](https://github.com/MAHDTech/tipjar) from [ninegua/tipjar](https://github.com/ninegua/tipjar)
+7. ⭐ Starred [ninegua/tipjar](https://github.com/ninegua/tipjar)
+8. 🔱 Forked [MAHDTech/page-visits](https://github.com/MAHDTech/page-visits) from [krpeacock/page-visits](https://github.com/krpeacock/page-visits)
+9. ⭐ Starred [krpeacock/page-visits](https://github.com/krpeacock/page-visits)
+10. 🔱 Forked [MAHDTech/icApps](https://github.com/MAHDTech/icApps) from [tomkoom/icApps](https://github.com/tomkoom/icApps)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
