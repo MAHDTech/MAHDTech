@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/demorunner](https://github.com/MAHDTech/demorunner) from [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
-2. ⭐ Starred [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
-3. ⭐ Starred [wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
-4. ⭐ Starred [rjlucasm/motokorunner](https://github.com/rjlucasm/motokorunner)
-5. ⭐ Starred [dfinity/agent-rs](https://github.com/dfinity/agent-rs)
-6. 🔱 Forked [MAHDTech/tipjar](https://github.com/MAHDTech/tipjar) from [ninegua/tipjar](https://github.com/ninegua/tipjar)
-7. ⭐ Starred [ninegua/tipjar](https://github.com/ninegua/tipjar)
-8. 🔱 Forked [MAHDTech/page-visits](https://github.com/MAHDTech/page-visits) from [krpeacock/page-visits](https://github.com/krpeacock/page-visits)
-9. ⭐ Starred [krpeacock/page-visits](https://github.com/krpeacock/page-visits)
-10. 🔱 Forked [MAHDTech/icApps](https://github.com/MAHDTech/icApps) from [tomkoom/icApps](https://github.com/tomkoom/icApps)
+1. ⭐ Starred [open-ic/open-chat-v1](https://github.com/open-ic/open-chat-v1)
+2. 🔱 Forked [MAHDTech/demorunner](https://github.com/MAHDTech/demorunner) from [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
+3. ⭐ Starred [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
+4. ⭐ Starred [wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
+5. ⭐ Starred [rjlucasm/motokorunner](https://github.com/rjlucasm/motokorunner)
+6. ⭐ Starred [dfinity/agent-rs](https://github.com/dfinity/agent-rs)
+7. 🔱 Forked [MAHDTech/tipjar](https://github.com/MAHDTech/tipjar) from [ninegua/tipjar](https://github.com/ninegua/tipjar)
+8. ⭐ Starred [ninegua/tipjar](https://github.com/ninegua/tipjar)
+9. 🔱 Forked [MAHDTech/page-visits](https://github.com/MAHDTech/page-visits) from [krpeacock/page-visits](https://github.com/krpeacock/page-visits)
+10. ⭐ Starred [krpeacock/page-visits](https://github.com/krpeacock/page-visits)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
