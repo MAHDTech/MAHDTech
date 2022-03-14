@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [open-ic/open-chat-v1](https://github.com/open-ic/open-chat-v1)
-2. 🔱 Forked [MAHDTech/demorunner](https://github.com/MAHDTech/demorunner) from [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
-3. ⭐ Starred [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
-4. ⭐ Starred [wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
-5. ⭐ Starred [rjlucasm/motokorunner](https://github.com/rjlucasm/motokorunner)
-6. ⭐ Starred [dfinity/agent-rs](https://github.com/dfinity/agent-rs)
-7. 🔱 Forked [MAHDTech/tipjar](https://github.com/MAHDTech/tipjar) from [ninegua/tipjar](https://github.com/ninegua/tipjar)
-8. ⭐ Starred [ninegua/tipjar](https://github.com/ninegua/tipjar)
-9. 🔱 Forked [MAHDTech/page-visits](https://github.com/MAHDTech/page-visits) from [krpeacock/page-visits](https://github.com/krpeacock/page-visits)
-10. ⭐ Starred [krpeacock/page-visits](https://github.com/krpeacock/page-visits)
+1. 🔱 Forked [MAHDTech/Crabada-BOT-Auto](https://github.com/MAHDTech/Crabada-BOT-Auto) from [crabada-game/Crabada-BOT-Auto](https://github.com/crabada-game/Crabada-BOT-Auto)
+2. ⭐ Starred [crabada-game/Crabada-BOT-Auto](https://github.com/crabada-game/Crabada-BOT-Auto)
+3. 🔱 Forked [MAHDTech/crabada-bot](https://github.com/MAHDTech/crabada-bot) from [altuntasfatih/crabada-bot](https://github.com/altuntasfatih/crabada-bot)
+4. ⭐ Starred [altuntasfatih/crabada-bot](https://github.com/altuntasfatih/crabada-bot)
+5. 🔱 Forked [MAHDTech/rugdoc-cli-scanner](https://github.com/MAHDTech/rugdoc-cli-scanner) from [geeks121/rugdoc-cli-scanner](https://github.com/geeks121/rugdoc-cli-scanner)
+6. ⭐ Starred [geeks121/rugdoc-cli-scanner](https://github.com/geeks121/rugdoc-cli-scanner)
+7. ⭐ Starred [open-ic/open-chat-v1](https://github.com/open-ic/open-chat-v1)
+8. 🔱 Forked [MAHDTech/demorunner](https://github.com/MAHDTech/demorunner) from [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
+9. ⭐ Starred [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
+10. ⭐ Starred [wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
