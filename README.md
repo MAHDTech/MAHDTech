@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ava-labs/avalanche-ops](https://github.com/ava-labs/avalanche-ops)
-2. 🔱 Forked [MAHDTech/Crabada-BOT-Auto](https://github.com/MAHDTech/Crabada-BOT-Auto) from [crabada-game/Crabada-BOT-Auto](https://github.com/crabada-game/Crabada-BOT-Auto)
-3. ⭐ Starred [crabada-game/Crabada-BOT-Auto](https://github.com/crabada-game/Crabada-BOT-Auto)
-4. 🔱 Forked [MAHDTech/crabada-bot](https://github.com/MAHDTech/crabada-bot) from [altuntasfatih/crabada-bot](https://github.com/altuntasfatih/crabada-bot)
-5. ⭐ Starred [altuntasfatih/crabada-bot](https://github.com/altuntasfatih/crabada-bot)
-6. 🔱 Forked [MAHDTech/rugdoc-cli-scanner](https://github.com/MAHDTech/rugdoc-cli-scanner) from [geeks121/rugdoc-cli-scanner](https://github.com/geeks121/rugdoc-cli-scanner)
-7. ⭐ Starred [geeks121/rugdoc-cli-scanner](https://github.com/geeks121/rugdoc-cli-scanner)
-8. ⭐ Starred [open-ic/open-chat-v1](https://github.com/open-ic/open-chat-v1)
-9. 🔱 Forked [MAHDTech/demorunner](https://github.com/MAHDTech/demorunner) from [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
-10. ⭐ Starred [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
+1. ⭐ Starred [hkgnp/logseq-kanban-plugin](https://github.com/hkgnp/logseq-kanban-plugin)
+2. ⭐ Starred [ava-labs/avalanche-ops](https://github.com/ava-labs/avalanche-ops)
+3. 🔱 Forked [MAHDTech/Crabada-BOT-Auto](https://github.com/MAHDTech/Crabada-BOT-Auto) from [crabada-game/Crabada-BOT-Auto](https://github.com/crabada-game/Crabada-BOT-Auto)
+4. ⭐ Starred [crabada-game/Crabada-BOT-Auto](https://github.com/crabada-game/Crabada-BOT-Auto)
+5. 🔱 Forked [MAHDTech/crabada-bot](https://github.com/MAHDTech/crabada-bot) from [altuntasfatih/crabada-bot](https://github.com/altuntasfatih/crabada-bot)
+6. ⭐ Starred [altuntasfatih/crabada-bot](https://github.com/altuntasfatih/crabada-bot)
+7. 🔱 Forked [MAHDTech/rugdoc-cli-scanner](https://github.com/MAHDTech/rugdoc-cli-scanner) from [geeks121/rugdoc-cli-scanner](https://github.com/geeks121/rugdoc-cli-scanner)
+8. ⭐ Starred [geeks121/rugdoc-cli-scanner](https://github.com/geeks121/rugdoc-cli-scanner)
+9. ⭐ Starred [open-ic/open-chat-v1](https://github.com/open-ic/open-chat-v1)
+10. 🔱 Forked [MAHDTech/demorunner](https://github.com/MAHDTech/demorunner) from [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
