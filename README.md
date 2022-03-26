@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/tanzu-application-platform-local-setup](https://github.com/MAHDTech/tanzu-application-platform-local-setup) from [xyloman/tanzu-application-platform-local-setup](https://github.com/xyloman/tanzu-application-platform-local-setup)
-2. ⭐ Starred [hkgnp/logseq-kanban-plugin](https://github.com/hkgnp/logseq-kanban-plugin)
-3. ⭐ Starred [ava-labs/avalanche-ops](https://github.com/ava-labs/avalanche-ops)
-4. 🔱 Forked [MAHDTech/Crabada-BOT-Auto](https://github.com/MAHDTech/Crabada-BOT-Auto) from [crabada-game/Crabada-BOT-Auto](https://github.com/crabada-game/Crabada-BOT-Auto)
-5. ⭐ Starred [crabada-game/Crabada-BOT-Auto](https://github.com/crabada-game/Crabada-BOT-Auto)
-6. 🔱 Forked [MAHDTech/crabada-bot](https://github.com/MAHDTech/crabada-bot) from [altuntasfatih/crabada-bot](https://github.com/altuntasfatih/crabada-bot)
-7. ⭐ Starred [altuntasfatih/crabada-bot](https://github.com/altuntasfatih/crabada-bot)
-8. 🔱 Forked [MAHDTech/rugdoc-cli-scanner](https://github.com/MAHDTech/rugdoc-cli-scanner) from [geeks121/rugdoc-cli-scanner](https://github.com/geeks121/rugdoc-cli-scanner)
-9. ⭐ Starred [geeks121/rugdoc-cli-scanner](https://github.com/geeks121/rugdoc-cli-scanner)
-10. ⭐ Starred [open-ic/open-chat-v1](https://github.com/open-ic/open-chat-v1)
+1. ⭐ Starred [TeraSky-OSS/helm-to-carvel-conversion-tool](https://github.com/TeraSky-OSS/helm-to-carvel-conversion-tool)
+2. 🔱 Forked [MAHDTech/tkgm-customizations](https://github.com/MAHDTech/tkgm-customizations) from [vrabbi/tkgm-customizations](https://github.com/vrabbi/tkgm-customizations)
+3. ⭐ Starred [vrabbi/tap-gitops-demo](https://github.com/vrabbi/tap-gitops-demo)
+4. ⭐ Starred [vrabbi/tap-oss](https://github.com/vrabbi/tap-oss)
+5. ⭐ Starred [tanzu-end-to-end/tap-workshop](https://github.com/tanzu-end-to-end/tap-workshop)
+6. ⭐ Starred [rumart/tce-plex](https://github.com/rumart/tce-plex)
+7. ⭐ Starred [vrabbi/tkgm-customizations](https://github.com/vrabbi/tkgm-customizations)
+8. ⭐ Starred [vrabbi/cartographer-vsphere-vm-supply-chain](https://github.com/vrabbi/cartographer-vsphere-vm-supply-chain)
+9. ⭐ Starred [vrabbi/vsphere-packer-tap-demo](https://github.com/vrabbi/vsphere-packer-tap-demo)
+10. 🔱 Forked [MAHDTech/tanzu-application-platform-local-setup](https://github.com/MAHDTech/tanzu-application-platform-local-setup) from [xyloman/tanzu-application-platform-local-setup](https://github.com/xyloman/tanzu-application-platform-local-setup)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
