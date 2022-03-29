@@ -106,16 +106,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/vsphere-packer-tap-demo](https://github.com/MAHDTech/vsphere-packer-tap-demo) from [vrabbi/vsphere-packer-tap-demo](https://github.com/vrabbi/vsphere-packer-tap-demo)
-2. 🔱 Forked [MAHDTech/tce-customizations](https://github.com/MAHDTech/tce-customizations) from [TeraSky-OSS/tce-customizations](https://github.com/TeraSky-OSS/tce-customizations)
-3. ⭐ Starred [TeraSky-OSS/helm-to-carvel-conversion-tool](https://github.com/TeraSky-OSS/helm-to-carvel-conversion-tool)
-4. 🔱 Forked [MAHDTech/tkgm-customizations](https://github.com/MAHDTech/tkgm-customizations) from [vrabbi/tkgm-customizations](https://github.com/vrabbi/tkgm-customizations)
-5. ⭐ Starred [vrabbi/tap-gitops-demo](https://github.com/vrabbi/tap-gitops-demo)
-6. ⭐ Starred [vrabbi/tap-oss](https://github.com/vrabbi/tap-oss)
-7. ⭐ Starred [tanzu-end-to-end/tap-workshop](https://github.com/tanzu-end-to-end/tap-workshop)
-8. ⭐ Starred [rumart/tce-plex](https://github.com/rumart/tce-plex)
-9. ⭐ Starred [vrabbi/tkgm-customizations](https://github.com/vrabbi/tkgm-customizations)
-10. ⭐ Starred [vrabbi/cartographer-vsphere-vm-supply-chain](https://github.com/vrabbi/cartographer-vsphere-vm-supply-chain)
+1. 🔱 Forked [MAHDTech/docker-images](https://github.com/MAHDTech/docker-images) from [jieyu/docker-images](https://github.com/jieyu/docker-images)
+2. 🔱 Forked [MAHDTech/vsphere-packer-tap-demo](https://github.com/MAHDTech/vsphere-packer-tap-demo) from [vrabbi/vsphere-packer-tap-demo](https://github.com/vrabbi/vsphere-packer-tap-demo)
+3. 🔱 Forked [MAHDTech/tce-customizations](https://github.com/MAHDTech/tce-customizations) from [TeraSky-OSS/tce-customizations](https://github.com/TeraSky-OSS/tce-customizations)
+4. ⭐ Starred [TeraSky-OSS/helm-to-carvel-conversion-tool](https://github.com/TeraSky-OSS/helm-to-carvel-conversion-tool)
+5. 🔱 Forked [MAHDTech/tkgm-customizations](https://github.com/MAHDTech/tkgm-customizations) from [vrabbi/tkgm-customizations](https://github.com/vrabbi/tkgm-customizations)
+6. ⭐ Starred [vrabbi/tap-gitops-demo](https://github.com/vrabbi/tap-gitops-demo)
+7. ⭐ Starred [vrabbi/tap-oss](https://github.com/vrabbi/tap-oss)
+8. ⭐ Starred [tanzu-end-to-end/tap-workshop](https://github.com/tanzu-end-to-end/tap-workshop)
+9. ⭐ Starred [rumart/tce-plex](https://github.com/rumart/tce-plex)
+10. ⭐ Starred [vrabbi/tkgm-customizations](https://github.com/vrabbi/tkgm-customizations)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
