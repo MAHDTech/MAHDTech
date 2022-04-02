@@ -24,7 +24,6 @@
   <summary>Badges</summary>
 
 <!--START_SECTION:badges-->
-
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/30c7981e-3626-4917-a19b-50492750187e "CKA: Certified Kubernetes Administrator")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/83d81826-c25e-4853-81eb-bcf626f82257 "CKAD: Certified Kubernetes Application Developer")
 [![LFD259: Kubernetes for Developers](https://images.credly.com/size/110x110/images/5c15c611-e2dc-44ad-b39e-503bed8804c7/LF_logobadge.png)](http://www.credly.com/badges/5d889a6a-6b1c-4484-83f6-4d43185f4d24 "LFD259: Kubernetes for Developers")
