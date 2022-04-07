@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/harbor-appliance](https://github.com/MAHDTech/harbor-appliance) from [lamw/harbor-appliance](https://github.com/lamw/harbor-appliance)
-2. 🔱 Forked [MAHDTech/vsphere-with-tanzu-homelab-scripts](https://github.com/MAHDTech/vsphere-with-tanzu-homelab-scripts) from [lamw/vsphere-with-tanzu-homelab-scripts](https://github.com/lamw/vsphere-with-tanzu-homelab-scripts)
-3. 🔱 Forked [MAHDTech/docker-images](https://github.com/MAHDTech/docker-images) from [jieyu/docker-images](https://github.com/jieyu/docker-images)
-4. 🔱 Forked [MAHDTech/vsphere-packer-tap-demo](https://github.com/MAHDTech/vsphere-packer-tap-demo) from [vrabbi/vsphere-packer-tap-demo](https://github.com/vrabbi/vsphere-packer-tap-demo)
-5. 🔱 Forked [MAHDTech/tce-customizations](https://github.com/MAHDTech/tce-customizations) from [TeraSky-OSS/tce-customizations](https://github.com/TeraSky-OSS/tce-customizations)
-6. ⭐ Starred [TeraSky-OSS/helm-to-carvel-conversion-tool](https://github.com/TeraSky-OSS/helm-to-carvel-conversion-tool)
-7. 🔱 Forked [MAHDTech/tkgm-customizations](https://github.com/MAHDTech/tkgm-customizations) from [vrabbi/tkgm-customizations](https://github.com/vrabbi/tkgm-customizations)
-8. ⭐ Starred [vrabbi/tap-gitops-demo](https://github.com/vrabbi/tap-gitops-demo)
-9. ⭐ Starred [vrabbi/tap-oss](https://github.com/vrabbi/tap-oss)
-10. ⭐ Starred [tanzu-end-to-end/tap-workshop](https://github.com/tanzu-end-to-end/tap-workshop)
+1. ⭐ Starred [mehcode/config-rs](https://github.com/mehcode/config-rs)
+2. 🔱 Forked [MAHDTech/harbor-appliance](https://github.com/MAHDTech/harbor-appliance) from [lamw/harbor-appliance](https://github.com/lamw/harbor-appliance)
+3. 🔱 Forked [MAHDTech/vsphere-with-tanzu-homelab-scripts](https://github.com/MAHDTech/vsphere-with-tanzu-homelab-scripts) from [lamw/vsphere-with-tanzu-homelab-scripts](https://github.com/lamw/vsphere-with-tanzu-homelab-scripts)
+4. 🔱 Forked [MAHDTech/docker-images](https://github.com/MAHDTech/docker-images) from [jieyu/docker-images](https://github.com/jieyu/docker-images)
+5. 🔱 Forked [MAHDTech/vsphere-packer-tap-demo](https://github.com/MAHDTech/vsphere-packer-tap-demo) from [vrabbi/vsphere-packer-tap-demo](https://github.com/vrabbi/vsphere-packer-tap-demo)
+6. 🔱 Forked [MAHDTech/tce-customizations](https://github.com/MAHDTech/tce-customizations) from [TeraSky-OSS/tce-customizations](https://github.com/TeraSky-OSS/tce-customizations)
+7. ⭐ Starred [TeraSky-OSS/helm-to-carvel-conversion-tool](https://github.com/TeraSky-OSS/helm-to-carvel-conversion-tool)
+8. 🔱 Forked [MAHDTech/tkgm-customizations](https://github.com/MAHDTech/tkgm-customizations) from [vrabbi/tkgm-customizations](https://github.com/vrabbi/tkgm-customizations)
+9. ⭐ Starred [vrabbi/tap-gitops-demo](https://github.com/vrabbi/tap-gitops-demo)
+10. ⭐ Starred [vrabbi/tap-oss](https://github.com/vrabbi/tap-oss)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
