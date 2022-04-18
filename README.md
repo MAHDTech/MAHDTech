@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [logseq/logseq](https://github.com/logseq/logseq)
-2. ⭐ Starred [mehcode/config-rs](https://github.com/mehcode/config-rs)
-3. 🔱 Forked [MAHDTech/harbor-appliance](https://github.com/MAHDTech/harbor-appliance) from [lamw/harbor-appliance](https://github.com/lamw/harbor-appliance)
-4. 🔱 Forked [MAHDTech/vsphere-with-tanzu-homelab-scripts](https://github.com/MAHDTech/vsphere-with-tanzu-homelab-scripts) from [lamw/vsphere-with-tanzu-homelab-scripts](https://github.com/lamw/vsphere-with-tanzu-homelab-scripts)
-5. 🔱 Forked [MAHDTech/docker-images](https://github.com/MAHDTech/docker-images) from [jieyu/docker-images](https://github.com/jieyu/docker-images)
-6. 🔱 Forked [MAHDTech/vsphere-packer-tap-demo](https://github.com/MAHDTech/vsphere-packer-tap-demo) from [vrabbi/vsphere-packer-tap-demo](https://github.com/vrabbi/vsphere-packer-tap-demo)
-7. 🔱 Forked [MAHDTech/tce-customizations](https://github.com/MAHDTech/tce-customizations) from [TeraSky-OSS/tce-customizations](https://github.com/TeraSky-OSS/tce-customizations)
-8. ⭐ Starred [TeraSky-OSS/helm-to-carvel-conversion-tool](https://github.com/TeraSky-OSS/helm-to-carvel-conversion-tool)
-9. 🔱 Forked [MAHDTech/tkgm-customizations](https://github.com/MAHDTech/tkgm-customizations) from [vrabbi/tkgm-customizations](https://github.com/vrabbi/tkgm-customizations)
-10. ⭐ Starred [vrabbi/tap-gitops-demo](https://github.com/vrabbi/tap-gitops-demo)
+1. 🎉 Merged PR [#18](https://github.com/salt-labs/arweave-miner/pull/18) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+2. 💪 Opened PR [#18](https://github.com/salt-labs/arweave-miner/pull/18) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+3. 🎉 Merged PR [#17](https://github.com/salt-labs/arweave-miner/pull/17) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+4. 💪 Opened PR [#17](https://github.com/salt-labs/arweave-miner/pull/17) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+5. 🎉 Merged PR [#16](https://github.com/salt-labs/arweave-miner/pull/16) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+6. 💪 Opened PR [#16](https://github.com/salt-labs/arweave-miner/pull/16) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+7. 🎉 Merged PR [#15](https://github.com/salt-labs/arweave-miner/pull/15) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+8. 💪 Opened PR [#15](https://github.com/salt-labs/arweave-miner/pull/15) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+9. ⭐ Starred [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+10. ⭐ Starred [logseq/logseq](https://github.com/logseq/logseq)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
