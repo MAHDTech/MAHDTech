@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
-2. 🎉 Merged PR [#10](https://github.com/salt-labs/truenas-charts/pull/10) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-3. 💪 Opened PR [#10](https://github.com/salt-labs/truenas-charts/pull/10) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-4. 🎉 Merged PR [#9](https://github.com/salt-labs/truenas-charts/pull/9) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-5. 💪 Opened PR [#9](https://github.com/salt-labs/truenas-charts/pull/9) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-6. 🎉 Merged PR [#18](https://github.com/salt-labs/arweave-miner/pull/18) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-7. 💪 Opened PR [#18](https://github.com/salt-labs/arweave-miner/pull/18) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-8. 🎉 Merged PR [#17](https://github.com/salt-labs/arweave-miner/pull/17) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-9. 💪 Opened PR [#17](https://github.com/salt-labs/arweave-miner/pull/17) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-10. 🎉 Merged PR [#16](https://github.com/salt-labs/arweave-miner/pull/16) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+1. ⭐ Starred [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates)
+2. ⭐ Starred [zeljkoobrenovic/sokrates-oss-landscape-analysis](https://github.com/zeljkoobrenovic/sokrates-oss-landscape-analysis)
+3. ⭐ Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)
+4. ⭐ Starred [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
+5. 🎉 Merged PR [#10](https://github.com/salt-labs/truenas-charts/pull/10) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+6. 💪 Opened PR [#10](https://github.com/salt-labs/truenas-charts/pull/10) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+7. 🎉 Merged PR [#9](https://github.com/salt-labs/truenas-charts/pull/9) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+8. 💪 Opened PR [#9](https://github.com/salt-labs/truenas-charts/pull/9) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+9. 🎉 Merged PR [#18](https://github.com/salt-labs/arweave-miner/pull/18) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+10. 💪 Opened PR [#18](https://github.com/salt-labs/arweave-miner/pull/18) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
