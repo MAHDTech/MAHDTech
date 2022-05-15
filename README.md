@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates)
-2. ⭐ Starred [zeljkoobrenovic/sokrates-oss-landscape-analysis](https://github.com/zeljkoobrenovic/sokrates-oss-landscape-analysis)
-3. ⭐ Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)
-4. ⭐ Starred [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
-5. 🎉 Merged PR [#10](https://github.com/salt-labs/truenas-charts/pull/10) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-6. 💪 Opened PR [#10](https://github.com/salt-labs/truenas-charts/pull/10) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-7. 🎉 Merged PR [#9](https://github.com/salt-labs/truenas-charts/pull/9) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-8. 💪 Opened PR [#9](https://github.com/salt-labs/truenas-charts/pull/9) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-9. 🎉 Merged PR [#18](https://github.com/salt-labs/arweave-miner/pull/18) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-10. 💪 Opened PR [#18](https://github.com/salt-labs/arweave-miner/pull/18) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+1. 💪 Opened PR [#20](https://github.com/salt-labs/arweave-miner/pull/20) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+2. 🎉 Merged PR [#19](https://github.com/salt-labs/arweave-miner/pull/19) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+3. 💪 Opened PR [#11](https://github.com/salt-labs/truenas-charts/pull/11) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+4. 💪 Opened PR [#19](https://github.com/salt-labs/arweave-miner/pull/19) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+5. ⭐ Starred [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates)
+6. ⭐ Starred [zeljkoobrenovic/sokrates-oss-landscape-analysis](https://github.com/zeljkoobrenovic/sokrates-oss-landscape-analysis)
+7. ⭐ Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)
+8. ⭐ Starred [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
+9. 🎉 Merged PR [#10](https://github.com/salt-labs/truenas-charts/pull/10) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+10. 💪 Opened PR [#10](https://github.com/salt-labs/truenas-charts/pull/10) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
