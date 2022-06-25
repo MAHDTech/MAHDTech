@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coretech/terrafile](https://github.com/coretech/terrafile)
-2. 🔱 Forked [MAHDTech/portal](https://github.com/MAHDTech/portal) from [dfinity/portal](https://github.com/dfinity/portal)
-3. ⭐ Starred [gmarmstrong/dotfiles](https://github.com/gmarmstrong/dotfiles)
-4. ❗️ Opened issue [#32](https://github.com/zeljkoobrenovic/sokrates/issues/32) in [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates)
-5. 💪 Opened PR [#20](https://github.com/salt-labs/arweave-miner/pull/20) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-6. 🎉 Merged PR [#19](https://github.com/salt-labs/arweave-miner/pull/19) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-7. 💪 Opened PR [#11](https://github.com/salt-labs/truenas-charts/pull/11) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
-8. 💪 Opened PR [#19](https://github.com/salt-labs/arweave-miner/pull/19) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
-9. ⭐ Starred [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates)
-10. ⭐ Starred [zeljkoobrenovic/sokrates-oss-landscape-analysis](https://github.com/zeljkoobrenovic/sokrates-oss-landscape-analysis)
+1. ❗️ Opened issue [#57](https://github.com/convco/convco/issues/57) in [convco/convco](https://github.com/convco/convco)
+2. ⭐ Starred [convco/convco](https://github.com/convco/convco)
+3. ⭐ Starred [coretech/terrafile](https://github.com/coretech/terrafile)
+4. 🔱 Forked [MAHDTech/portal](https://github.com/MAHDTech/portal) from [dfinity/portal](https://github.com/dfinity/portal)
+5. ⭐ Starred [gmarmstrong/dotfiles](https://github.com/gmarmstrong/dotfiles)
+6. ❗️ Opened issue [#32](https://github.com/zeljkoobrenovic/sokrates/issues/32) in [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates)
+7. 💪 Opened PR [#20](https://github.com/salt-labs/arweave-miner/pull/20) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+8. 🎉 Merged PR [#19](https://github.com/salt-labs/arweave-miner/pull/19) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
+9. 💪 Opened PR [#11](https://github.com/salt-labs/truenas-charts/pull/11) in [salt-labs/truenas-charts](https://github.com/salt-labs/truenas-charts)
+10. 💪 Opened PR [#19](https://github.com/salt-labs/arweave-miner/pull/19) in [salt-labs/arweave-miner](https://github.com/salt-labs/arweave-miner)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
