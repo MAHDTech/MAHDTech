@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Gabriella439/terraform-nixos-ng](https://github.com/Gabriella439/terraform-nixos-ng)
-2. ⭐ Starred [pop-os/cosmic-comp](https://github.com/pop-os/cosmic-comp)
-3. ⭐ Starred [vmware-tanzu/service-installer-for-vmware-tanzu](https://github.com/vmware-tanzu/service-installer-for-vmware-tanzu)
-4. ⭐ Starred [mcdonc/p51-thinkpad-nixos](https://github.com/mcdonc/p51-thinkpad-nixos)
-5. ⭐ Starred [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config)
-6. ⭐ Starred [papyrs/papyrs](https://github.com/papyrs/papyrs)
-7. 🔱 Forked [MAHDTech/knowledge-garden](https://github.com/MAHDTech/knowledge-garden) from [pengx17/knowledge-garden](https://github.com/pengx17/knowledge-garden)
-8. ⭐ Starred [pengx17/knowledge-garden](https://github.com/pengx17/knowledge-garden)
-9. 🔱 Forked [MAHDTech/helm-to-carvel-conversion-tool](https://github.com/MAHDTech/helm-to-carvel-conversion-tool) from [TeraSky-OSS/helm-to-carvel-conversion-tool](https://github.com/TeraSky-OSS/helm-to-carvel-conversion-tool)
-10. 🔱 Forked [MAHDTech/tap-oss](https://github.com/MAHDTech/tap-oss) from [vrabbi/tap-oss](https://github.com/vrabbi/tap-oss)
+1. 🔱 Forked [MAHDTech/nixos-installer-go](https://github.com/MAHDTech/nixos-installer-go) from [kirillrdy/nixos-installer](https://github.com/kirillrdy/nixos-installer)
+2. 📔 Created new repository [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+3. ⭐ Starred [Gabriella439/terraform-nixos-ng](https://github.com/Gabriella439/terraform-nixos-ng)
+4. ⭐ Starred [pop-os/cosmic-comp](https://github.com/pop-os/cosmic-comp)
+5. ⭐ Starred [vmware-tanzu/service-installer-for-vmware-tanzu](https://github.com/vmware-tanzu/service-installer-for-vmware-tanzu)
+6. ⭐ Starred [mcdonc/p51-thinkpad-nixos](https://github.com/mcdonc/p51-thinkpad-nixos)
+7. ⭐ Starred [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config)
+8. ⭐ Starred [papyrs/papyrs](https://github.com/papyrs/papyrs)
+9. 🔱 Forked [MAHDTech/knowledge-garden](https://github.com/MAHDTech/knowledge-garden) from [pengx17/knowledge-garden](https://github.com/pengx17/knowledge-garden)
+10. ⭐ Starred [pengx17/knowledge-garden](https://github.com/pengx17/knowledge-garden)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
