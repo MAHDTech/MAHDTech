@@ -105,7 +105,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/nixos-installer-go](https://github.com/MAHDTech/nixos-installer-go) from [kirillrdy/nixos-installer](https://github.com/kirillrdy/nixos-installer)
+1. ⭐ Starred [tazjin/nix-1p](https://github.com/tazjin/nix-1p)
 2. 📔 Created new repository [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
 3. ⭐ Starred [Gabriella439/terraform-nixos-ng](https://github.com/Gabriella439/terraform-nixos-ng)
 4. ⭐ Starred [pop-os/cosmic-comp](https://github.com/pop-os/cosmic-comp)
