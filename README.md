@@ -105,9 +105,9 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#72](https://github.com/nerdypepper/statix/issues/72) in [nerdypepper/statix](https://github.com/nerdypepper/statix)
-2. ⭐ Starred [tazjin/nix-1p](https://github.com/tazjin/nix-1p)
-3. ⭐ Starred [Gabriella439/terraform-nixos-ng](https://github.com/Gabriella439/terraform-nixos-ng)
+1. ✔️ Closed issue [#72](https://github.com/nerdypepper/statix/issues/72) in [nerdypepper/statix](https://github.com/nerdypepper/statix)
+2. ❗️ Opened issue [#72](https://github.com/nerdypepper/statix/issues/72) in [nerdypepper/statix](https://github.com/nerdypepper/statix)
+3. ⭐ Starred [tazjin/nix-1p](https://github.com/tazjin/nix-1p)
 4. ⭐ Starred [pop-os/cosmic-comp](https://github.com/pop-os/cosmic-comp)
 5. ⭐ Starred [vmware-tanzu/service-installer-for-vmware-tanzu](https://github.com/vmware-tanzu/service-installer-for-vmware-tanzu)
 6. ⭐ Starred [mcdonc/p51-thinkpad-nixos](https://github.com/mcdonc/p51-thinkpad-nixos)
