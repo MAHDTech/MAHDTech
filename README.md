@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#74](https://github.com/nerdypepper/statix/issues/74) in [nerdypepper/statix](https://github.com/nerdypepper/statix)
-2. ✔️ Closed issue [#72](https://github.com/nerdypepper/statix/issues/72) in [nerdypepper/statix](https://github.com/nerdypepper/statix)
-3. ❗️ Opened issue [#72](https://github.com/nerdypepper/statix/issues/72) in [nerdypepper/statix](https://github.com/nerdypepper/statix)
-4. ⭐ Starred [tazjin/nix-1p](https://github.com/tazjin/nix-1p)
-5. ⭐ Starred [vmware-tanzu/service-installer-for-vmware-tanzu](https://github.com/vmware-tanzu/service-installer-for-vmware-tanzu)
-6. ⭐ Starred [mcdonc/p51-thinkpad-nixos](https://github.com/mcdonc/p51-thinkpad-nixos)
-7. ⭐ Starred [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config)
-8. ⭐ Starred [papyrs/papyrs](https://github.com/papyrs/papyrs)
-9. 🔱 Forked [MAHDTech/knowledge-garden](https://github.com/MAHDTech/knowledge-garden) from [pengx17/knowledge-garden](https://github.com/pengx17/knowledge-garden)
-10. ⭐ Starred [pengx17/knowledge-garden](https://github.com/pengx17/knowledge-garden)
+1. 🎉 Merged PR [#11](https://github.com/salt-labs/website/pull/11) in [salt-labs/website](https://github.com/salt-labs/website)
+2. 💪 Opened PR [#11](https://github.com/salt-labs/website/pull/11) in [salt-labs/website](https://github.com/salt-labs/website)
+3. ✔️ Closed issue [#10](https://github.com/salt-labs/website/issues/10) in [salt-labs/website](https://github.com/salt-labs/website)
+4. ❗️ Opened issue [#10](https://github.com/salt-labs/website/issues/10) in [salt-labs/website](https://github.com/salt-labs/website)
+5. 🎉 Merged PR [#8](https://github.com/MAHDTech/website/pull/8) in [MAHDTech/website](https://github.com/MAHDTech/website)
+6. 💪 Opened PR [#8](https://github.com/MAHDTech/website/pull/8) in [MAHDTech/website](https://github.com/MAHDTech/website)
+7. 🎉 Merged PR [#7](https://github.com/MAHDTech/website/pull/7) in [MAHDTech/website](https://github.com/MAHDTech/website)
+8. 💪 Opened PR [#7](https://github.com/MAHDTech/website/pull/7) in [MAHDTech/website](https://github.com/MAHDTech/website)
+9. ✔️ Closed issue [#2](https://github.com/MAHDTech/website/issues/2) in [MAHDTech/website](https://github.com/MAHDTech/website)
+10. 🎉 Merged PR [#6](https://github.com/MAHDTech/website/pull/6) in [MAHDTech/website](https://github.com/MAHDTech/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
