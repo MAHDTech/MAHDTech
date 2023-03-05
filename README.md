@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Nelyx/action-calver](https://github.com/Nelyx/action-calver)
-2. 💪 Opened PR [#1](https://github.com/salt-labs/action-ship-it/pull/1) in [salt-labs/action-ship-it](https://github.com/salt-labs/action-ship-it)
-3. 📔 Created new repository [salt-labs/action-ship-it](https://github.com/salt-labs/action-ship-it)
-4. 🎉 Merged PR [#12](https://github.com/salt-labs/website/pull/12) in [salt-labs/website](https://github.com/salt-labs/website)
-5. 💪 Opened PR [#12](https://github.com/salt-labs/website/pull/12) in [salt-labs/website](https://github.com/salt-labs/website)
-6. 🎉 Merged PR [#11](https://github.com/salt-labs/website/pull/11) in [salt-labs/website](https://github.com/salt-labs/website)
-7. 💪 Opened PR [#11](https://github.com/salt-labs/website/pull/11) in [salt-labs/website](https://github.com/salt-labs/website)
-8. ✔️ Closed issue [#10](https://github.com/salt-labs/website/issues/10) in [salt-labs/website](https://github.com/salt-labs/website)
-9. ❗️ Opened issue [#10](https://github.com/salt-labs/website/issues/10) in [salt-labs/website](https://github.com/salt-labs/website)
-10. 🎉 Merged PR [#8](https://github.com/MAHDTech/website/pull/8) in [MAHDTech/website](https://github.com/MAHDTech/website)
+1. 💪 Opened PR [#2](https://github.com/MAHDTech/nix-config/pull/2) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+2. 🎉 Merged PR [#5](https://github.com/salt-labs/containers/pull/5) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. 💪 Opened PR [#5](https://github.com/salt-labs/containers/pull/5) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 🎉 Merged PR [#4](https://github.com/salt-labs/containers/pull/4) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. ⭐ Starred [snok/container-retention-policy](https://github.com/snok/container-retention-policy)
+6. 💪 Opened PR [#4](https://github.com/salt-labs/containers/pull/4) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. ⭐ Starred [SmartsquareGmbH/delete-old-packages](https://github.com/SmartsquareGmbH/delete-old-packages)
+8. 🎉 Merged PR [#3](https://github.com/salt-labs/containers/pull/3) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. 💪 Opened PR [#3](https://github.com/salt-labs/containers/pull/3) in [salt-labs/containers](https://github.com/salt-labs/containers)
+10. 🎉 Merged PR [#2](https://github.com/salt-labs/containers/pull/2) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
