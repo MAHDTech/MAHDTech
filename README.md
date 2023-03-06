@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/MAHDTech/nix-config/pull/2) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-2. 🎉 Merged PR [#5](https://github.com/salt-labs/containers/pull/5) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 💪 Opened PR [#5](https://github.com/salt-labs/containers/pull/5) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 🎉 Merged PR [#4](https://github.com/salt-labs/containers/pull/4) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. ⭐ Starred [snok/container-retention-policy](https://github.com/snok/container-retention-policy)
-6. 💪 Opened PR [#4](https://github.com/salt-labs/containers/pull/4) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. ⭐ Starred [SmartsquareGmbH/delete-old-packages](https://github.com/SmartsquareGmbH/delete-old-packages)
-8. 🎉 Merged PR [#3](https://github.com/salt-labs/containers/pull/3) in [salt-labs/containers](https://github.com/salt-labs/containers)
-9. 💪 Opened PR [#3](https://github.com/salt-labs/containers/pull/3) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 🎉 Merged PR [#2](https://github.com/salt-labs/containers/pull/2) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. ⭐ Starred [benchkram/bob](https://github.com/benchkram/bob)
+2. ❌ Closed PR [#2](https://github.com/MAHDTech/nix-config/pull/2) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+3. 💪 Opened PR [#2](https://github.com/MAHDTech/nix-config/pull/2) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+4. 🎉 Merged PR [#5](https://github.com/salt-labs/containers/pull/5) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. 💪 Opened PR [#5](https://github.com/salt-labs/containers/pull/5) in [salt-labs/containers](https://github.com/salt-labs/containers)
+6. 🎉 Merged PR [#4](https://github.com/salt-labs/containers/pull/4) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. ⭐ Starred [snok/container-retention-policy](https://github.com/snok/container-retention-policy)
+8. 💪 Opened PR [#4](https://github.com/salt-labs/containers/pull/4) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. ⭐ Starred [SmartsquareGmbH/delete-old-packages](https://github.com/SmartsquareGmbH/delete-old-packages)
+10. 🎉 Merged PR [#3](https://github.com/salt-labs/containers/pull/3) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
