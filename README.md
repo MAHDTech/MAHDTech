@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [itsmelion/laserwave](https://github.com/itsmelion/laserwave)
-2. 🎉 Merged PR [#9](https://github.com/salt-labs/action-its-shipping-time/pull/9) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
-3. 🎉 Merged PR [#10](https://github.com/salt-labs/action-its-shipping-time/pull/10) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
-4. 💪 Opened PR [#10](https://github.com/salt-labs/action-its-shipping-time/pull/10) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
-5. ⭐ Starred [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
-6. 🎉 Merged PR [#10](https://github.com/salt-labs/containers/pull/10) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. 🎉 Merged PR [#9](https://github.com/salt-labs/containers/pull/9) in [salt-labs/containers](https://github.com/salt-labs/containers)
-8. 👍 Approved [#9](https://github.com/salt-labs/containers/pull/9#pullrequestreview-1338845213) in [salt-labs/containers](https://github.com/salt-labs/containers)
-9. 🎉 Merged PR [#7](https://github.com/salt-labs/containers/pull/7) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 🎉 Merged PR [#8](https://github.com/salt-labs/containers/pull/8) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. ⭐ Starred [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+2. ⭐ Starred [itsmelion/laserwave](https://github.com/itsmelion/laserwave)
+3. 🎉 Merged PR [#9](https://github.com/salt-labs/action-its-shipping-time/pull/9) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
+4. 🎉 Merged PR [#10](https://github.com/salt-labs/action-its-shipping-time/pull/10) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
+5. 💪 Opened PR [#10](https://github.com/salt-labs/action-its-shipping-time/pull/10) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
+6. ⭐ Starred [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
+7. 🎉 Merged PR [#10](https://github.com/salt-labs/containers/pull/10) in [salt-labs/containers](https://github.com/salt-labs/containers)
+8. 🎉 Merged PR [#9](https://github.com/salt-labs/containers/pull/9) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. 👍 Approved [#9](https://github.com/salt-labs/containers/pull/9#pullrequestreview-1338845213) in [salt-labs/containers](https://github.com/salt-labs/containers)
+10. 🎉 Merged PR [#7](https://github.com/salt-labs/containers/pull/7) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
