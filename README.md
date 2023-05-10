@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
-2. ⭐ Starred [motoko-bootcamp/motoko-starter](https://github.com/motoko-bootcamp/motoko-starter)
-3. 🔱 Forked [MAHDTech/ic-utils](https://github.com/MAHDTech/ic-utils) from [ninegua/ic-utils](https://github.com/ninegua/ic-utils)
-4. ⭐ Starred [ninegua/ic-utils](https://github.com/ninegua/ic-utils)
-5. 🔱 Forked [MAHDTech/ic-blackhole](https://github.com/MAHDTech/ic-blackhole) from [ninegua/ic-blackhole](https://github.com/ninegua/ic-blackhole)
-6. ⭐ Starred [ninegua/ic-blackhole](https://github.com/ninegua/ic-blackhole)
-7. ⭐ Starred [ninegua/ic-nix](https://github.com/ninegua/ic-nix)
-8. 📔 Created new repository [MAHDTech/mbc2023-enrollment](https://github.com/MAHDTech/mbc2023-enrollment)
-9. 💪 Opened PR [#20](https://github.com/salt-labs/containers/pull/20) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 🔱 Forked [MAHDTech/graphistry-helm](https://github.com/MAHDTech/graphistry-helm) from [graphistry/graphistry-helm](https://github.com/graphistry/graphistry-helm)
+1. 🔱 Forked [MAHDTech/Dapp_GoogleKeepNotes](https://github.com/MAHDTech/Dapp_GoogleKeepNotes) from [N-dcool/Dapp_GoogleKeepNotes](https://github.com/N-dcool/Dapp_GoogleKeepNotes)
+2. ⭐ Starred [N-dcool/Dapp_GoogleKeepNotes](https://github.com/N-dcool/Dapp_GoogleKeepNotes)
+3. ⭐ Starred [buildwithjuno/examples](https://github.com/buildwithjuno/examples)
+4. ⭐ Starred [buildwithjuno/juno](https://github.com/buildwithjuno/juno)
+5. ⭐ Starred [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+6. ⭐ Starred [motoko-bootcamp/motoko-starter](https://github.com/motoko-bootcamp/motoko-starter)
+7. 🔱 Forked [MAHDTech/ic-utils](https://github.com/MAHDTech/ic-utils) from [ninegua/ic-utils](https://github.com/ninegua/ic-utils)
+8. ⭐ Starred [ninegua/ic-utils](https://github.com/ninegua/ic-utils)
+9. 🔱 Forked [MAHDTech/ic-blackhole](https://github.com/MAHDTech/ic-blackhole) from [ninegua/ic-blackhole](https://github.com/ninegua/ic-blackhole)
+10. ⭐ Starred [ninegua/ic-blackhole](https://github.com/ninegua/ic-blackhole)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
