@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/Dapp_GoogleKeepNotes](https://github.com/MAHDTech/Dapp_GoogleKeepNotes) from [N-dcool/Dapp_GoogleKeepNotes](https://github.com/N-dcool/Dapp_GoogleKeepNotes)
-2. ⭐ Starred [N-dcool/Dapp_GoogleKeepNotes](https://github.com/N-dcool/Dapp_GoogleKeepNotes)
-3. ⭐ Starred [buildwithjuno/examples](https://github.com/buildwithjuno/examples)
-4. ⭐ Starred [buildwithjuno/juno](https://github.com/buildwithjuno/juno)
-5. ⭐ Starred [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
-6. ⭐ Starred [motoko-bootcamp/motoko-starter](https://github.com/motoko-bootcamp/motoko-starter)
-7. 🔱 Forked [MAHDTech/ic-utils](https://github.com/MAHDTech/ic-utils) from [ninegua/ic-utils](https://github.com/ninegua/ic-utils)
-8. ⭐ Starred [ninegua/ic-utils](https://github.com/ninegua/ic-utils)
-9. 🔱 Forked [MAHDTech/ic-blackhole](https://github.com/MAHDTech/ic-blackhole) from [ninegua/ic-blackhole](https://github.com/ninegua/ic-blackhole)
-10. ⭐ Starred [ninegua/ic-blackhole](https://github.com/ninegua/ic-blackhole)
+1. 💪 Opened PR [#3](https://github.com/motoko-bootcamp/motoko-starter-template/pull/3) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+2. ❗️ Opened issue [#2](https://github.com/motoko-bootcamp/motoko-starter-template/issues/2) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+3. 🔱 Forked [MAHDTech/motoko-starter-template](https://github.com/MAHDTech/motoko-starter-template) from [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+4. 🔱 Forked [MAHDTech/Dapp_GoogleKeepNotes](https://github.com/MAHDTech/Dapp_GoogleKeepNotes) from [N-dcool/Dapp_GoogleKeepNotes](https://github.com/N-dcool/Dapp_GoogleKeepNotes)
+5. ⭐ Starred [N-dcool/Dapp_GoogleKeepNotes](https://github.com/N-dcool/Dapp_GoogleKeepNotes)
+6. ⭐ Starred [buildwithjuno/examples](https://github.com/buildwithjuno/examples)
+7. ⭐ Starred [buildwithjuno/juno](https://github.com/buildwithjuno/juno)
+8. ⭐ Starred [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+9. ⭐ Starred [motoko-bootcamp/motoko-starter](https://github.com/motoko-bootcamp/motoko-starter)
+10. 🔱 Forked [MAHDTech/ic-utils](https://github.com/MAHDTech/ic-utils) from [ninegua/ic-utils](https://github.com/ninegua/ic-utils)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
