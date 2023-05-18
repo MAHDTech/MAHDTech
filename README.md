@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2](https://github.com/motoko-bootcamp/motoko-starter-template/issues/2) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
-2. ❌ Closed PR [#3](https://github.com/motoko-bootcamp/motoko-starter-template/pull/3) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
-3. 💪 Opened PR [#3](https://github.com/motoko-bootcamp/motoko-starter-template/pull/3) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
-4. ❗️ Opened issue [#2](https://github.com/motoko-bootcamp/motoko-starter-template/issues/2) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
-5. 🔱 Forked [MAHDTech/motoko-starter-template](https://github.com/MAHDTech/motoko-starter-template) from [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
-6. 🔱 Forked [MAHDTech/Dapp_GoogleKeepNotes](https://github.com/MAHDTech/Dapp_GoogleKeepNotes) from [N-dcool/Dapp_GoogleKeepNotes](https://github.com/N-dcool/Dapp_GoogleKeepNotes)
-7. ⭐ Starred [N-dcool/Dapp_GoogleKeepNotes](https://github.com/N-dcool/Dapp_GoogleKeepNotes)
-8. ⭐ Starred [buildwithjuno/examples](https://github.com/buildwithjuno/examples)
-9. ⭐ Starred [buildwithjuno/juno](https://github.com/buildwithjuno/juno)
-10. ⭐ Starred [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+1. 🎉 Merged PR [#21](https://github.com/salt-labs/containers/pull/21) in [salt-labs/containers](https://github.com/salt-labs/containers)
+2. ✔️ Closed issue [#2](https://github.com/motoko-bootcamp/motoko-starter-template/issues/2) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+3. ❌ Closed PR [#3](https://github.com/motoko-bootcamp/motoko-starter-template/pull/3) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+4. 💪 Opened PR [#3](https://github.com/motoko-bootcamp/motoko-starter-template/pull/3) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+5. ❗️ Opened issue [#2](https://github.com/motoko-bootcamp/motoko-starter-template/issues/2) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+6. 🔱 Forked [MAHDTech/motoko-starter-template](https://github.com/MAHDTech/motoko-starter-template) from [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+7. 🔱 Forked [MAHDTech/Dapp_GoogleKeepNotes](https://github.com/MAHDTech/Dapp_GoogleKeepNotes) from [N-dcool/Dapp_GoogleKeepNotes](https://github.com/N-dcool/Dapp_GoogleKeepNotes)
+8. ⭐ Starred [N-dcool/Dapp_GoogleKeepNotes](https://github.com/N-dcool/Dapp_GoogleKeepNotes)
+9. ⭐ Starred [buildwithjuno/examples](https://github.com/buildwithjuno/examples)
+10. ⭐ Starred [buildwithjuno/juno](https://github.com/buildwithjuno/juno)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
