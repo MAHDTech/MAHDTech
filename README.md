@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#22](https://github.com/salt-labs/containers/pull/22) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 💪 Opened PR [#22](https://github.com/salt-labs/containers/pull/22) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 🎉 Merged PR [#5](https://github.com/MAHDTech/nix-config/pull/5) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-4. 🎉 Merged PR [#20](https://github.com/salt-labs/containers/pull/20) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. 🎉 Merged PR [#21](https://github.com/salt-labs/containers/pull/21) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. ✔️ Closed issue [#2](https://github.com/motoko-bootcamp/motoko-starter-template/issues/2) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
-7. ❌ Closed PR [#3](https://github.com/motoko-bootcamp/motoko-starter-template/pull/3) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
-8. 💪 Opened PR [#3](https://github.com/motoko-bootcamp/motoko-starter-template/pull/3) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
-9. ❗️ Opened issue [#2](https://github.com/motoko-bootcamp/motoko-starter-template/issues/2) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
-10. 🔱 Forked [MAHDTech/motoko-starter-template](https://github.com/MAHDTech/motoko-starter-template) from [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+1. ⭐ Starred [lapce/lapce](https://github.com/lapce/lapce)
+2. 🎉 Merged PR [#22](https://github.com/salt-labs/containers/pull/22) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. 💪 Opened PR [#22](https://github.com/salt-labs/containers/pull/22) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 🎉 Merged PR [#5](https://github.com/MAHDTech/nix-config/pull/5) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+5. 🎉 Merged PR [#20](https://github.com/salt-labs/containers/pull/20) in [salt-labs/containers](https://github.com/salt-labs/containers)
+6. 🎉 Merged PR [#21](https://github.com/salt-labs/containers/pull/21) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. ✔️ Closed issue [#2](https://github.com/motoko-bootcamp/motoko-starter-template/issues/2) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+8. ❌ Closed PR [#3](https://github.com/motoko-bootcamp/motoko-starter-template/pull/3) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+9. 💪 Opened PR [#3](https://github.com/motoko-bootcamp/motoko-starter-template/pull/3) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
+10. ❗️ Opened issue [#2](https://github.com/motoko-bootcamp/motoko-starter-template/issues/2) in [motoko-bootcamp/motoko-starter-template](https://github.com/motoko-bootcamp/motoko-starter-template)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
