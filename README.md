@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4](https://github.com/salt-labs/loopy/pull/4) in [salt-labs/loopy](https://github.com/salt-labs/loopy)
-2. 🎉 Merged PR [#2](https://github.com/salt-labs/loopy/pull/2) in [salt-labs/loopy](https://github.com/salt-labs/loopy)
-3. 💪 Opened PR [#24](https://github.com/salt-labs/containers/pull/24) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 🎉 Merged PR [#19](https://github.com/salt-labs/action-its-shipping-time/pull/19) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
-5. 💪 Opened PR [#19](https://github.com/salt-labs/action-its-shipping-time/pull/19) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
-6. 🎉 Merged PR [#18](https://github.com/salt-labs/action-its-shipping-time/pull/18) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
-7. 💪 Opened PR [#18](https://github.com/salt-labs/action-its-shipping-time/pull/18) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
-8. 🎉 Merged PR [#17](https://github.com/salt-labs/action-its-shipping-time/pull/17) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
-9. 🎉 Merged PR [#23](https://github.com/salt-labs/containers/pull/23) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 💪 Opened PR [#23](https://github.com/salt-labs/containers/pull/23) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. ⭐ Starred [vmware-tanzu-labs/tdc-carvel-examples](https://github.com/vmware-tanzu-labs/tdc-carvel-examples)
+2. 💪 Opened PR [#4](https://github.com/salt-labs/loopy/pull/4) in [salt-labs/loopy](https://github.com/salt-labs/loopy)
+3. 🎉 Merged PR [#2](https://github.com/salt-labs/loopy/pull/2) in [salt-labs/loopy](https://github.com/salt-labs/loopy)
+4. 💪 Opened PR [#24](https://github.com/salt-labs/containers/pull/24) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. 🎉 Merged PR [#19](https://github.com/salt-labs/action-its-shipping-time/pull/19) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
+6. 💪 Opened PR [#19](https://github.com/salt-labs/action-its-shipping-time/pull/19) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
+7. 🎉 Merged PR [#18](https://github.com/salt-labs/action-its-shipping-time/pull/18) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
+8. 💪 Opened PR [#18](https://github.com/salt-labs/action-its-shipping-time/pull/18) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
+9. 🎉 Merged PR [#17](https://github.com/salt-labs/action-its-shipping-time/pull/17) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
+10. 🎉 Merged PR [#23](https://github.com/salt-labs/containers/pull/23) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
