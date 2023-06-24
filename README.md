@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-2. 🔱 Forked [MAHDTech/LD46](https://github.com/MAHDTech/LD46) from [kettle11/LD46](https://github.com/kettle11/LD46)
-3. ⭐ Starred [kettle11/LD46](https://github.com/kettle11/LD46)
-4. 🎉 Merged PR [#6](https://github.com/MAHDTech/nix-config/pull/6) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-5. 👍 Approved [#6](https://github.com/MAHDTech/nix-config/pull/6#pullrequestreview-1482565551) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-6. ⭐ Starred [vmware-tanzu-labs/tdc-carvel-examples](https://github.com/vmware-tanzu-labs/tdc-carvel-examples)
-7. 💪 Opened PR [#4](https://github.com/salt-labs/loopy/pull/4) in [salt-labs/loopy](https://github.com/salt-labs/loopy)
-8. 🎉 Merged PR [#2](https://github.com/salt-labs/loopy/pull/2) in [salt-labs/loopy](https://github.com/salt-labs/loopy)
-9. 💪 Opened PR [#24](https://github.com/salt-labs/containers/pull/24) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 🎉 Merged PR [#19](https://github.com/salt-labs/action-its-shipping-time/pull/19) in [salt-labs/action-its-shipping-time](https://github.com/salt-labs/action-its-shipping-time)
+1. 🎉 Merged PR [#3](https://github.com/salt-labs/linters/pull/3) in [salt-labs/linters](https://github.com/salt-labs/linters)
+2. 💪 Opened PR [#3](https://github.com/salt-labs/linters/pull/3) in [salt-labs/linters](https://github.com/salt-labs/linters)
+3. ⭐ Starred [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+4. 🔱 Forked [MAHDTech/LD46](https://github.com/MAHDTech/LD46) from [kettle11/LD46](https://github.com/kettle11/LD46)
+5. ⭐ Starred [kettle11/LD46](https://github.com/kettle11/LD46)
+6. 🎉 Merged PR [#6](https://github.com/MAHDTech/nix-config/pull/6) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+7. 👍 Approved [#6](https://github.com/MAHDTech/nix-config/pull/6#pullrequestreview-1482565551) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+8. ⭐ Starred [vmware-tanzu-labs/tdc-carvel-examples](https://github.com/vmware-tanzu-labs/tdc-carvel-examples)
+9. 💪 Opened PR [#4](https://github.com/salt-labs/loopy/pull/4) in [salt-labs/loopy](https://github.com/salt-labs/loopy)
+10. 🎉 Merged PR [#2](https://github.com/salt-labs/loopy/pull/2) in [salt-labs/loopy](https://github.com/salt-labs/loopy)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
