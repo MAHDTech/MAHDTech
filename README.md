@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/salt-labs/docs/pull/8) in [salt-labs/docs](https://github.com/salt-labs/docs)
-2. ❗️ Opened issue [#1338](https://github.com/openshift-pipelines/pipelines-as-code/issues/1338) in [openshift-pipelines/pipelines-as-code](https://github.com/openshift-pipelines/pipelines-as-code)
-3. 🎉 Merged PR [#3](https://github.com/salt-labs/linters/pull/3) in [salt-labs/linters](https://github.com/salt-labs/linters)
-4. 💪 Opened PR [#3](https://github.com/salt-labs/linters/pull/3) in [salt-labs/linters](https://github.com/salt-labs/linters)
-5. ⭐ Starred [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-6. 🔱 Forked [MAHDTech/LD46](https://github.com/MAHDTech/LD46) from [kettle11/LD46](https://github.com/kettle11/LD46)
-7. ⭐ Starred [kettle11/LD46](https://github.com/kettle11/LD46)
-8. 🎉 Merged PR [#6](https://github.com/MAHDTech/nix-config/pull/6) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-9. 👍 Approved [#6](https://github.com/MAHDTech/nix-config/pull/6#pullrequestreview-1482565551) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-10. ⭐ Starred [vmware-tanzu-labs/tdc-carvel-examples](https://github.com/vmware-tanzu-labs/tdc-carvel-examples)
+1. 💪 Opened PR [#9](https://github.com/salt-labs/docs/pull/9) in [salt-labs/docs](https://github.com/salt-labs/docs)
+2. 🎉 Merged PR [#7](https://github.com/salt-labs/docs/pull/7) in [salt-labs/docs](https://github.com/salt-labs/docs)
+3. 🎉 Merged PR [#8](https://github.com/salt-labs/docs/pull/8) in [salt-labs/docs](https://github.com/salt-labs/docs)
+4. 🎉 Merged PR [#7](https://github.com/MAHDTech/nix-config/pull/7) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+5. 🎉 Merged PR [#8](https://github.com/MAHDTech/nix-config/pull/8) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+6. 👍 Approved [#8](https://github.com/MAHDTech/nix-config/pull/8#pullrequestreview-1508036940) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+7. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+8. 💪 Opened PR [#8](https://github.com/salt-labs/docs/pull/8) in [salt-labs/docs](https://github.com/salt-labs/docs)
+9. ❗️ Opened issue [#1338](https://github.com/openshift-pipelines/pipelines-as-code/issues/1338) in [openshift-pipelines/pipelines-as-code](https://github.com/openshift-pipelines/pipelines-as-code)
+10. 🎉 Merged PR [#3](https://github.com/salt-labs/linters/pull/3) in [salt-labs/linters](https://github.com/salt-labs/linters)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
