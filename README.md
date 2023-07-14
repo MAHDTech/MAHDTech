@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dahliaOS/fuchsia](https://github.com/dahliaOS/fuchsia)
-2. 💪 Opened PR [#33](https://github.com/salt-labs/containers/pull/33) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. ⭐ Starred [collabnix/kubetools](https://github.com/collabnix/kubetools)
-4. 🎉 Merged PR [#11](https://github.com/salt-labs/docs/pull/11) in [salt-labs/docs](https://github.com/salt-labs/docs)
-5. 💪 Opened PR [#11](https://github.com/salt-labs/docs/pull/11) in [salt-labs/docs](https://github.com/salt-labs/docs)
-6. 🎉 Merged PR [#10](https://github.com/salt-labs/docs/pull/10) in [salt-labs/docs](https://github.com/salt-labs/docs)
-7. 🎉 Merged PR [#26](https://github.com/salt-labs/containers/pull/26) in [salt-labs/containers](https://github.com/salt-labs/containers)
-8. 🎉 Merged PR [#27](https://github.com/salt-labs/containers/pull/27) in [salt-labs/containers](https://github.com/salt-labs/containers)
-9. 🎉 Merged PR [#29](https://github.com/salt-labs/containers/pull/29) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 🎉 Merged PR [#31](https://github.com/salt-labs/containers/pull/31) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. 💪 Opened PR [#34](https://github.com/salt-labs/containers/pull/34) in [salt-labs/containers](https://github.com/salt-labs/containers)
+2. ❌ Closed PR [#32](https://github.com/salt-labs/containers/pull/32) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. 🎉 Merged PR [#33](https://github.com/salt-labs/containers/pull/33) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. ⭐ Starred [SAP/ytt-lint](https://github.com/SAP/ytt-lint)
+5. ⭐ Starred [dahliaOS/fuchsia](https://github.com/dahliaOS/fuchsia)
+6. 💪 Opened PR [#33](https://github.com/salt-labs/containers/pull/33) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. ⭐ Starred [collabnix/kubetools](https://github.com/collabnix/kubetools)
+8. 🎉 Merged PR [#11](https://github.com/salt-labs/docs/pull/11) in [salt-labs/docs](https://github.com/salt-labs/docs)
+9. 💪 Opened PR [#11](https://github.com/salt-labs/docs/pull/11) in [salt-labs/docs](https://github.com/salt-labs/docs)
+10. 🎉 Merged PR [#10](https://github.com/salt-labs/docs/pull/10) in [salt-labs/docs](https://github.com/salt-labs/docs)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
