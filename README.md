@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#34](https://github.com/salt-labs/containers/pull/34) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 🎉 Merged PR [#36](https://github.com/salt-labs/containers/pull/36) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 👍 Approved [#36](https://github.com/salt-labs/containers/pull/36#pullrequestreview-1531652306) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 🎉 Merged PR [#35](https://github.com/salt-labs/containers/pull/35) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. 👍 Approved [#35](https://github.com/salt-labs/containers/pull/35#pullrequestreview-1531652287) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. 💪 Opened PR [#34](https://github.com/salt-labs/containers/pull/34) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. ❌ Closed PR [#32](https://github.com/salt-labs/containers/pull/32) in [salt-labs/containers](https://github.com/salt-labs/containers)
-8. 🎉 Merged PR [#33](https://github.com/salt-labs/containers/pull/33) in [salt-labs/containers](https://github.com/salt-labs/containers)
-9. ⭐ Starred [SAP/ytt-lint](https://github.com/SAP/ytt-lint)
-10. ⭐ Starred [dahliaOS/fuchsia](https://github.com/dahliaOS/fuchsia)
+1. 💪 Opened PR [#12](https://github.com/salt-labs/docs/pull/12) in [salt-labs/docs](https://github.com/salt-labs/docs)
+2. 🎉 Merged PR [#37](https://github.com/salt-labs/containers/pull/37) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. 💪 Opened PR [#37](https://github.com/salt-labs/containers/pull/37) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 🎉 Merged PR [#34](https://github.com/salt-labs/containers/pull/34) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. 🎉 Merged PR [#36](https://github.com/salt-labs/containers/pull/36) in [salt-labs/containers](https://github.com/salt-labs/containers)
+6. 👍 Approved [#36](https://github.com/salt-labs/containers/pull/36#pullrequestreview-1531652306) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. 🎉 Merged PR [#35](https://github.com/salt-labs/containers/pull/35) in [salt-labs/containers](https://github.com/salt-labs/containers)
+8. 👍 Approved [#35](https://github.com/salt-labs/containers/pull/35#pullrequestreview-1531652287) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. 💪 Opened PR [#34](https://github.com/salt-labs/containers/pull/34) in [salt-labs/containers](https://github.com/salt-labs/containers)
+10. ❌ Closed PR [#32](https://github.com/salt-labs/containers/pull/32) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
