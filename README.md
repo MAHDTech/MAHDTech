@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#43](https://github.com/salt-labs/containers/pull/43) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 🎉 Merged PR [#42](https://github.com/salt-labs/containers/pull/42) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 💪 Opened PR [#42](https://github.com/salt-labs/containers/pull/42) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 🎉 Merged PR [#41](https://github.com/salt-labs/containers/pull/41) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. 🎉 Merged PR [#40](https://github.com/salt-labs/containers/pull/40) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. 💪 Opened PR [#40](https://github.com/salt-labs/containers/pull/40) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. 🎉 Merged PR [#39](https://github.com/salt-labs/containers/pull/39) in [salt-labs/containers](https://github.com/salt-labs/containers)
-8. ❗️ Opened issue [#275](https://github.com/carvel-dev/vendir/issues/275) in [carvel-dev/vendir](https://github.com/carvel-dev/vendir)
-9. 💪 Opened PR [#39](https://github.com/salt-labs/containers/pull/39) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 🎉 Merged PR [#38](https://github.com/salt-labs/containers/pull/38) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. ⭐ Starred [vmware-tanzu/tanzu-framework](https://github.com/vmware-tanzu/tanzu-framework)
+2. 🎉 Merged PR [#12](https://github.com/salt-labs/docs/pull/12) in [salt-labs/docs](https://github.com/salt-labs/docs)
+3. ❗️ Opened issue [#413](https://github.com/vmware-tanzu/tanzu-cli/issues/413) in [vmware-tanzu/tanzu-cli](https://github.com/vmware-tanzu/tanzu-cli)
+4. 💪 Opened PR [#43](https://github.com/salt-labs/containers/pull/43) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. 🎉 Merged PR [#42](https://github.com/salt-labs/containers/pull/42) in [salt-labs/containers](https://github.com/salt-labs/containers)
+6. 💪 Opened PR [#42](https://github.com/salt-labs/containers/pull/42) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. 🎉 Merged PR [#41](https://github.com/salt-labs/containers/pull/41) in [salt-labs/containers](https://github.com/salt-labs/containers)
+8. 🎉 Merged PR [#40](https://github.com/salt-labs/containers/pull/40) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. 💪 Opened PR [#40](https://github.com/salt-labs/containers/pull/40) in [salt-labs/containers](https://github.com/salt-labs/containers)
+10. 🎉 Merged PR [#39](https://github.com/salt-labs/containers/pull/39) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
