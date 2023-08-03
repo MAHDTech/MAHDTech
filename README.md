@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/holoiso](https://github.com/MAHDTech/holoiso) from [HoloISO/holoiso](https://github.com/HoloISO/holoiso)
-2. ⭐ Starred [vmware-tanzu/tanzu-framework](https://github.com/vmware-tanzu/tanzu-framework)
-3. 🎉 Merged PR [#12](https://github.com/salt-labs/docs/pull/12) in [salt-labs/docs](https://github.com/salt-labs/docs)
-4. ❗️ Opened issue [#413](https://github.com/vmware-tanzu/tanzu-cli/issues/413) in [vmware-tanzu/tanzu-cli](https://github.com/vmware-tanzu/tanzu-cli)
-5. 💪 Opened PR [#43](https://github.com/salt-labs/containers/pull/43) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. 🎉 Merged PR [#42](https://github.com/salt-labs/containers/pull/42) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. 💪 Opened PR [#42](https://github.com/salt-labs/containers/pull/42) in [salt-labs/containers](https://github.com/salt-labs/containers)
-8. 🎉 Merged PR [#41](https://github.com/salt-labs/containers/pull/41) in [salt-labs/containers](https://github.com/salt-labs/containers)
-9. 🎉 Merged PR [#40](https://github.com/salt-labs/containers/pull/40) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 💪 Opened PR [#40](https://github.com/salt-labs/containers/pull/40) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. 🎉 Merged PR [#13](https://github.com/salt-labs/docs/pull/13) in [salt-labs/docs](https://github.com/salt-labs/docs)
+2. 💪 Opened PR [#13](https://github.com/salt-labs/docs/pull/13) in [salt-labs/docs](https://github.com/salt-labs/docs)
+3. 🎉 Merged PR [#16](https://github.com/salt-labs/website/pull/16) in [salt-labs/website](https://github.com/salt-labs/website)
+4. 💪 Opened PR [#16](https://github.com/salt-labs/website/pull/16) in [salt-labs/website](https://github.com/salt-labs/website)
+5. 🎉 Merged PR [#15](https://github.com/salt-labs/website/pull/15) in [salt-labs/website](https://github.com/salt-labs/website)
+6. 💪 Opened PR [#15](https://github.com/salt-labs/website/pull/15) in [salt-labs/website](https://github.com/salt-labs/website)
+7. 🎉 Merged PR [#14](https://github.com/salt-labs/website/pull/14) in [salt-labs/website](https://github.com/salt-labs/website)
+8. 🎉 Merged PR [#13](https://github.com/MAHDTech/website/pull/13) in [MAHDTech/website](https://github.com/MAHDTech/website)
+9. 💪 Opened PR [#13](https://github.com/MAHDTech/website/pull/13) in [MAHDTech/website](https://github.com/MAHDTech/website)
+10. 🎉 Merged PR [#12](https://github.com/MAHDTech/website/pull/12) in [MAHDTech/website](https://github.com/MAHDTech/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
