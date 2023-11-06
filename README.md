@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#67](https://github.com/salt-labs/containers/pull/67) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 💪 Opened PR [#67](https://github.com/salt-labs/containers/pull/67) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 🔱 Forked [MAHDTech/jadeclaim](https://github.com/MAHDTech/jadeclaim) from [jadeclaim/jadeclaim](https://github.com/jadeclaim/jadeclaim)
-4. ⭐ Starred [jadeclaim/jadeclaim](https://github.com/jadeclaim/jadeclaim)
-5. 🎉 Merged PR [#66](https://github.com/salt-labs/containers/pull/66) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. 💪 Opened PR [#66](https://github.com/salt-labs/containers/pull/66) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. 🎉 Merged PR [#65](https://github.com/salt-labs/containers/pull/65) in [salt-labs/containers](https://github.com/salt-labs/containers)
-8. ❗️ Opened issue [#1516](https://github.com/vmware/photon/issues/1516) in [vmware/photon](https://github.com/vmware/photon)
-9. 💪 Opened PR [#65](https://github.com/salt-labs/containers/pull/65) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 🎉 Merged PR [#63](https://github.com/salt-labs/containers/pull/63) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. ⭐ Starred [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
+2. 🎉 Merged PR [#67](https://github.com/salt-labs/containers/pull/67) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. 💪 Opened PR [#67](https://github.com/salt-labs/containers/pull/67) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 🔱 Forked [MAHDTech/jadeclaim](https://github.com/MAHDTech/jadeclaim) from [jadeclaim/jadeclaim](https://github.com/jadeclaim/jadeclaim)
+5. ⭐ Starred [jadeclaim/jadeclaim](https://github.com/jadeclaim/jadeclaim)
+6. 🎉 Merged PR [#66](https://github.com/salt-labs/containers/pull/66) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. 💪 Opened PR [#66](https://github.com/salt-labs/containers/pull/66) in [salt-labs/containers](https://github.com/salt-labs/containers)
+8. 🎉 Merged PR [#65](https://github.com/salt-labs/containers/pull/65) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. ❗️ Opened issue [#1516](https://github.com/vmware/photon/issues/1516) in [vmware/photon](https://github.com/vmware/photon)
+10. 💪 Opened PR [#65](https://github.com/salt-labs/containers/pull/65) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
