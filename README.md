@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#81](https://github.com/salt-labs/containers/pull/81) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 💪 Opened PR [#81](https://github.com/salt-labs/containers/pull/81) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 🎉 Merged PR [#80](https://github.com/salt-labs/containers/pull/80) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 💪 Opened PR [#80](https://github.com/salt-labs/containers/pull/80) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. ⭐ Starred [sbstp/kubie](https://github.com/sbstp/kubie)
-6. 🎉 Merged PR [#79](https://github.com/salt-labs/containers/pull/79) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. 👍 Approved [#79](https://github.com/salt-labs/containers/pull/79#pullrequestreview-1778514198) in [salt-labs/containers](https://github.com/salt-labs/containers)
-8. ⭐ Starred [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager)
-9. 🎉 Merged PR [#78](https://github.com/salt-labs/containers/pull/78) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 💪 Opened PR [#78](https://github.com/salt-labs/containers/pull/78) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. 🎉 Merged PR [#83](https://github.com/salt-labs/containers/pull/83) in [salt-labs/containers](https://github.com/salt-labs/containers)
+2. 💪 Opened PR [#83](https://github.com/salt-labs/containers/pull/83) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. 🎉 Merged PR [#82](https://github.com/salt-labs/containers/pull/82) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 💪 Opened PR [#82](https://github.com/salt-labs/containers/pull/82) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. 🎉 Merged PR [#81](https://github.com/salt-labs/containers/pull/81) in [salt-labs/containers](https://github.com/salt-labs/containers)
+6. 💪 Opened PR [#81](https://github.com/salt-labs/containers/pull/81) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. 🎉 Merged PR [#80](https://github.com/salt-labs/containers/pull/80) in [salt-labs/containers](https://github.com/salt-labs/containers)
+8. 💪 Opened PR [#80](https://github.com/salt-labs/containers/pull/80) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. ⭐ Starred [sbstp/kubie](https://github.com/sbstp/kubie)
+10. 🎉 Merged PR [#79](https://github.com/salt-labs/containers/pull/79) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
