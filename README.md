@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#86](https://github.com/salt-labs/containers/pull/86) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 💪 Opened PR [#86](https://github.com/salt-labs/containers/pull/86) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 🎉 Merged PR [#85](https://github.com/salt-labs/containers/pull/85) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 🎉 Merged PR [#84](https://github.com/salt-labs/containers/pull/84) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. 🎉 Merged PR [#13](https://github.com/MAHDTech/nix-config/pull/13) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-6. 🎉 Merged PR [#12](https://github.com/MAHDTech/nix-config/pull/12) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-7. 🎉 Merged PR [#11](https://github.com/MAHDTech/nix-config/pull/11) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-8. 🎉 Merged PR [#10](https://github.com/MAHDTech/nix-config/pull/10) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-9. 🎉 Merged PR [#9](https://github.com/MAHDTech/nix-config/pull/9) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-10. 💪 Opened PR [#84](https://github.com/salt-labs/containers/pull/84) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. ❗️ Opened issue [#620](https://github.com/vmware-tanzu/tanzu-cli/issues/620) in [vmware-tanzu/tanzu-cli](https://github.com/vmware-tanzu/tanzu-cli)
+2. ✔️ Closed issue [#413](https://github.com/vmware-tanzu/tanzu-cli/issues/413) in [vmware-tanzu/tanzu-cli](https://github.com/vmware-tanzu/tanzu-cli)
+3. 💪 Opened PR [#87](https://github.com/salt-labs/containers/pull/87) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 🎉 Merged PR [#86](https://github.com/salt-labs/containers/pull/86) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. 💪 Opened PR [#86](https://github.com/salt-labs/containers/pull/86) in [salt-labs/containers](https://github.com/salt-labs/containers)
+6. 🎉 Merged PR [#85](https://github.com/salt-labs/containers/pull/85) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. 🎉 Merged PR [#84](https://github.com/salt-labs/containers/pull/84) in [salt-labs/containers](https://github.com/salt-labs/containers)
+8. 🎉 Merged PR [#13](https://github.com/MAHDTech/nix-config/pull/13) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+9. 🎉 Merged PR [#12](https://github.com/MAHDTech/nix-config/pull/12) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+10. 🎉 Merged PR [#11](https://github.com/MAHDTech/nix-config/pull/11) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
