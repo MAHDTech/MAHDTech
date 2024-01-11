@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#28](https://github.com/salt-labs/docs/pull/28) in [salt-labs/docs](https://github.com/salt-labs/docs)
-2. ❌ Closed PR [#27](https://github.com/salt-labs/docs/pull/27) in [salt-labs/docs](https://github.com/salt-labs/docs)
-3. 💪 Opened PR [#28](https://github.com/salt-labs/docs/pull/28) in [salt-labs/docs](https://github.com/salt-labs/docs)
-4. 🎉 Merged PR [#14](https://github.com/MAHDTech/nix-config/pull/14) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-5. 👍 Approved [#14](https://github.com/MAHDTech/nix-config/pull/14#pullrequestreview-1799615194) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-6. 🎉 Merged PR [#87](https://github.com/salt-labs/containers/pull/87) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. 🎉 Merged PR [#26](https://github.com/salt-labs/docs/pull/26) in [salt-labs/docs](https://github.com/salt-labs/docs)
-8. 💪 Opened PR [#26](https://github.com/salt-labs/docs/pull/26) in [salt-labs/docs](https://github.com/salt-labs/docs)
-9. 🎉 Merged PR [#25](https://github.com/salt-labs/docs/pull/25) in [salt-labs/docs](https://github.com/salt-labs/docs)
-10. 💪 Opened PR [#25](https://github.com/salt-labs/docs/pull/25) in [salt-labs/docs](https://github.com/salt-labs/docs)
+1. ⭐ Starred [salt-labs/docs](https://github.com/salt-labs/docs)
+2. 💪 Opened PR [#89](https://github.com/salt-labs/containers/pull/89) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. 💪 Opened PR [#29](https://github.com/salt-labs/docs/pull/29) in [salt-labs/docs](https://github.com/salt-labs/docs)
+4. 🎉 Merged PR [#28](https://github.com/salt-labs/docs/pull/28) in [salt-labs/docs](https://github.com/salt-labs/docs)
+5. ❌ Closed PR [#27](https://github.com/salt-labs/docs/pull/27) in [salt-labs/docs](https://github.com/salt-labs/docs)
+6. 💪 Opened PR [#28](https://github.com/salt-labs/docs/pull/28) in [salt-labs/docs](https://github.com/salt-labs/docs)
+7. 🎉 Merged PR [#14](https://github.com/MAHDTech/nix-config/pull/14) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+8. 👍 Approved [#14](https://github.com/MAHDTech/nix-config/pull/14#pullrequestreview-1799615194) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+9. 🎉 Merged PR [#87](https://github.com/salt-labs/containers/pull/87) in [salt-labs/containers](https://github.com/salt-labs/containers)
+10. 🎉 Merged PR [#26](https://github.com/salt-labs/docs/pull/26) in [salt-labs/docs](https://github.com/salt-labs/docs)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
