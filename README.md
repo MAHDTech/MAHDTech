@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#106](https://github.com/salt-labs/containers/pull/106) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 🔱 Forked [MAHDTech/avalanche-package](https://github.com/MAHDTech/avalanche-package) from [kurtosis-tech/avalanche-package](https://github.com/kurtosis-tech/avalanche-package)
-3. ⭐ Starred [kurtosis-tech/avalanche-package](https://github.com/kurtosis-tech/avalanche-package)
-4. 🎉 Merged PR [#105](https://github.com/salt-labs/containers/pull/105) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. 💪 Opened PR [#105](https://github.com/salt-labs/containers/pull/105) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. 🎉 Merged PR [#33](https://github.com/salt-labs/docs/pull/33) in [salt-labs/docs](https://github.com/salt-labs/docs)
-7. 💪 Opened PR [#33](https://github.com/salt-labs/docs/pull/33) in [salt-labs/docs](https://github.com/salt-labs/docs)
-8. 🎉 Merged PR [#32](https://github.com/salt-labs/docs/pull/32) in [salt-labs/docs](https://github.com/salt-labs/docs)
-9. 💪 Opened PR [#32](https://github.com/salt-labs/docs/pull/32) in [salt-labs/docs](https://github.com/salt-labs/docs)
-10. 🎉 Merged PR [#98](https://github.com/salt-labs/containers/pull/98) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. 🎉 Merged PR [#106](https://github.com/salt-labs/containers/pull/106) in [salt-labs/containers](https://github.com/salt-labs/containers)
+2. ❌ Closed PR [#101](https://github.com/salt-labs/containers/pull/101) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. ❌ Closed PR [#102](https://github.com/salt-labs/containers/pull/102) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 💪 Opened PR [#106](https://github.com/salt-labs/containers/pull/106) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. 🔱 Forked [MAHDTech/avalanche-package](https://github.com/MAHDTech/avalanche-package) from [kurtosis-tech/avalanche-package](https://github.com/kurtosis-tech/avalanche-package)
+6. ⭐ Starred [kurtosis-tech/avalanche-package](https://github.com/kurtosis-tech/avalanche-package)
+7. 🎉 Merged PR [#105](https://github.com/salt-labs/containers/pull/105) in [salt-labs/containers](https://github.com/salt-labs/containers)
+8. 💪 Opened PR [#105](https://github.com/salt-labs/containers/pull/105) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. 🎉 Merged PR [#33](https://github.com/salt-labs/docs/pull/33) in [salt-labs/docs](https://github.com/salt-labs/docs)
+10. 💪 Opened PR [#33](https://github.com/salt-labs/docs/pull/33) in [salt-labs/docs](https://github.com/salt-labs/docs)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
