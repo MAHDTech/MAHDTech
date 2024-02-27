@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SaorsaLabs/Template_Canister](https://github.com/SaorsaLabs/Template_Canister)
-2. 🎉 Merged PR [#109](https://github.com/salt-labs/containers/pull/109) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 💪 Opened PR [#109](https://github.com/salt-labs/containers/pull/109) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 🎉 Merged PR [#107](https://github.com/salt-labs/containers/pull/107) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. 💪 Opened PR [#107](https://github.com/salt-labs/containers/pull/107) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. 🎉 Merged PR [#106](https://github.com/salt-labs/containers/pull/106) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. ❌ Closed PR [#101](https://github.com/salt-labs/containers/pull/101) in [salt-labs/containers](https://github.com/salt-labs/containers)
-8. ❌ Closed PR [#102](https://github.com/salt-labs/containers/pull/102) in [salt-labs/containers](https://github.com/salt-labs/containers)
-9. 💪 Opened PR [#106](https://github.com/salt-labs/containers/pull/106) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 🔱 Forked [MAHDTech/avalanche-package](https://github.com/MAHDTech/avalanche-package) from [kurtosis-tech/avalanche-package](https://github.com/kurtosis-tech/avalanche-package)
+1. ❌ Closed PR [#108](https://github.com/salt-labs/containers/pull/108) in [salt-labs/containers](https://github.com/salt-labs/containers)
+2. 🎉 Merged PR [#110](https://github.com/salt-labs/containers/pull/110) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. 🎉 Merged PR [#111](https://github.com/salt-labs/containers/pull/111) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 💪 Opened PR [#111](https://github.com/salt-labs/containers/pull/111) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. ⭐ Starred [SaorsaLabs/Template_Canister](https://github.com/SaorsaLabs/Template_Canister)
+6. 🎉 Merged PR [#109](https://github.com/salt-labs/containers/pull/109) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. 💪 Opened PR [#109](https://github.com/salt-labs/containers/pull/109) in [salt-labs/containers](https://github.com/salt-labs/containers)
+8. 🎉 Merged PR [#107](https://github.com/salt-labs/containers/pull/107) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. 💪 Opened PR [#107](https://github.com/salt-labs/containers/pull/107) in [salt-labs/containers](https://github.com/salt-labs/containers)
+10. 🎉 Merged PR [#106](https://github.com/salt-labs/containers/pull/106) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
