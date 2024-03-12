@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#620](https://github.com/vmware-tanzu/tanzu-cli/issues/620) in [vmware-tanzu/tanzu-cli](https://github.com/vmware-tanzu/tanzu-cli)
-2. ❌ Closed PR [#108](https://github.com/salt-labs/containers/pull/108) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 🎉 Merged PR [#110](https://github.com/salt-labs/containers/pull/110) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 🎉 Merged PR [#111](https://github.com/salt-labs/containers/pull/111) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. 💪 Opened PR [#111](https://github.com/salt-labs/containers/pull/111) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. ⭐ Starred [SaorsaLabs/Template_Canister](https://github.com/SaorsaLabs/Template_Canister)
-7. 🎉 Merged PR [#109](https://github.com/salt-labs/containers/pull/109) in [salt-labs/containers](https://github.com/salt-labs/containers)
-8. 💪 Opened PR [#109](https://github.com/salt-labs/containers/pull/109) in [salt-labs/containers](https://github.com/salt-labs/containers)
-9. 🎉 Merged PR [#107](https://github.com/salt-labs/containers/pull/107) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 💪 Opened PR [#107](https://github.com/salt-labs/containers/pull/107) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. ⭐ Starred [gethugothemes/hugo-modules](https://github.com/gethugothemes/hugo-modules)
+2. ✔️ Closed issue [#620](https://github.com/vmware-tanzu/tanzu-cli/issues/620) in [vmware-tanzu/tanzu-cli](https://github.com/vmware-tanzu/tanzu-cli)
+3. ❌ Closed PR [#108](https://github.com/salt-labs/containers/pull/108) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 🎉 Merged PR [#110](https://github.com/salt-labs/containers/pull/110) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. 🎉 Merged PR [#111](https://github.com/salt-labs/containers/pull/111) in [salt-labs/containers](https://github.com/salt-labs/containers)
+6. 💪 Opened PR [#111](https://github.com/salt-labs/containers/pull/111) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. ⭐ Starred [SaorsaLabs/Template_Canister](https://github.com/SaorsaLabs/Template_Canister)
+8. 🎉 Merged PR [#109](https://github.com/salt-labs/containers/pull/109) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. 💪 Opened PR [#109](https://github.com/salt-labs/containers/pull/109) in [salt-labs/containers](https://github.com/salt-labs/containers)
+10. 🎉 Merged PR [#107](https://github.com/salt-labs/containers/pull/107) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
