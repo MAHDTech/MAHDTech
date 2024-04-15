@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
-2. ❗️ Opened issue [#127](https://github.com/nlewo/nix2container/issues/127) in [nlewo/nix2container](https://github.com/nlewo/nix2container)
-3. ❌ Closed PR [#118](https://github.com/salt-labs/containers/pull/118) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. ❌ Closed PR [#24](https://github.com/salt-labs/website/pull/24) in [salt-labs/website](https://github.com/salt-labs/website)
-5. 🎉 Merged PR [#25](https://github.com/salt-labs/website/pull/25) in [salt-labs/website](https://github.com/salt-labs/website)
-6. 💪 Opened PR [#25](https://github.com/salt-labs/website/pull/25) in [salt-labs/website](https://github.com/salt-labs/website)
-7. ❌ Closed PR [#21](https://github.com/MAHDTech/website/pull/21) in [MAHDTech/website](https://github.com/MAHDTech/website)
-8. ❌ Closed PR [#18](https://github.com/MAHDTech/website/pull/18) in [MAHDTech/website](https://github.com/MAHDTech/website)
-9. 🎉 Merged PR [#22](https://github.com/MAHDTech/website/pull/22) in [MAHDTech/website](https://github.com/MAHDTech/website)
-10. 💪 Opened PR [#22](https://github.com/MAHDTech/website/pull/22) in [MAHDTech/website](https://github.com/MAHDTech/website)
+1. ⭐ Starred [openstatusHQ/astro-status-page](https://github.com/openstatusHQ/astro-status-page)
+2. ⭐ Starred [peterpeterparker/cycles.watch](https://github.com/peterpeterparker/cycles.watch)
+3. ⭐ Starred [bitswired/rustgpt](https://github.com/bitswired/rustgpt)
+4. ⭐ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
+5. ❗️ Opened issue [#127](https://github.com/nlewo/nix2container/issues/127) in [nlewo/nix2container](https://github.com/nlewo/nix2container)
+6. ❌ Closed PR [#118](https://github.com/salt-labs/containers/pull/118) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. ❌ Closed PR [#24](https://github.com/salt-labs/website/pull/24) in [salt-labs/website](https://github.com/salt-labs/website)
+8. 🎉 Merged PR [#25](https://github.com/salt-labs/website/pull/25) in [salt-labs/website](https://github.com/salt-labs/website)
+9. 💪 Opened PR [#25](https://github.com/salt-labs/website/pull/25) in [salt-labs/website](https://github.com/salt-labs/website)
+10. ❌ Closed PR [#21](https://github.com/MAHDTech/website/pull/21) in [MAHDTech/website](https://github.com/MAHDTech/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
