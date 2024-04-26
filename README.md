@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [peterpeterparker/juno-openai](https://github.com/peterpeterparker/juno-openai)
-2. ❗️ Opened issue [#5279](https://github.com/nix-community/home-manager/issues/5279) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. ⭐ Starred [santilococo/oni2](https://github.com/santilococo/oni2)
-4. ⭐ Starred [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode)
-5. ⭐ Starred [openstatusHQ/astro-status-page](https://github.com/openstatusHQ/astro-status-page)
-6. ⭐ Starred [peterpeterparker/cycles.watch](https://github.com/peterpeterparker/cycles.watch)
-7. ⭐ Starred [bitswired/rustgpt](https://github.com/bitswired/rustgpt)
-8. ⭐ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
-9. ❗️ Opened issue [#127](https://github.com/nlewo/nix2container/issues/127) in [nlewo/nix2container](https://github.com/nlewo/nix2container)
-10. ❌ Closed PR [#118](https://github.com/salt-labs/containers/pull/118) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. ⭐ Starred [siderolabs/talemu](https://github.com/siderolabs/talemu)
+2. ⭐ Starred [peterpeterparker/juno-openai](https://github.com/peterpeterparker/juno-openai)
+3. ❗️ Opened issue [#5279](https://github.com/nix-community/home-manager/issues/5279) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ⭐ Starred [santilococo/oni2](https://github.com/santilococo/oni2)
+5. ⭐ Starred [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode)
+6. ⭐ Starred [openstatusHQ/astro-status-page](https://github.com/openstatusHQ/astro-status-page)
+7. ⭐ Starred [peterpeterparker/cycles.watch](https://github.com/peterpeterparker/cycles.watch)
+8. ⭐ Starred [bitswired/rustgpt](https://github.com/bitswired/rustgpt)
+9. ⭐ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
+10. ❗️ Opened issue [#127](https://github.com/nlewo/nix2container/issues/127) in [nlewo/nix2container](https://github.com/nlewo/nix2container)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
