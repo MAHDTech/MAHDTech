@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MaienM/pulumi-gitea](https://github.com/MaienM/pulumi-gitea)
-2. ⭐ Starred [siderolabs/talemu](https://github.com/siderolabs/talemu)
-3. ⭐ Starred [peterpeterparker/juno-openai](https://github.com/peterpeterparker/juno-openai)
-4. ❗️ Opened issue [#5279](https://github.com/nix-community/home-manager/issues/5279) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. ⭐ Starred [santilococo/oni2](https://github.com/santilococo/oni2)
-6. ⭐ Starred [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode)
-7. ⭐ Starred [openstatusHQ/astro-status-page](https://github.com/openstatusHQ/astro-status-page)
-8. ⭐ Starred [peterpeterparker/cycles.watch](https://github.com/peterpeterparker/cycles.watch)
-9. ⭐ Starred [bitswired/rustgpt](https://github.com/bitswired/rustgpt)
-10. ⭐ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
+1. ⭐ Starred [aenix-io/talos-bootstrap](https://github.com/aenix-io/talos-bootstrap)
+2. ✔️ Closed issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
+3. ❗️ Opened issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
+4. ⭐ Starred [MaienM/pulumi-gitea](https://github.com/MaienM/pulumi-gitea)
+5. ⭐ Starred [siderolabs/talemu](https://github.com/siderolabs/talemu)
+6. ⭐ Starred [peterpeterparker/juno-openai](https://github.com/peterpeterparker/juno-openai)
+7. ❗️ Opened issue [#5279](https://github.com/nix-community/home-manager/issues/5279) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+8. ⭐ Starred [santilococo/oni2](https://github.com/santilococo/oni2)
+9. ⭐ Starred [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode)
+10. ⭐ Starred [openstatusHQ/astro-status-page](https://github.com/openstatusHQ/astro-status-page)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
