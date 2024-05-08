@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aenix-io/talos-bootstrap](https://github.com/aenix-io/talos-bootstrap)
-2. ✔️ Closed issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
-3. ❗️ Opened issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
-4. ⭐ Starred [MaienM/pulumi-gitea](https://github.com/MaienM/pulumi-gitea)
-5. ⭐ Starred [siderolabs/talemu](https://github.com/siderolabs/talemu)
-6. ⭐ Starred [peterpeterparker/juno-openai](https://github.com/peterpeterparker/juno-openai)
-7. ❗️ Opened issue [#5279](https://github.com/nix-community/home-manager/issues/5279) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-8. ⭐ Starred [santilococo/oni2](https://github.com/santilococo/oni2)
-9. ⭐ Starred [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode)
-10. ⭐ Starred [openstatusHQ/astro-status-page](https://github.com/openstatusHQ/astro-status-page)
+1. 💪 Opened PR [#79](https://github.com/siderolabs/omni-docs/pull/79) in [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
+2. 🔱 Forked [MAHDTech/omni-docs](https://github.com/MAHDTech/omni-docs) from [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
+3. ⭐ Starred [aenix-io/talos-bootstrap](https://github.com/aenix-io/talos-bootstrap)
+4. ✔️ Closed issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
+5. ❗️ Opened issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
+6. ⭐ Starred [MaienM/pulumi-gitea](https://github.com/MaienM/pulumi-gitea)
+7. ⭐ Starred [siderolabs/talemu](https://github.com/siderolabs/talemu)
+8. ⭐ Starred [peterpeterparker/juno-openai](https://github.com/peterpeterparker/juno-openai)
+9. ❗️ Opened issue [#5279](https://github.com/nix-community/home-manager/issues/5279) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+10. ⭐ Starred [santilococo/oni2](https://github.com/santilococo/oni2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
