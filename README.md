@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#79](https://github.com/siderolabs/omni-docs/pull/79) in [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
-2. 🔱 Forked [MAHDTech/omni-docs](https://github.com/MAHDTech/omni-docs) from [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
-3. ⭐ Starred [aenix-io/talos-bootstrap](https://github.com/aenix-io/talos-bootstrap)
-4. ✔️ Closed issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
-5. ❗️ Opened issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
-6. ⭐ Starred [MaienM/pulumi-gitea](https://github.com/MaienM/pulumi-gitea)
-7. ⭐ Starred [siderolabs/talemu](https://github.com/siderolabs/talemu)
-8. ⭐ Starred [peterpeterparker/juno-openai](https://github.com/peterpeterparker/juno-openai)
-9. ❗️ Opened issue [#5279](https://github.com/nix-community/home-manager/issues/5279) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-10. ⭐ Starred [santilococo/oni2](https://github.com/santilococo/oni2)
+1. ❗️ Opened issue [#230](https://github.com/siderolabs/omni/issues/230) in [siderolabs/omni](https://github.com/siderolabs/omni)
+2. 💪 Opened PR [#79](https://github.com/siderolabs/omni-docs/pull/79) in [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
+3. 🔱 Forked [MAHDTech/omni-docs](https://github.com/MAHDTech/omni-docs) from [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
+4. ⭐ Starred [aenix-io/talos-bootstrap](https://github.com/aenix-io/talos-bootstrap)
+5. ✔️ Closed issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
+6. ❗️ Opened issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
+7. ⭐ Starred [MaienM/pulumi-gitea](https://github.com/MaienM/pulumi-gitea)
+8. ⭐ Starred [siderolabs/talemu](https://github.com/siderolabs/talemu)
+9. ⭐ Starred [peterpeterparker/juno-openai](https://github.com/peterpeterparker/juno-openai)
+10. ❗️ Opened issue [#5279](https://github.com/nix-community/home-manager/issues/5279) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
