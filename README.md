@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [weswigham/synthwave-x-fluoromachine-contrast-fixed-animations](https://github.com/weswigham/synthwave-x-fluoromachine-contrast-fixed-animations)
-2. ❗️ Opened issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
-3. ❗️ Opened issue [#230](https://github.com/siderolabs/omni/issues/230) in [siderolabs/omni](https://github.com/siderolabs/omni)
-4. 💪 Opened PR [#79](https://github.com/siderolabs/omni-docs/pull/79) in [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
-5. 🔱 Forked [MAHDTech/omni-docs](https://github.com/MAHDTech/omni-docs) from [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
-6. ⭐ Starred [aenix-io/talos-bootstrap](https://github.com/aenix-io/talos-bootstrap)
-7. ✔️ Closed issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
-8. ❗️ Opened issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
-9. ⭐ Starred [MaienM/pulumi-gitea](https://github.com/MaienM/pulumi-gitea)
-10. ⭐ Starred [siderolabs/talemu](https://github.com/siderolabs/talemu)
+1. ⭐ Starred [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
+2. 🔱 Forked [MAHDTech/unifi-ddns](https://github.com/MAHDTech/unifi-ddns) from [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
+3. ⭐ Starred [weswigham/synthwave-x-fluoromachine-contrast-fixed-animations](https://github.com/weswigham/synthwave-x-fluoromachine-contrast-fixed-animations)
+4. ❗️ Opened issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
+5. ❗️ Opened issue [#230](https://github.com/siderolabs/omni/issues/230) in [siderolabs/omni](https://github.com/siderolabs/omni)
+6. 💪 Opened PR [#79](https://github.com/siderolabs/omni-docs/pull/79) in [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
+7. 🔱 Forked [MAHDTech/omni-docs](https://github.com/MAHDTech/omni-docs) from [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
+8. ⭐ Starred [aenix-io/talos-bootstrap](https://github.com/aenix-io/talos-bootstrap)
+9. ✔️ Closed issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
+10. ❗️ Opened issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
