@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
-2. 🔱 Forked [MAHDTech/unifi-ddns](https://github.com/MAHDTech/unifi-ddns) from [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
-3. ⭐ Starred [weswigham/synthwave-x-fluoromachine-contrast-fixed-animations](https://github.com/weswigham/synthwave-x-fluoromachine-contrast-fixed-animations)
-4. ❗️ Opened issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
-5. ❗️ Opened issue [#230](https://github.com/siderolabs/omni/issues/230) in [siderolabs/omni](https://github.com/siderolabs/omni)
-6. 💪 Opened PR [#79](https://github.com/siderolabs/omni-docs/pull/79) in [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
-7. 🔱 Forked [MAHDTech/omni-docs](https://github.com/MAHDTech/omni-docs) from [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
-8. ⭐ Starred [aenix-io/talos-bootstrap](https://github.com/aenix-io/talos-bootstrap)
-9. ✔️ Closed issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
-10. ❗️ Opened issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
+1. ✔️ Closed issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
+2. ⭐ Starred [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
+3. 🔱 Forked [MAHDTech/unifi-ddns](https://github.com/MAHDTech/unifi-ddns) from [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
+4. ⭐ Starred [weswigham/synthwave-x-fluoromachine-contrast-fixed-animations](https://github.com/weswigham/synthwave-x-fluoromachine-contrast-fixed-animations)
+5. ❗️ Opened issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
+6. ❗️ Opened issue [#230](https://github.com/siderolabs/omni/issues/230) in [siderolabs/omni](https://github.com/siderolabs/omni)
+7. 💪 Opened PR [#79](https://github.com/siderolabs/omni-docs/pull/79) in [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
+8. 🔱 Forked [MAHDTech/omni-docs](https://github.com/MAHDTech/omni-docs) from [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
+9. ⭐ Starred [aenix-io/talos-bootstrap](https://github.com/aenix-io/talos-bootstrap)
+10. ✔️ Closed issue [#212](https://github.com/siderolabs/omni/issues/212) in [siderolabs/omni](https://github.com/siderolabs/omni)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
