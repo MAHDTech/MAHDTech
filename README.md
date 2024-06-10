@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/kube-dosbox](https://github.com/MAHDTech/kube-dosbox) from [akyriako/kube-dosbox](https://github.com/akyriako/kube-dosbox)
-2. ✔️ Closed issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
-3. ⭐ Starred [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
-4. 🔱 Forked [MAHDTech/unifi-ddns](https://github.com/MAHDTech/unifi-ddns) from [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
-5. ⭐ Starred [weswigham/synthwave-x-fluoromachine-contrast-fixed-animations](https://github.com/weswigham/synthwave-x-fluoromachine-contrast-fixed-animations)
-6. ❗️ Opened issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
-7. ❗️ Opened issue [#230](https://github.com/siderolabs/omni/issues/230) in [siderolabs/omni](https://github.com/siderolabs/omni)
-8. 💪 Opened PR [#79](https://github.com/siderolabs/omni-docs/pull/79) in [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
-9. 🔱 Forked [MAHDTech/omni-docs](https://github.com/MAHDTech/omni-docs) from [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
-10. ⭐ Starred [aenix-io/talos-bootstrap](https://github.com/aenix-io/talos-bootstrap)
+1. ⭐ Starred [pl4nty/cloudflare-kubernetes-gateway](https://github.com/pl4nty/cloudflare-kubernetes-gateway)
+2. 🔱 Forked [MAHDTech/kube-dosbox](https://github.com/MAHDTech/kube-dosbox) from [akyriako/kube-dosbox](https://github.com/akyriako/kube-dosbox)
+3. ✔️ Closed issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
+4. ⭐ Starred [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
+5. 🔱 Forked [MAHDTech/unifi-ddns](https://github.com/MAHDTech/unifi-ddns) from [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
+6. ⭐ Starred [weswigham/synthwave-x-fluoromachine-contrast-fixed-animations](https://github.com/weswigham/synthwave-x-fluoromachine-contrast-fixed-animations)
+7. ❗️ Opened issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
+8. ❗️ Opened issue [#230](https://github.com/siderolabs/omni/issues/230) in [siderolabs/omni](https://github.com/siderolabs/omni)
+9. 💪 Opened PR [#79](https://github.com/siderolabs/omni-docs/pull/79) in [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
+10. 🔱 Forked [MAHDTech/omni-docs](https://github.com/MAHDTech/omni-docs) from [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
