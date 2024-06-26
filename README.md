@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare)
-2. ⭐ Starred [pl4nty/cloudflare-kubernetes-gateway](https://github.com/pl4nty/cloudflare-kubernetes-gateway)
-3. 🔱 Forked [MAHDTech/kube-dosbox](https://github.com/MAHDTech/kube-dosbox) from [akyriako/kube-dosbox](https://github.com/akyriako/kube-dosbox)
-4. ✔️ Closed issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
-5. ⭐ Starred [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
-6. 🔱 Forked [MAHDTech/unifi-ddns](https://github.com/MAHDTech/unifi-ddns) from [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
-7. ⭐ Starred [weswigham/synthwave-x-fluoromachine-contrast-fixed-animations](https://github.com/weswigham/synthwave-x-fluoromachine-contrast-fixed-animations)
-8. ❗️ Opened issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
-9. ❗️ Opened issue [#230](https://github.com/siderolabs/omni/issues/230) in [siderolabs/omni](https://github.com/siderolabs/omni)
-10. 💪 Opened PR [#79](https://github.com/siderolabs/omni-docs/pull/79) in [siderolabs/omni-docs](https://github.com/siderolabs/omni-docs)
+1. 🔱 Forked [MAHDTech/talos-sbc-rk3588](https://github.com/MAHDTech/talos-sbc-rk3588) from [milas/talos-sbc-rk3588](https://github.com/milas/talos-sbc-rk3588)
+2. 🔱 Forked [MAHDTech/talos-orangepi5](https://github.com/MAHDTech/talos-orangepi5) from [si0ls/talos-orangepi5](https://github.com/si0ls/talos-orangepi5)
+3. ⭐ Starred [si0ls/talos-orangepi5](https://github.com/si0ls/talos-orangepi5)
+4. ⭐ Starred [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare)
+5. ⭐ Starred [pl4nty/cloudflare-kubernetes-gateway](https://github.com/pl4nty/cloudflare-kubernetes-gateway)
+6. 🔱 Forked [MAHDTech/kube-dosbox](https://github.com/MAHDTech/kube-dosbox) from [akyriako/kube-dosbox](https://github.com/akyriako/kube-dosbox)
+7. ✔️ Closed issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
+8. ⭐ Starred [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
+9. 🔱 Forked [MAHDTech/unifi-ddns](https://github.com/MAHDTech/unifi-ddns) from [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
+10. ⭐ Starred [weswigham/synthwave-x-fluoromachine-contrast-fixed-animations](https://github.com/weswigham/synthwave-x-fluoromachine-contrast-fixed-animations)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
