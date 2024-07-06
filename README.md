@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/talos-sbc-rk3588](https://github.com/MAHDTech/talos-sbc-rk3588) from [milas/talos-sbc-rk3588](https://github.com/milas/talos-sbc-rk3588)
-2. 🔱 Forked [MAHDTech/talos-orangepi5](https://github.com/MAHDTech/talos-orangepi5) from [si0ls/talos-orangepi5](https://github.com/si0ls/talos-orangepi5)
-3. ⭐ Starred [si0ls/talos-orangepi5](https://github.com/si0ls/talos-orangepi5)
-4. ⭐ Starred [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare)
-5. ⭐ Starred [pl4nty/cloudflare-kubernetes-gateway](https://github.com/pl4nty/cloudflare-kubernetes-gateway)
-6. 🔱 Forked [MAHDTech/kube-dosbox](https://github.com/MAHDTech/kube-dosbox) from [akyriako/kube-dosbox](https://github.com/akyriako/kube-dosbox)
-7. ✔️ Closed issue [#121](https://github.com/siderolabs/image-factory/issues/121) in [siderolabs/image-factory](https://github.com/siderolabs/image-factory)
-8. ⭐ Starred [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
-9. 🔱 Forked [MAHDTech/unifi-ddns](https://github.com/MAHDTech/unifi-ddns) from [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns)
-10. ⭐ Starred [weswigham/synthwave-x-fluoromachine-contrast-fixed-animations](https://github.com/weswigham/synthwave-x-fluoromachine-contrast-fixed-animations)
+1. 🎉 Merged PR [#19](https://github.com/MAHDTech/nix-config/pull/19) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+2. 🎉 Merged PR [#18](https://github.com/MAHDTech/nix-config/pull/18) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+3. 🎉 Merged PR [#20](https://github.com/MAHDTech/nix-config/pull/20) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+4. 🎉 Merged PR [#15](https://github.com/MAHDTech/nix-config/pull/15) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+5. 🔱 Forked [MAHDTech/sbc-rockchip](https://github.com/MAHDTech/sbc-rockchip) from [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
+6. ⭐ Starred [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
+7. 🔱 Forked [MAHDTech/talos-sbc-rk3588](https://github.com/MAHDTech/talos-sbc-rk3588) from [milas/talos-sbc-rk3588](https://github.com/milas/talos-sbc-rk3588)
+8. 🔱 Forked [MAHDTech/talos-orangepi5](https://github.com/MAHDTech/talos-orangepi5) from [si0ls/talos-orangepi5](https://github.com/si0ls/talos-orangepi5)
+9. ⭐ Starred [si0ls/talos-orangepi5](https://github.com/si0ls/talos-orangepi5)
+10. ⭐ Starred [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
