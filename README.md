@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#19](https://github.com/MAHDTech/nix-config/pull/19) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-2. 🎉 Merged PR [#18](https://github.com/MAHDTech/nix-config/pull/18) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-3. 🎉 Merged PR [#20](https://github.com/MAHDTech/nix-config/pull/20) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-4. 🎉 Merged PR [#15](https://github.com/MAHDTech/nix-config/pull/15) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-5. 🔱 Forked [MAHDTech/sbc-rockchip](https://github.com/MAHDTech/sbc-rockchip) from [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
-6. ⭐ Starred [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
-7. 🔱 Forked [MAHDTech/talos-sbc-rk3588](https://github.com/MAHDTech/talos-sbc-rk3588) from [milas/talos-sbc-rk3588](https://github.com/milas/talos-sbc-rk3588)
-8. 🔱 Forked [MAHDTech/talos-orangepi5](https://github.com/MAHDTech/talos-orangepi5) from [si0ls/talos-orangepi5](https://github.com/si0ls/talos-orangepi5)
-9. ⭐ Starred [si0ls/talos-orangepi5](https://github.com/si0ls/talos-orangepi5)
-10. ⭐ Starred [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare)
+1. ⭐ Starred [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 🎉 Merged PR [#19](https://github.com/MAHDTech/nix-config/pull/19) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+3. 🎉 Merged PR [#18](https://github.com/MAHDTech/nix-config/pull/18) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+4. 🎉 Merged PR [#20](https://github.com/MAHDTech/nix-config/pull/20) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+5. 🎉 Merged PR [#15](https://github.com/MAHDTech/nix-config/pull/15) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+6. 🔱 Forked [MAHDTech/sbc-rockchip](https://github.com/MAHDTech/sbc-rockchip) from [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
+7. ⭐ Starred [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
+8. 🔱 Forked [MAHDTech/talos-sbc-rk3588](https://github.com/MAHDTech/talos-sbc-rk3588) from [milas/talos-sbc-rk3588](https://github.com/milas/talos-sbc-rk3588)
+9. 🔱 Forked [MAHDTech/talos-orangepi5](https://github.com/MAHDTech/talos-orangepi5) from [si0ls/talos-orangepi5](https://github.com/si0ls/talos-orangepi5)
+10. ⭐ Starred [si0ls/talos-orangepi5](https://github.com/si0ls/talos-orangepi5)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
