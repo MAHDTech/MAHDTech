@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EmperorOrokuSaki/generic_airdrop](https://github.com/EmperorOrokuSaki/generic_airdrop)
-2. ⭐ Starred [goauthentik/authentik](https://github.com/goauthentik/authentik)
-3. 🔱 Forked [MAHDTech/Deep-Live-Cam](https://github.com/MAHDTech/Deep-Live-Cam) from [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-4. 🎉 Merged PR [#24](https://github.com/MAHDTech/nix-config/pull/24) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-5. 💪 Opened PR [#24](https://github.com/MAHDTech/nix-config/pull/24) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-6. ❌ Closed PR [#21](https://github.com/MAHDTech/nix-config/pull/21) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-7. ❌ Closed PR [#22](https://github.com/MAHDTech/nix-config/pull/22) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-8. ❌ Closed PR [#23](https://github.com/MAHDTech/nix-config/pull/23) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-9. ⭐ Starred [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-10. 🎉 Merged PR [#19](https://github.com/MAHDTech/nix-config/pull/19) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+1. ⭐ Starred [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic)
+2. ⭐ Starred [EmperorOrokuSaki/generic_airdrop](https://github.com/EmperorOrokuSaki/generic_airdrop)
+3. ⭐ Starred [goauthentik/authentik](https://github.com/goauthentik/authentik)
+4. 🔱 Forked [MAHDTech/Deep-Live-Cam](https://github.com/MAHDTech/Deep-Live-Cam) from [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+5. 🎉 Merged PR [#24](https://github.com/MAHDTech/nix-config/pull/24) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+6. 💪 Opened PR [#24](https://github.com/MAHDTech/nix-config/pull/24) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+7. ❌ Closed PR [#21](https://github.com/MAHDTech/nix-config/pull/21) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+8. ❌ Closed PR [#22](https://github.com/MAHDTech/nix-config/pull/22) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+9. ❌ Closed PR [#23](https://github.com/MAHDTech/nix-config/pull/23) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+10. ⭐ Starred [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
