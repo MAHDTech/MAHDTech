@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic)
-2. ⭐ Starred [EmperorOrokuSaki/generic_airdrop](https://github.com/EmperorOrokuSaki/generic_airdrop)
-3. ⭐ Starred [goauthentik/authentik](https://github.com/goauthentik/authentik)
-4. 🔱 Forked [MAHDTech/Deep-Live-Cam](https://github.com/MAHDTech/Deep-Live-Cam) from [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-5. 🎉 Merged PR [#24](https://github.com/MAHDTech/nix-config/pull/24) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-6. 💪 Opened PR [#24](https://github.com/MAHDTech/nix-config/pull/24) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-7. ❌ Closed PR [#21](https://github.com/MAHDTech/nix-config/pull/21) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-8. ❌ Closed PR [#22](https://github.com/MAHDTech/nix-config/pull/22) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-9. ❌ Closed PR [#23](https://github.com/MAHDTech/nix-config/pull/23) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-10. ⭐ Starred [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. 📔 Created new repository [MAHDTech/talos](https://github.com/MAHDTech/talos)
+2. 🔱 Forked [MAHDTech/pkgs](https://github.com/MAHDTech/pkgs) from [siderolabs/pkgs](https://github.com/siderolabs/pkgs)
+3. ❗️ Opened issue [#32](https://github.com/siderolabs/sbc-rockchip/issues/32) in [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
+4. 💪 Opened PR [#31](https://github.com/siderolabs/sbc-rockchip/pull/31) in [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
+5. ⭐ Starred [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic)
+6. ⭐ Starred [EmperorOrokuSaki/generic_airdrop](https://github.com/EmperorOrokuSaki/generic_airdrop)
+7. ⭐ Starred [goauthentik/authentik](https://github.com/goauthentik/authentik)
+8. 🔱 Forked [MAHDTech/Deep-Live-Cam](https://github.com/MAHDTech/Deep-Live-Cam) from [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+9. 🎉 Merged PR [#24](https://github.com/MAHDTech/nix-config/pull/24) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+10. 💪 Opened PR [#24](https://github.com/MAHDTech/nix-config/pull/24) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
