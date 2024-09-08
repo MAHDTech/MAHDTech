@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/MAHDTech/talos-test/pull/2) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
-2. 🎉 Merged PR [#1](https://github.com/MAHDTech/talos-test/pull/1) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
-3. 💪 Opened PR [#1](https://github.com/MAHDTech/talos/pull/1) in [MAHDTech/talos](https://github.com/MAHDTech/talos)
-4. 📔 Created new repository [MAHDTech/talos](https://github.com/MAHDTech/talos)
-5. 🔱 Forked [MAHDTech/pkgs](https://github.com/MAHDTech/pkgs) from [siderolabs/pkgs](https://github.com/siderolabs/pkgs)
-6. ❗️ Opened issue [#32](https://github.com/siderolabs/sbc-rockchip/issues/32) in [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
-7. 💪 Opened PR [#31](https://github.com/siderolabs/sbc-rockchip/pull/31) in [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
-8. ⭐ Starred [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic)
-9. ⭐ Starred [EmperorOrokuSaki/generic_airdrop](https://github.com/EmperorOrokuSaki/generic_airdrop)
-10. ⭐ Starred [goauthentik/authentik](https://github.com/goauthentik/authentik)
+1. 🎉 Merged PR [#2](https://github.com/MAHDTech/talos-test/pull/2) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
+2. ❌ Closed PR [#31](https://github.com/siderolabs/sbc-rockchip/pull/31) in [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
+3. 💪 Opened PR [#2](https://github.com/MAHDTech/talos-test/pull/2) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
+4. 🎉 Merged PR [#1](https://github.com/MAHDTech/talos-test/pull/1) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
+5. 💪 Opened PR [#1](https://github.com/MAHDTech/talos/pull/1) in [MAHDTech/talos](https://github.com/MAHDTech/talos)
+6. 📔 Created new repository [MAHDTech/talos](https://github.com/MAHDTech/talos)
+7. 🔱 Forked [MAHDTech/pkgs](https://github.com/MAHDTech/pkgs) from [siderolabs/pkgs](https://github.com/siderolabs/pkgs)
+8. ❗️ Opened issue [#32](https://github.com/siderolabs/sbc-rockchip/issues/32) in [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
+9. 💪 Opened PR [#31](https://github.com/siderolabs/sbc-rockchip/pull/31) in [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
+10. ⭐ Starred [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
