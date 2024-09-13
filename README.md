@@ -26,8 +26,8 @@
 <!--START_SECTION:badges-->
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/30c7981e-3626-4917-a19b-50492750187e "CKA: Certified Kubernetes Administrator")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/83d81826-c25e-4853-81eb-bcf626f82257 "CKAD: Certified Kubernetes Application Developer")
-[![LFD259: Kubernetes for Developers](https://images.credly.com/size/110x110/images/e26fb81e-6f50-453c-92a6-07543e529c8d/image.png)](http://www.credly.com/badges/5d889a6a-6b1c-4484-83f6-4d43185f4d24 "LFD259: Kubernetes for Developers")
-[![LFS258: Kubernetes Fundamentals](https://images.credly.com/size/110x110/images/6a77753d-220b-47ee-af39-789b433270a1/image.png)](http://www.credly.com/badges/afa067be-977e-482c-913f-774f8f6892b0 "LFS258: Kubernetes Fundamentals")
+[![LFD259: Kubernetes for Developers](https://images.credly.com/size/110x110/images/f906b6db-2dc5-4908-b27d-8f05beec8dad/blob)](http://www.credly.com/badges/5d889a6a-6b1c-4484-83f6-4d43185f4d24 "LFD259: Kubernetes for Developers")
+[![LFS258: Kubernetes Fundamentals](https://images.credly.com/size/110x110/images/123746a7-fbbe-4fdd-9c0c-f0254e53292a/blob)](http://www.credly.com/badges/afa067be-977e-482c-913f-774f8f6892b0 "LFS258: Kubernetes Fundamentals")
 <!--END_SECTION:badges-->
 
 </details>
