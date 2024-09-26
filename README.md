@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/nkp-quickstart](https://github.com/MAHDTech/nkp-quickstart) from [nutanixdev/nkp-quickstart](https://github.com/nutanixdev/nkp-quickstart)
-2. ⭐ Starred [dlo9/LSI-9211-8i-IT-USB](https://github.com/dlo9/LSI-9211-8i-IT-USB)
-3. 💪 Opened PR [#4](https://github.com/MAHDTech/talos-test/pull/4) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
-4. 🎉 Merged PR [#3](https://github.com/MAHDTech/talos-test/pull/3) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
-5. 💪 Opened PR [#3](https://github.com/MAHDTech/talos-test/pull/3) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
-6. 🎉 Merged PR [#2](https://github.com/MAHDTech/talos-test/pull/2) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
-7. ❌ Closed PR [#31](https://github.com/siderolabs/sbc-rockchip/pull/31) in [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
-8. 💪 Opened PR [#2](https://github.com/MAHDTech/talos-test/pull/2) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
-9. 🎉 Merged PR [#1](https://github.com/MAHDTech/talos-test/pull/1) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
-10. 💪 Opened PR [#1](https://github.com/MAHDTech/talos/pull/1) in [MAHDTech/talos](https://github.com/MAHDTech/talos)
+1. 💪 Opened PR [#162](https://github.com/edk2-porting/edk2-rk3588/pull/162) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+2. ⭐ Starred [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+3. 🔱 Forked [MAHDTech/edk2-rk3588](undefined) from [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+4. 🔱 Forked [MAHDTech/nkp-quickstart](https://github.com/MAHDTech/nkp-quickstart) from [nutanixdev/nkp-quickstart](https://github.com/nutanixdev/nkp-quickstart)
+5. ⭐ Starred [dlo9/LSI-9211-8i-IT-USB](https://github.com/dlo9/LSI-9211-8i-IT-USB)
+6. 💪 Opened PR [#4](https://github.com/MAHDTech/talos-test/pull/4) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
+7. 🎉 Merged PR [#3](https://github.com/MAHDTech/talos-test/pull/3) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
+8. 💪 Opened PR [#3](https://github.com/MAHDTech/talos-test/pull/3) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
+9. 🎉 Merged PR [#2](https://github.com/MAHDTech/talos-test/pull/2) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
+10. ❌ Closed PR [#31](https://github.com/siderolabs/sbc-rockchip/pull/31) in [siderolabs/sbc-rockchip](https://github.com/siderolabs/sbc-rockchip)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
