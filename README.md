@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip)
-2. ⭐ Starred [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
-3. 💪 Opened PR [#162](https://github.com/edk2-porting/edk2-rk3588/pull/162) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
-4. ⭐ Starred [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
-5. 🔱 Forked [MAHDTech/edk2-rk3588](undefined) from [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
-6. 🔱 Forked [MAHDTech/nkp-quickstart](https://github.com/MAHDTech/nkp-quickstart) from [nutanixdev/nkp-quickstart](https://github.com/nutanixdev/nkp-quickstart)
-7. ⭐ Starred [dlo9/LSI-9211-8i-IT-USB](https://github.com/dlo9/LSI-9211-8i-IT-USB)
-8. 💪 Opened PR [#4](https://github.com/MAHDTech/talos-test/pull/4) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
-9. 🎉 Merged PR [#3](https://github.com/MAHDTech/talos-test/pull/3) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
-10. 💪 Opened PR [#3](https://github.com/MAHDTech/talos-test/pull/3) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
+1. ⭐ Starred [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)
+2. ⭐ Starred [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip)
+3. ⭐ Starred [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
+4. 💪 Opened PR [#162](https://github.com/edk2-porting/edk2-rk3588/pull/162) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+5. ⭐ Starred [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+6. 🔱 Forked [MAHDTech/edk2-rk3588](undefined) from [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+7. 🔱 Forked [MAHDTech/nkp-quickstart](https://github.com/MAHDTech/nkp-quickstart) from [nutanixdev/nkp-quickstart](https://github.com/nutanixdev/nkp-quickstart)
+8. ⭐ Starred [dlo9/LSI-9211-8i-IT-USB](https://github.com/dlo9/LSI-9211-8i-IT-USB)
+9. 💪 Opened PR [#4](https://github.com/MAHDTech/talos-test/pull/4) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
+10. 🎉 Merged PR [#3](https://github.com/MAHDTech/talos-test/pull/3) in [MAHDTech/talos-test](https://github.com/MAHDTech/talos-test)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
