@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/MAHDTech/nixos-installer/pull/1) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-2. 🔱 Forked [MAHDTech/nixos-rk3588](undefined) from [ryan4yin/nixos-rk3588](https://github.com/ryan4yin/nixos-rk3588)
-3. 📔 Created new repository [MAHDTech/nix-config-sbc](https://github.com/MAHDTech/nix-config-sbc)
-4. ⭐ Starred [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)
-5. ⭐ Starred [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip)
-6. ⭐ Starred [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
-7. 💪 Opened PR [#162](https://github.com/edk2-porting/edk2-rk3588/pull/162) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
-8. ⭐ Starred [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
-9. 🔱 Forked [MAHDTech/edk2-rk3588](undefined) from [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
-10. 🔱 Forked [MAHDTech/nkp-quickstart](https://github.com/MAHDTech/nkp-quickstart) from [nutanixdev/nkp-quickstart](https://github.com/nutanixdev/nkp-quickstart)
+1. ⭐ Starred [wochap/nix-config](https://github.com/wochap/nix-config)
+2. 🎉 Merged PR [#1](https://github.com/MAHDTech/nixos-installer/pull/1) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+3. 🔱 Forked [MAHDTech/nixos-rk3588](undefined) from [ryan4yin/nixos-rk3588](https://github.com/ryan4yin/nixos-rk3588)
+4. 📔 Created new repository [MAHDTech/nix-config-sbc](https://github.com/MAHDTech/nix-config-sbc)
+5. ⭐ Starred [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)
+6. ⭐ Starred [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip)
+7. ⭐ Starred [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
+8. 💪 Opened PR [#162](https://github.com/edk2-porting/edk2-rk3588/pull/162) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+9. ⭐ Starred [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+10. 🔱 Forked [MAHDTech/edk2-rk3588](undefined) from [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
