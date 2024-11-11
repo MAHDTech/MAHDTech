@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/MAHDTech/nixos-installer/pull/2) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-2. ⭐ Starred [wochap/nix-config](https://github.com/wochap/nix-config)
-3. 🎉 Merged PR [#1](https://github.com/MAHDTech/nixos-installer/pull/1) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-4. 🔱 Forked [MAHDTech/nixos-rk3588](undefined) from [ryan4yin/nixos-rk3588](https://github.com/ryan4yin/nixos-rk3588)
-5. 📔 Created new repository [MAHDTech/nix-config-sbc](https://github.com/MAHDTech/nix-config-sbc)
-6. ⭐ Starred [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)
-7. ⭐ Starred [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip)
-8. ⭐ Starred [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
-9. 💪 Opened PR [#162](https://github.com/edk2-porting/edk2-rk3588/pull/162) in [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
-10. ⭐ Starred [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588)
+1. 🎉 Merged PR [#29](https://github.com/MAHDTech/nix-config/pull/29) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+2. 💪 Opened PR [#29](https://github.com/MAHDTech/nix-config/pull/29) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+3. ❌ Closed PR [#28](https://github.com/MAHDTech/nix-config/pull/28) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+4. 🎉 Merged PR [#25](https://github.com/MAHDTech/nix-config/pull/25) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+5. 💪 Opened PR [#2](https://github.com/MAHDTech/nixos-installer/pull/2) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+6. ⭐ Starred [wochap/nix-config](https://github.com/wochap/nix-config)
+7. 🎉 Merged PR [#1](https://github.com/MAHDTech/nixos-installer/pull/1) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+8. 🔱 Forked [MAHDTech/nixos-rk3588](undefined) from [ryan4yin/nixos-rk3588](https://github.com/ryan4yin/nixos-rk3588)
+9. 📔 Created new repository [MAHDTech/nix-config-sbc](https://github.com/MAHDTech/nix-config-sbc)
+10. ⭐ Starred [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
