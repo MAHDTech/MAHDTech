@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#30](https://github.com/MAHDTech/nix-config/pull/30) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-2. 💪 Opened PR [#30](https://github.com/MAHDTech/nix-config/pull/30) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-3. 🎉 Merged PR [#29](https://github.com/MAHDTech/nix-config/pull/29) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-4. 💪 Opened PR [#29](https://github.com/MAHDTech/nix-config/pull/29) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-5. ❌ Closed PR [#28](https://github.com/MAHDTech/nix-config/pull/28) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-6. 🎉 Merged PR [#25](https://github.com/MAHDTech/nix-config/pull/25) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-7. 💪 Opened PR [#2](https://github.com/MAHDTech/nixos-installer/pull/2) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-8. ⭐ Starred [wochap/nix-config](https://github.com/wochap/nix-config)
-9. 🎉 Merged PR [#1](https://github.com/MAHDTech/nixos-installer/pull/1) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-10. 🔱 Forked [MAHDTech/nixos-rk3588](undefined) from [ryan4yin/nixos-rk3588](https://github.com/ryan4yin/nixos-rk3588)
+1. 🎉 Merged PR [#5](https://github.com/salt-labs/linters/pull/5) in [salt-labs/linters](https://github.com/salt-labs/linters)
+2. 💪 Opened PR [#5](https://github.com/salt-labs/linters/pull/5) in [salt-labs/linters](https://github.com/salt-labs/linters)
+3. 💪 Opened PR [#3](https://github.com/MAHDTech/nixos-installer/pull/3) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+4. 🎉 Merged PR [#2](https://github.com/MAHDTech/nixos-installer/pull/2) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+5. 🎉 Merged PR [#30](https://github.com/MAHDTech/nix-config/pull/30) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+6. 💪 Opened PR [#30](https://github.com/MAHDTech/nix-config/pull/30) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+7. 🎉 Merged PR [#29](https://github.com/MAHDTech/nix-config/pull/29) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+8. 💪 Opened PR [#29](https://github.com/MAHDTech/nix-config/pull/29) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+9. ❌ Closed PR [#28](https://github.com/MAHDTech/nix-config/pull/28) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+10. 🎉 Merged PR [#25](https://github.com/MAHDTech/nix-config/pull/25) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
