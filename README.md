@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/salt-labs/linters/pull/5) in [salt-labs/linters](https://github.com/salt-labs/linters)
-2. 💪 Opened PR [#5](https://github.com/salt-labs/linters/pull/5) in [salt-labs/linters](https://github.com/salt-labs/linters)
-3. 💪 Opened PR [#3](https://github.com/MAHDTech/nixos-installer/pull/3) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-4. 🎉 Merged PR [#2](https://github.com/MAHDTech/nixos-installer/pull/2) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-5. 🎉 Merged PR [#30](https://github.com/MAHDTech/nix-config/pull/30) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-6. 💪 Opened PR [#30](https://github.com/MAHDTech/nix-config/pull/30) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-7. 🎉 Merged PR [#29](https://github.com/MAHDTech/nix-config/pull/29) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-8. 💪 Opened PR [#29](https://github.com/MAHDTech/nix-config/pull/29) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-9. ❌ Closed PR [#28](https://github.com/MAHDTech/nix-config/pull/28) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-10. 🎉 Merged PR [#25](https://github.com/MAHDTech/nix-config/pull/25) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+1. 💪 Opened PR [#5](https://github.com/MAHDTech/homelab/pull/5) in [MAHDTech/homelab](https://github.com/MAHDTech/homelab)
+2. 🎉 Merged PR [#4](https://github.com/MAHDTech/nixos-installer/pull/4) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+3. 🎉 Merged PR [#5](https://github.com/MAHDTech/nixos-installer/pull/5) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+4. 👍 Approved [#4](https://github.com/MAHDTech/nixos-installer/pull/4#pullrequestreview-2437581017) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+5. 👍 Approved [#5](https://github.com/MAHDTech/nixos-installer/pull/5#pullrequestreview-2437580778) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+6. 🎉 Merged PR [#6](https://github.com/MAHDTech/nixos-installer/pull/6) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+7. 💪 Opened PR [#6](https://github.com/MAHDTech/nixos-installer/pull/6) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+8. 🎉 Merged PR [#3](https://github.com/MAHDTech/nixos-installer/pull/3) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+9. 🎉 Merged PR [#5](https://github.com/salt-labs/linters/pull/5) in [salt-labs/linters](https://github.com/salt-labs/linters)
+10. 💪 Opened PR [#5](https://github.com/salt-labs/linters/pull/5) in [salt-labs/linters](https://github.com/salt-labs/linters)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
