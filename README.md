@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#140](https://github.com/salt-labs/containers/pull/140) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 🎉 Merged PR [#141](https://github.com/salt-labs/containers/pull/141) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 👍 Approved [#141](https://github.com/salt-labs/containers/pull/141#pullrequestreview-2460314794) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. ❌ Closed PR [#119](https://github.com/salt-labs/containers/pull/119) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. ❌ Closed PR [#120](https://github.com/salt-labs/containers/pull/120) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. ❌ Closed PR [#121](https://github.com/salt-labs/containers/pull/121) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. ❌ Closed PR [#122](https://github.com/salt-labs/containers/pull/122) in [salt-labs/containers](https://github.com/salt-labs/containers)
-8. ❌ Closed PR [#124](https://github.com/salt-labs/containers/pull/124) in [salt-labs/containers](https://github.com/salt-labs/containers)
-9. ❌ Closed PR [#126](https://github.com/salt-labs/containers/pull/126) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. ❌ Closed PR [#127](https://github.com/salt-labs/containers/pull/127) in [salt-labs/containers](https://github.com/salt-labs/containers)
+1. 🔱 Forked [MAHDTech/shoelaces](https://github.com/MAHDTech/shoelaces) from [thousandeyes/shoelaces](https://github.com/thousandeyes/shoelaces)
+2. ⭐ Starred [thousandeyes/shoelaces](https://github.com/thousandeyes/shoelaces)
+3. 🎉 Merged PR [#140](https://github.com/salt-labs/containers/pull/140) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 🎉 Merged PR [#141](https://github.com/salt-labs/containers/pull/141) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. 👍 Approved [#141](https://github.com/salt-labs/containers/pull/141#pullrequestreview-2460314794) in [salt-labs/containers](https://github.com/salt-labs/containers)
+6. ❌ Closed PR [#119](https://github.com/salt-labs/containers/pull/119) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. ❌ Closed PR [#120](https://github.com/salt-labs/containers/pull/120) in [salt-labs/containers](https://github.com/salt-labs/containers)
+8. ❌ Closed PR [#121](https://github.com/salt-labs/containers/pull/121) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. ❌ Closed PR [#122](https://github.com/salt-labs/containers/pull/122) in [salt-labs/containers](https://github.com/salt-labs/containers)
+10. ❌ Closed PR [#124](https://github.com/salt-labs/containers/pull/124) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
