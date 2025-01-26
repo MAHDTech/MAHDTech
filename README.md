@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#152](https://github.com/salt-labs/containers/pull/152) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 👍 Approved [#152](https://github.com/salt-labs/containers/pull/152#pullrequestreview-2538343430) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. ⭐ Starred [svalabs/terraform-provider-forgejo](https://github.com/svalabs/terraform-provider-forgejo)
-4. 👍 Approved [#25](https://github.com/MAHDTech/website/pull/25#pullrequestreview-2510303586) in [MAHDTech/website](https://github.com/MAHDTech/website)
-5. ⭐ Starred [nftreasure/project-y](https://github.com/nftreasure/project-y)
-6. 💪 Opened PR [#23](https://github.com/NFTREASURE-Community/nftreasure-community/pull/23) in [NFTREASURE-Community/nftreasure-community](https://github.com/NFTREASURE-Community/nftreasure-community)
-7. 💪 Opened PR [#10](https://github.com/MAHDTech/homelab/pull/10) in [MAHDTech/homelab](https://github.com/MAHDTech/homelab)
-8. 🎉 Merged PR [#9](https://github.com/MAHDTech/homelab/pull/9) in [MAHDTech/homelab](https://github.com/MAHDTech/homelab)
-9. 💪 Opened PR [#9](https://github.com/MAHDTech/homelab/pull/9) in [MAHDTech/homelab](https://github.com/MAHDTech/homelab)
-10. 🎉 Merged PR [#5](https://github.com/MAHDTech/homelab/pull/5) in [MAHDTech/homelab](https://github.com/MAHDTech/homelab)
+1. 🎉 Merged PR [#153](https://github.com/salt-labs/containers/pull/153) in [salt-labs/containers](https://github.com/salt-labs/containers)
+2. 👍 Approved [#153](https://github.com/salt-labs/containers/pull/153#pullrequestreview-2574010532) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. 👍 Approved [#153](https://github.com/salt-labs/containers/pull/153#pullrequestreview-2574010526) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. ⭐ Starred [Aylur/dotfiles](https://github.com/Aylur/dotfiles)
+5. 🎉 Merged PR [#152](https://github.com/salt-labs/containers/pull/152) in [salt-labs/containers](https://github.com/salt-labs/containers)
+6. 👍 Approved [#152](https://github.com/salt-labs/containers/pull/152#pullrequestreview-2538343430) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. ⭐ Starred [svalabs/terraform-provider-forgejo](https://github.com/svalabs/terraform-provider-forgejo)
+8. 👍 Approved [#25](https://github.com/MAHDTech/website/pull/25#pullrequestreview-2510303586) in [MAHDTech/website](https://github.com/MAHDTech/website)
+9. ⭐ Starred [nftreasure/project-y](https://github.com/nftreasure/project-y)
+10. 💪 Opened PR [#23](https://github.com/NFTREASURE-Community/nftreasure-community/pull/23) in [NFTREASURE-Community/nftreasure-community](https://github.com/NFTREASURE-Community/nftreasure-community)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
