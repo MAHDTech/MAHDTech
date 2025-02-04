@@ -105,13 +105,13 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#153](https://github.com/salt-labs/containers/pull/153) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 👍 Approved [#153](https://github.com/salt-labs/containers/pull/153#pullrequestreview-2574010532) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 👍 Approved [#153](https://github.com/salt-labs/containers/pull/153#pullrequestreview-2574010526) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. ⭐ Starred [Aylur/dotfiles](https://github.com/Aylur/dotfiles)
-5. 🎉 Merged PR [#152](https://github.com/salt-labs/containers/pull/152) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. 👍 Approved [#152](https://github.com/salt-labs/containers/pull/152#pullrequestreview-2538343430) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. ⭐ Starred [svalabs/terraform-provider-forgejo](https://github.com/svalabs/terraform-provider-forgejo)
+1. ⭐ Starred [GridPlus/lattice-connect-v2](https://github.com/GridPlus/lattice-connect-v2)
+2. 🎉 Merged PR [#153](https://github.com/salt-labs/containers/pull/153) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. 👍 Approved [#153](https://github.com/salt-labs/containers/pull/153#pullrequestreview-2574010532) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 👍 Approved [#153](https://github.com/salt-labs/containers/pull/153#pullrequestreview-2574010526) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. ⭐ Starred [Aylur/dotfiles](https://github.com/Aylur/dotfiles)
+6. 🎉 Merged PR [#152](https://github.com/salt-labs/containers/pull/152) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. 👍 Approved [#152](https://github.com/salt-labs/containers/pull/152#pullrequestreview-2538343430) in [salt-labs/containers](https://github.com/salt-labs/containers)
 8. 👍 Approved [#25](https://github.com/MAHDTech/website/pull/25#pullrequestreview-2510303586) in [MAHDTech/website](https://github.com/MAHDTech/website)
 9. ⭐ Starred [nftreasure/project-y](https://github.com/nftreasure/project-y)
 10. 💪 Opened PR [#23](https://github.com/NFTREASURE-Community/nftreasure-community/pull/23) in [NFTREASURE-Community/nftreasure-community](https://github.com/NFTREASURE-Community/nftreasure-community)
