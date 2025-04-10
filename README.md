@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd)
-2. 🎉 Merged PR [#156](https://github.com/salt-labs/containers/pull/156) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 👍 Approved [#156](https://github.com/salt-labs/containers/pull/156#pullrequestreview-2687754751) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 🎉 Merged PR [#155](https://github.com/salt-labs/containers/pull/155) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. 🎉 Merged PR [#154](https://github.com/salt-labs/containers/pull/154) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. 👍 Approved [#155](https://github.com/salt-labs/containers/pull/155#pullrequestreview-2687754318) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. 👍 Approved [#154](https://github.com/salt-labs/containers/pull/154#pullrequestreview-2687754315) in [salt-labs/containers](https://github.com/salt-labs/containers)
-8. 👍 Approved [#155](https://github.com/salt-labs/containers/pull/155#pullrequestreview-2687754301) in [salt-labs/containers](https://github.com/salt-labs/containers)
-9. 👍 Approved [#154](https://github.com/salt-labs/containers/pull/154#pullrequestreview-2687754304) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. 🔱 Forked [MAHDTech/stake-python](https://github.com/MAHDTech/stake-python) from [stabacco/stake-python](https://github.com/stabacco/stake-python)
+1. 💪 Opened PR [#11](https://github.com/MAHDTech/nixos-installer/pull/11) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+2. 🎉 Merged PR [#10](https://github.com/MAHDTech/nixos-installer/pull/10) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+3. 🎉 Merged PR [#9](https://github.com/MAHDTech/nixos-installer/pull/9) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+4. 🎉 Merged PR [#8](https://github.com/MAHDTech/nixos-installer/pull/8) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+5. 👍 Approved [#8](https://github.com/MAHDTech/nixos-installer/pull/8#pullrequestreview-2752146177) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+6. 👍 Approved [#10](https://github.com/MAHDTech/nixos-installer/pull/10#pullrequestreview-2752145751) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+7. 👍 Approved [#9](https://github.com/MAHDTech/nixos-installer/pull/9#pullrequestreview-2752145306) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+8. 🎉 Merged PR [#7](https://github.com/MAHDTech/nixos-installer/pull/7) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+9. ⭐ Starred [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd)
+10. 🎉 Merged PR [#156](https://github.com/salt-labs/containers/pull/156) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
