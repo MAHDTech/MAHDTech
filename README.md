@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#162](https://github.com/salt-labs/containers/pull/162) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 👍 Approved [#162](https://github.com/salt-labs/containers/pull/162#pullrequestreview-2940931784) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 🎉 Merged PR [#161](https://github.com/salt-labs/containers/pull/161) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 👍 Approved [#161](https://github.com/salt-labs/containers/pull/161#pullrequestreview-2934054136) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. 🎉 Merged PR [#160](https://github.com/salt-labs/containers/pull/160) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. 👍 Approved [#160](https://github.com/salt-labs/containers/pull/160#pullrequestreview-2912530963) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. 💪 Opened PR [#1](https://github.com/bingamon/.github/pull/1) in [bingamon/.github](https://github.com/bingamon/.github)
-8. 📔 Created new repository [bingamon/.github](https://github.com/bingamon/.github)
-9. 🎉 Merged PR [#17](https://github.com/MAHDTech/nixos-installer/pull/17) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-10. 💪 Opened PR [#17](https://github.com/MAHDTech/nixos-installer/pull/17) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+1. 🎉 Merged PR [#36](https://github.com/MAHDTech/nix-config/pull/36) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+2. 👍 Approved [#36](https://github.com/MAHDTech/nix-config/pull/36#pullrequestreview-2944787071) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+3. ❌ Closed PR [#35](https://github.com/MAHDTech/nix-config/pull/35) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+4. 🎉 Merged PR [#162](https://github.com/salt-labs/containers/pull/162) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. 👍 Approved [#162](https://github.com/salt-labs/containers/pull/162#pullrequestreview-2940931784) in [salt-labs/containers](https://github.com/salt-labs/containers)
+6. 🎉 Merged PR [#161](https://github.com/salt-labs/containers/pull/161) in [salt-labs/containers](https://github.com/salt-labs/containers)
+7. 👍 Approved [#161](https://github.com/salt-labs/containers/pull/161#pullrequestreview-2934054136) in [salt-labs/containers](https://github.com/salt-labs/containers)
+8. 🎉 Merged PR [#160](https://github.com/salt-labs/containers/pull/160) in [salt-labs/containers](https://github.com/salt-labs/containers)
+9. 👍 Approved [#160](https://github.com/salt-labs/containers/pull/160#pullrequestreview-2912530963) in [salt-labs/containers](https://github.com/salt-labs/containers)
+10. 💪 Opened PR [#1](https://github.com/bingamon/.github/pull/1) in [bingamon/.github](https://github.com/bingamon/.github)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
