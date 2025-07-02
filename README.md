@@ -24,10 +24,10 @@
   <summary>Badges</summary>
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/30c7981e-3626-4917-a19b-50492750187e "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/83d81826-c25e-4853-81eb-bcf626f82257 "CKAD: Certified Kubernetes Application Developer")
-[![LFD259: Kubernetes for Developers](https://images.credly.com/size/110x110/images/f906b6db-2dc5-4908-b27d-8f05beec8dad/blob)](http://www.credly.com/badges/5d889a6a-6b1c-4484-83f6-4d43185f4d24 "LFD259: Kubernetes for Developers")
-[![LFS258: Kubernetes Fundamentals](https://images.credly.com/size/110x110/images/123746a7-fbbe-4fdd-9c0c-f0254e53292a/blob)](http://www.credly.com/badges/afa067be-977e-482c-913f-774f8f6892b0 "LFS258: Kubernetes Fundamentals")
+<a href="https://www.credly.com/badges/5d889a6a-6b1c-4484-83f6-4d43185f4d24" title="LFD259: Kubernetes for Developers"><img src="https://images.credly.com/size/80x80/images/f906b6db-2dc5-4908-b27d-8f05beec8dad/blob" alt="LFD259: Kubernetes for Developers" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/afa067be-977e-482c-913f-774f8f6892b0" title="LFS258: Kubernetes Fundamentals"><img src="https://images.credly.com/size/80x80/images/123746a7-fbbe-4fdd-9c0c-f0254e53292a/blob" alt="LFS258: Kubernetes Fundamentals" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/30c7981e-3626-4917-a19b-50492750187e" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/83d81826-c25e-4853-81eb-bcf626f82257" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 </details>
