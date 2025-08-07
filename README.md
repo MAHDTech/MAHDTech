@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#31](https://github.com/MAHDTech/nixos-installer/pull/31) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-2. 💪 Opened PR [#31](https://github.com/MAHDTech/nixos-installer/pull/31) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-3. 🎉 Merged PR [#30](https://github.com/MAHDTech/nixos-installer/pull/30) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-4. 💪 Opened PR [#30](https://github.com/MAHDTech/nixos-installer/pull/30) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-5. 🎉 Merged PR [#29](https://github.com/MAHDTech/nixos-installer/pull/29) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-6. 💪 Opened PR [#29](https://github.com/MAHDTech/nixos-installer/pull/29) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-7. 🎉 Merged PR [#28](https://github.com/MAHDTech/nixos-installer/pull/28) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-8. 💪 Opened PR [#28](https://github.com/MAHDTech/nixos-installer/pull/28) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-9. 💪 Opened PR [#40](https://github.com/MAHDTech/nix-config/pull/40) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-10. 🎉 Merged PR [#18](https://github.com/MAHDTech/nixos-installer/pull/18) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+1. 🎉 Merged PR [#32](https://github.com/MAHDTech/nixos-installer/pull/32) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+2. 💪 Opened PR [#32](https://github.com/MAHDTech/nixos-installer/pull/32) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+3. 🎉 Merged PR [#31](https://github.com/MAHDTech/nixos-installer/pull/31) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+4. 💪 Opened PR [#31](https://github.com/MAHDTech/nixos-installer/pull/31) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+5. 🎉 Merged PR [#30](https://github.com/MAHDTech/nixos-installer/pull/30) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+6. 💪 Opened PR [#30](https://github.com/MAHDTech/nixos-installer/pull/30) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+7. 🎉 Merged PR [#29](https://github.com/MAHDTech/nixos-installer/pull/29) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+8. 💪 Opened PR [#29](https://github.com/MAHDTech/nixos-installer/pull/29) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+9. 🎉 Merged PR [#28](https://github.com/MAHDTech/nixos-installer/pull/28) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+10. 💪 Opened PR [#28](https://github.com/MAHDTech/nixos-installer/pull/28) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
