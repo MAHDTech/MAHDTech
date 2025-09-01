@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#26](https://github.com/salt-labs/website/pull/26) in [salt-labs/website](https://github.com/salt-labs/website)
-2. 🎉 Merged PR [#35](https://github.com/salt-labs/docs/pull/35) in [salt-labs/docs](https://github.com/salt-labs/docs)
-3. 👍 Approved [#26](https://github.com/salt-labs/website/pull/26#pullrequestreview-3151047185) in [salt-labs/website](https://github.com/salt-labs/website)
-4. 🎉 Merged PR [#36](https://github.com/salt-labs/docs/pull/36) in [salt-labs/docs](https://github.com/salt-labs/docs)
-5. 👍 Approved [#35](https://github.com/salt-labs/docs/pull/35#pullrequestreview-3151044443) in [salt-labs/docs](https://github.com/salt-labs/docs)
-6. 👍 Approved [#36](https://github.com/salt-labs/docs/pull/36#pullrequestreview-3151040369) in [salt-labs/docs](https://github.com/salt-labs/docs)
-7. 🎉 Merged PR [#30](https://github.com/MAHDTech/website/pull/30) in [MAHDTech/website](https://github.com/MAHDTech/website)
-8. 💪 Opened PR [#30](https://github.com/MAHDTech/website/pull/30) in [MAHDTech/website](https://github.com/MAHDTech/website)
-9. ❌ Closed PR [#28](https://github.com/MAHDTech/website/pull/28) in [MAHDTech/website](https://github.com/MAHDTech/website)
-10. 🎉 Merged PR [#27](https://github.com/MAHDTech/website/pull/27) in [MAHDTech/website](https://github.com/MAHDTech/website)
+1. 💪 Opened PR [#42](https://github.com/MAHDTech/nix-config/pull/42) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+2. 🎉 Merged PR [#26](https://github.com/salt-labs/website/pull/26) in [salt-labs/website](https://github.com/salt-labs/website)
+3. 🎉 Merged PR [#35](https://github.com/salt-labs/docs/pull/35) in [salt-labs/docs](https://github.com/salt-labs/docs)
+4. 👍 Approved [#26](https://github.com/salt-labs/website/pull/26#pullrequestreview-3151047185) in [salt-labs/website](https://github.com/salt-labs/website)
+5. 🎉 Merged PR [#36](https://github.com/salt-labs/docs/pull/36) in [salt-labs/docs](https://github.com/salt-labs/docs)
+6. 👍 Approved [#35](https://github.com/salt-labs/docs/pull/35#pullrequestreview-3151044443) in [salt-labs/docs](https://github.com/salt-labs/docs)
+7. 👍 Approved [#36](https://github.com/salt-labs/docs/pull/36#pullrequestreview-3151040369) in [salt-labs/docs](https://github.com/salt-labs/docs)
+8. 🎉 Merged PR [#30](https://github.com/MAHDTech/website/pull/30) in [MAHDTech/website](https://github.com/MAHDTech/website)
+9. 💪 Opened PR [#30](https://github.com/MAHDTech/website/pull/30) in [MAHDTech/website](https://github.com/MAHDTech/website)
+10. ❌ Closed PR [#28](https://github.com/MAHDTech/website/pull/28) in [MAHDTech/website](https://github.com/MAHDTech/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
