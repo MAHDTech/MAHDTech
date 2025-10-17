@@ -105,7 +105,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#43](https://github.com/MAHDTech/nix-config/pull/43) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+1. 💪 Opened PR [#41](undefined) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
 2. 💪 Opened PR [#42](https://github.com/MAHDTech/nix-config/pull/42) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
 3. 🎉 Merged PR [#26](https://github.com/salt-labs/website/pull/26) in [salt-labs/website](https://github.com/salt-labs/website)
 4. 🎉 Merged PR [#35](https://github.com/salt-labs/docs/pull/35) in [salt-labs/docs](https://github.com/salt-labs/docs)
