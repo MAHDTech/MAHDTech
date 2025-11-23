@@ -105,11 +105,11 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
-2. ⭐ Starred [jnovack/cloudkey](https://github.com/jnovack/cloudkey)
-3. 💪 Opened PR [#44](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-4. ❌ Closed PR [#43](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-5. ❌ Closed PR [#40](undefined) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+1. 👍 Approved [#170](https://github.com/salt-labs/containers/pull/170#pullrequestreview-3496740661) in [salt-labs/containers](https://github.com/salt-labs/containers)
+2. 👍 Approved [#169](https://github.com/salt-labs/containers/pull/169#pullrequestreview-3496740080) in [salt-labs/containers](https://github.com/salt-labs/containers)
+3. ⭐ Starred [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
+4. ⭐ Starred [jnovack/cloudkey](https://github.com/jnovack/cloudkey)
+5. 💪 Opened PR [#44](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
 6. ❌ Closed PR [#39](undefined) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
 7. ❌ Closed PR [#38](undefined) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
 8. ❌ Closed PR [#37](undefined) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
