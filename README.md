@@ -105,9 +105,9 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/chromiumos](https://github.com/MAHDTech/chromiumos) from [arnoldthebat/chromiumos](https://github.com/arnoldthebat/chromiumos)
-2. 👍 Approved [#169](https://github.com/salt-labs/containers/pull/169#pullrequestreview-3496740080) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. ⭐ Starred [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
+1. ❌ Closed PR [#46](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+2. ❌ Closed PR [#45](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+3. 🔱 Forked [MAHDTech/chromiumos](https://github.com/MAHDTech/chromiumos) from [arnoldthebat/chromiumos](https://github.com/arnoldthebat/chromiumos)
 4. ⭐ Starred [jnovack/cloudkey](https://github.com/jnovack/cloudkey)
 5. 💪 Opened PR [#44](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
 6. ❌ Closed PR [#39](undefined) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
