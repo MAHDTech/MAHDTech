@@ -105,10 +105,10 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#46](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-2. ❌ Closed PR [#45](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-3. 🔱 Forked [MAHDTech/chromiumos](https://github.com/MAHDTech/chromiumos) from [arnoldthebat/chromiumos](https://github.com/arnoldthebat/chromiumos)
-4. ⭐ Starred [jnovack/cloudkey](https://github.com/jnovack/cloudkey)
+1. ⭐ Starred [LinPsPs/How_to_Build_Chromium_OS](https://github.com/LinPsPs/How_to_Build_Chromium_OS)
+2. ❌ Closed PR [#46](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+3. ❌ Closed PR [#45](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+4. 🔱 Forked [MAHDTech/chromiumos](https://github.com/MAHDTech/chromiumos) from [arnoldthebat/chromiumos](https://github.com/arnoldthebat/chromiumos)
 5. 💪 Opened PR [#44](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
 6. ❌ Closed PR [#39](undefined) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
 7. ❌ Closed PR [#38](undefined) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
