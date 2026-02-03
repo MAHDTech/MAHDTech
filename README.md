@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#13](undefined) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-2. 💪 Opened PR [#8](undefined) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-3. 🔱 Forked [MAHDTech/pickle-rick-extension](https://github.com/MAHDTech/pickle-rick-extension) from [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-4. ❗️ Opened issue [#7](https://github.com/galz10/pickle-rick-extension/issues/7) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-5. ⭐ Starred [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli)
-6. ⭐ Starred [dfinity/oisy-wallet](https://github.com/dfinity/oisy-wallet)
-7. ❗️ Opened issue [#2418](https://github.com/cachix/devenv/issues/2418) in [cachix/devenv](https://github.com/cachix/devenv)
-8. 💪 Opened PR [#1](undefined) in [MAHDTech/BootyCall](https://github.com/MAHDTech/BootyCall)
-9. 👍 Approved [#173](https://github.com/salt-labs/containers/pull/173#pullrequestreview-3646807295) in [salt-labs/containers](https://github.com/salt-labs/containers)
-10. ⭐ Starred [LinPsPs/How_to_Build_Chromium_OS](https://github.com/LinPsPs/How_to_Build_Chromium_OS)
+1. ✔️ Closed issue [#7](https://github.com/galz10/pickle-rick-extension/issues/7) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
+2. 💪 Opened PR [#13](undefined) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
+3. 💪 Opened PR [#8](undefined) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
+4. 🔱 Forked [MAHDTech/pickle-rick-extension](https://github.com/MAHDTech/pickle-rick-extension) from [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
+5. ❗️ Opened issue [#7](https://github.com/galz10/pickle-rick-extension/issues/7) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
+6. ⭐ Starred [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli)
+7. ⭐ Starred [dfinity/oisy-wallet](https://github.com/dfinity/oisy-wallet)
+8. ❗️ Opened issue [#2418](https://github.com/cachix/devenv/issues/2418) in [cachix/devenv](https://github.com/cachix/devenv)
+9. 💪 Opened PR [#1](undefined) in [MAHDTech/BootyCall](https://github.com/MAHDTech/BootyCall)
+10. 👍 Approved [#173](https://github.com/salt-labs/containers/pull/173#pullrequestreview-3646807295) in [salt-labs/containers](https://github.com/salt-labs/containers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
