@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cycle-express/cycle-express](https://github.com/cycle-express/cycle-express)
-2. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
-3. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
-4. ✔️ Closed issue [#2418](https://github.com/cachix/devenv/issues/2418) in [cachix/devenv](https://github.com/cachix/devenv)
-5. ✔️ Closed issue [#7](https://github.com/galz10/pickle-rick-extension/issues/7) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-6. 💪 Opened PR [#13](undefined) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-7. 💪 Opened PR [#8](undefined) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-8. 🔱 Forked [MAHDTech/pickle-rick-extension](https://github.com/MAHDTech/pickle-rick-extension) from [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-9. ❗️ Opened issue [#7](https://github.com/galz10/pickle-rick-extension/issues/7) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-10. ⭐ Starred [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli)
+1. ⭐ Starred [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit)
+2. ❗️ Opened issue [#2609](https://github.com/junobuild/juno/issues/2609) in [junobuild/juno](https://github.com/junobuild/juno)
+3. ⭐ Starred [cycle-express/cycle-express](https://github.com/cycle-express/cycle-express)
+4. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
+5. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
+6. ✔️ Closed issue [#2418](https://github.com/cachix/devenv/issues/2418) in [cachix/devenv](https://github.com/cachix/devenv)
+7. ✔️ Closed issue [#7](https://github.com/galz10/pickle-rick-extension/issues/7) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
+8. 💪 Opened PR [#13](undefined) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
+9. 💪 Opened PR [#8](undefined) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
+10. 🔱 Forked [MAHDTech/pickle-rick-extension](https://github.com/MAHDTech/pickle-rick-extension) from [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
