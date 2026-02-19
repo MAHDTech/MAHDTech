@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit)
-2. ❗️ Opened issue [#2609](https://github.com/junobuild/juno/issues/2609) in [junobuild/juno](https://github.com/junobuild/juno)
-3. ⭐ Starred [cycle-express/cycle-express](https://github.com/cycle-express/cycle-express)
-4. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
-5. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
-6. ✔️ Closed issue [#2418](https://github.com/cachix/devenv/issues/2418) in [cachix/devenv](https://github.com/cachix/devenv)
-7. ✔️ Closed issue [#7](https://github.com/galz10/pickle-rick-extension/issues/7) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-8. 💪 Opened PR [#13](undefined) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-9. 💪 Opened PR [#8](undefined) in [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
-10. 🔱 Forked [MAHDTech/pickle-rick-extension](https://github.com/MAHDTech/pickle-rick-extension) from [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
+1. 💪 Opened PR [#21](undefined) in [junobuild/examples](https://github.com/junobuild/examples)
+2. ❗️ Opened issue [#20](https://github.com/junobuild/examples/issues/20) in [junobuild/examples](https://github.com/junobuild/examples)
+3. 💪 Opened PR [#19](undefined) in [junobuild/examples](https://github.com/junobuild/examples)
+4. 🔱 Forked [MAHDTech/examples](https://github.com/MAHDTech/examples) from [junobuild/examples](https://github.com/junobuild/examples)
+5. ⭐ Starred [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit)
+6. ❗️ Opened issue [#2609](https://github.com/junobuild/juno/issues/2609) in [junobuild/juno](https://github.com/junobuild/juno)
+7. ⭐ Starred [cycle-express/cycle-express](https://github.com/cycle-express/cycle-express)
+8. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
+9. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
+10. ✔️ Closed issue [#2418](https://github.com/cachix/devenv/issues/2418) in [cachix/devenv](https://github.com/cachix/devenv)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
