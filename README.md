@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#52](undefined) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-2. ⭐ Starred [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs)
-3. 👍 Approved [#174](https://github.com/salt-labs/containers/pull/174#pullrequestreview-3834481775) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 💪 Opened PR [#21](undefined) in [junobuild/examples](https://github.com/junobuild/examples)
-5. ❗️ Opened issue [#20](https://github.com/junobuild/examples/issues/20) in [junobuild/examples](https://github.com/junobuild/examples)
-6. 💪 Opened PR [#19](undefined) in [junobuild/examples](https://github.com/junobuild/examples)
-7. 🔱 Forked [MAHDTech/examples](https://github.com/MAHDTech/examples) from [junobuild/examples](https://github.com/junobuild/examples)
-8. ⭐ Starred [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit)
-9. ❗️ Opened issue [#2609](https://github.com/junobuild/juno/issues/2609) in [junobuild/juno](https://github.com/junobuild/juno)
-10. ⭐ Starred [cycle-express/cycle-express](https://github.com/cycle-express/cycle-express)
+1. ❌ Closed PR [#44](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+2. 💪 Opened PR [#52](undefined) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
+3. ⭐ Starred [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs)
+4. 👍 Approved [#174](https://github.com/salt-labs/containers/pull/174#pullrequestreview-3834481775) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. 💪 Opened PR [#21](undefined) in [junobuild/examples](https://github.com/junobuild/examples)
+6. ❗️ Opened issue [#20](https://github.com/junobuild/examples/issues/20) in [junobuild/examples](https://github.com/junobuild/examples)
+7. 💪 Opened PR [#19](undefined) in [junobuild/examples](https://github.com/junobuild/examples)
+8. 🔱 Forked [MAHDTech/examples](https://github.com/MAHDTech/examples) from [junobuild/examples](https://github.com/junobuild/examples)
+9. ⭐ Starred [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit)
+10. ❗️ Opened issue [#2609](https://github.com/junobuild/juno/issues/2609) in [junobuild/juno](https://github.com/junobuild/juno)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
