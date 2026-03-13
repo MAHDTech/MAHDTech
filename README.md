@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
-2. ❌ Closed PR [#44](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
-3. 💪 Opened PR [#52](undefined) in [MAHDTech/nixos-installer](https://github.com/MAHDTech/nixos-installer)
-4. ⭐ Starred [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs)
-5. 👍 Approved [#174](https://github.com/salt-labs/containers/pull/174#pullrequestreview-3834481775) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. 💪 Opened PR [#21](undefined) in [junobuild/examples](https://github.com/junobuild/examples)
-7. ❗️ Opened issue [#20](https://github.com/junobuild/examples/issues/20) in [junobuild/examples](https://github.com/junobuild/examples)
-8. 💪 Opened PR [#19](undefined) in [junobuild/examples](https://github.com/junobuild/examples)
-9. 🔱 Forked [MAHDTech/examples](https://github.com/MAHDTech/examples) from [junobuild/examples](https://github.com/junobuild/examples)
-10. ⭐ Starred [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit)
+1. 💪 Opened PR [#153](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
+2. 💪 Opened PR [#249](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+3. 👍 Approved [#248](https://github.com/tresr-community/tresr-game/pull/248#pullrequestreview-3936698778) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+4. 👍 Approved [#248](https://github.com/tresr-community/tresr-game/pull/248#pullrequestreview-3936607142) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+5. ✔️ Closed issue [#234](https://github.com/tresr-community/tresr-game/issues/234) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+6. ✔️ Closed issue [#239](https://github.com/tresr-community/tresr-game/issues/239) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+7. 💪 Opened PR [#247](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+8. 👍 Approved [#246](https://github.com/tresr-community/tresr-game/pull/246#pullrequestreview-3933504676) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+9. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+10. ❌ Closed PR [#44](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
