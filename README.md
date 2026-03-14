@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#153](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
-2. 💪 Opened PR [#249](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-3. 👍 Approved [#248](https://github.com/tresr-community/tresr-game/pull/248#pullrequestreview-3936698778) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-4. 👍 Approved [#248](https://github.com/tresr-community/tresr-game/pull/248#pullrequestreview-3936607142) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-5. ✔️ Closed issue [#234](https://github.com/tresr-community/tresr-game/issues/234) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-6. ✔️ Closed issue [#239](https://github.com/tresr-community/tresr-game/issues/239) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-7. 💪 Opened PR [#247](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-8. 👍 Approved [#246](https://github.com/tresr-community/tresr-game/pull/246#pullrequestreview-3933504676) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-9. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
-10. ❌ Closed PR [#44](undefined) in [MAHDTech/nix-config](https://github.com/MAHDTech/nix-config)
+1. ❗️ Opened issue [#474](https://github.com/junobuild/cli/issues/474) in [junobuild/cli](https://github.com/junobuild/cli)
+2. 💪 Opened PR [#257](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+3. ❌ Closed PR [#141](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
+4. 👍 Approved [#254](https://github.com/tresr-community/tresr-game/pull/254#pullrequestreview-3943614596) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+5. 💪 Opened PR [#255](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+6. 💪 Opened PR [#156](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
+7. ❌ Closed PR [#136](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
+8. ❌ Closed PR [#135](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
+9. ❌ Closed PR [#134](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
+10. 👍 Approved [#253](https://github.com/tresr-community/tresr-game/pull/253#pullrequestreview-3943118464) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
