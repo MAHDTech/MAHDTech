@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#474](https://github.com/junobuild/cli/issues/474) in [junobuild/cli](https://github.com/junobuild/cli)
-2. 💪 Opened PR [#257](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-3. ❌ Closed PR [#141](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
-4. 👍 Approved [#254](https://github.com/tresr-community/tresr-game/pull/254#pullrequestreview-3943614596) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-5. 💪 Opened PR [#255](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-6. 💪 Opened PR [#156](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
-7. ❌ Closed PR [#136](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
-8. ❌ Closed PR [#135](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
-9. ❌ Closed PR [#134](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
-10. 👍 Approved [#253](https://github.com/tresr-community/tresr-game/pull/253#pullrequestreview-3943118464) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+1. ❌ Closed PR [#268](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+2. ❌ Closed PR [#267](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+3. ❌ Closed PR [#258](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+4. 👍 Approved [#258](https://github.com/tresr-community/tresr-game/pull/258#pullrequestreview-3948573358) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+5. 💪 Opened PR [#475](undefined) in [junobuild/cli](https://github.com/junobuild/cli)
+6. 💪 Opened PR [#259](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+7. 🔱 Forked [MAHDTech/juno-js](https://github.com/MAHDTech/juno-js) from [junobuild/juno-js](https://github.com/junobuild/juno-js)
+8. 🔱 Forked [MAHDTech/cli](https://github.com/MAHDTech/cli) from [junobuild/cli](https://github.com/junobuild/cli)
+9. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)
+10. ❗️ Opened issue [#474](https://github.com/junobuild/cli/issues/474) in [junobuild/cli](https://github.com/junobuild/cli)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
