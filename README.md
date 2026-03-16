@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#268](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-2. ❌ Closed PR [#267](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-3. ❌ Closed PR [#258](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-4. 👍 Approved [#258](https://github.com/tresr-community/tresr-game/pull/258#pullrequestreview-3948573358) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-5. 💪 Opened PR [#475](undefined) in [junobuild/cli](https://github.com/junobuild/cli)
-6. 💪 Opened PR [#259](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-7. 🔱 Forked [MAHDTech/juno-js](https://github.com/MAHDTech/juno-js) from [junobuild/juno-js](https://github.com/junobuild/juno-js)
-8. 🔱 Forked [MAHDTech/cli](https://github.com/MAHDTech/cli) from [junobuild/cli](https://github.com/junobuild/cli)
-9. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)
-10. ❗️ Opened issue [#474](https://github.com/junobuild/cli/issues/474) in [junobuild/cli](https://github.com/junobuild/cli)
+1. ❗️ Opened issue [#277](https://github.com/tresr-community/tresr-game/issues/277) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+2. 💪 Opened PR [#274](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+3. 💪 Opened PR [#273](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+4. 👍 Approved [#272](https://github.com/tresr-community/tresr-game/pull/272#pullrequestreview-3950205062) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+5. ❌ Closed PR [#262](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+6. ❌ Closed PR [#242](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+7. ❌ Closed PR [#266](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+8. ❌ Closed PR [#261](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+9. ❌ Closed PR [#265](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+10. ❌ Closed PR [#260](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
