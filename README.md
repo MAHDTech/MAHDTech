@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#277](https://github.com/tresr-community/tresr-game/issues/277) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-2. 💪 Opened PR [#274](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-3. 💪 Opened PR [#273](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-4. 👍 Approved [#272](https://github.com/tresr-community/tresr-game/pull/272#pullrequestreview-3950205062) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-5. ❌ Closed PR [#262](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-6. ❌ Closed PR [#242](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-7. ❌ Closed PR [#266](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-8. ❌ Closed PR [#261](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-9. ❌ Closed PR [#265](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-10. ❌ Closed PR [#260](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+1. ✔️ Closed issue [#455](https://github.com/tresr-community/chatbot-frontend/issues/455) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+2. ✔️ Closed issue [#277](https://github.com/tresr-community/tresr-game/issues/277) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+3. 💪 Opened PR [#531](undefined) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+4. 💪 Opened PR [#60](undefined) in [tresr-community/chatbot-backend](https://github.com/tresr-community/chatbot-backend)
+5. 💪 Opened PR [#40](undefined) in [tresr-community/tresr-community](https://github.com/tresr-community/tresr-community)
+6. ⭐ Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
+7. ⭐ Starred [threefoldtech/mycelium](https://github.com/threefoldtech/mycelium)
+8. 💪 Opened PR [#278](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+9. 💪 Opened PR [#832](undefined) in [junobuild/juno-js](https://github.com/junobuild/juno-js)
+10. 💪 Opened PR [#485](undefined) in [junobuild/cli](https://github.com/junobuild/cli)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
