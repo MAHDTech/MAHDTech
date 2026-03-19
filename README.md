@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#282](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-2. ❗️ Opened issue [#281](https://github.com/tresr-community/tresr-game/issues/281) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-3. 👍 Approved [#175](https://github.com/salt-labs/containers/pull/175#pullrequestreview-3962252893) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. ❌ Closed PR [#158](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
-5. 💪 Opened PR [#280](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-6. 💪 Opened PR [#160](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
-7. 💪 Opened PR [#159](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
-8. 💪 Opened PR [#279](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-9. ✔️ Closed issue [#455](https://github.com/tresr-community/chatbot-frontend/issues/455) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-10. ✔️ Closed issue [#277](https://github.com/tresr-community/tresr-game/issues/277) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+1. ✔️ Closed issue [#281](https://github.com/tresr-community/tresr-game/issues/281) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+2. 💪 Opened PR [#282](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+3. ❗️ Opened issue [#281](https://github.com/tresr-community/tresr-game/issues/281) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+4. 👍 Approved [#175](https://github.com/salt-labs/containers/pull/175#pullrequestreview-3962252893) in [salt-labs/containers](https://github.com/salt-labs/containers)
+5. ❌ Closed PR [#158](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
+6. 💪 Opened PR [#280](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+7. 💪 Opened PR [#160](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
+8. 💪 Opened PR [#159](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
+9. 💪 Opened PR [#279](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+10. ✔️ Closed issue [#455](https://github.com/tresr-community/chatbot-frontend/issues/455) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
