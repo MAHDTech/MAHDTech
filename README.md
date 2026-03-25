@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#161](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
-2. 💪 Opened PR [#293](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-3. 💪 Opened PR [#167](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
-4. 💪 Opened PR [#496](undefined) in [junobuild/cli](https://github.com/junobuild/cli)
-5. 💪 Opened PR [#842](undefined) in [junobuild/juno-js](https://github.com/junobuild/juno-js)
-6. ❗️ Opened issue [#495](https://github.com/junobuild/cli/issues/495) in [junobuild/cli](https://github.com/junobuild/cli)
-7. 👍 Approved [#539](https://github.com/tresr-community/chatbot-frontend/pull/539#pullrequestreview-3986018290) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-8. 👍 Approved [#536](https://github.com/tresr-community/chatbot-frontend/pull/536#pullrequestreview-3986017428) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-9. 👍 Approved [#537](https://github.com/tresr-community/chatbot-frontend/pull/537#pullrequestreview-3986017427) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-10. 👍 Approved [#541](https://github.com/tresr-community/chatbot-frontend/pull/541#pullrequestreview-3986016573) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+1. ✔️ Closed issue [#495](https://github.com/junobuild/cli/issues/495) in [junobuild/cli](https://github.com/junobuild/cli)
+2. ❌ Closed PR [#496](undefined) in [junobuild/cli](https://github.com/junobuild/cli)
+3. ❌ Closed PR [#842](undefined) in [junobuild/juno-js](https://github.com/junobuild/juno-js)
+4. ❌ Closed PR [#161](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
+5. 💪 Opened PR [#293](undefined) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
+6. 💪 Opened PR [#167](undefined) in [irken-empire/ic-siwa](https://github.com/irken-empire/ic-siwa)
+7. 💪 Opened PR [#496](undefined) in [junobuild/cli](https://github.com/junobuild/cli)
+8. 💪 Opened PR [#842](undefined) in [junobuild/juno-js](https://github.com/junobuild/juno-js)
+9. ❗️ Opened issue [#495](https://github.com/junobuild/cli/issues/495) in [junobuild/cli](https://github.com/junobuild/cli)
+10. 👍 Approved [#539](https://github.com/tresr-community/chatbot-frontend/pull/539#pullrequestreview-3986018290) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
