@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#294](https://github.com/tresr-community/tresr-game/issues/294) in [tresr-community/tresr-game](https://github.com/tresr-community/tresr-game)
-2. 🔱 Forked [MAHDTech/Crane](https://github.com/MAHDTech/Crane) from [lucasjinreal/Crane](https://github.com/lucasjinreal/Crane)
-3. ⭐ Starred [lucasjinreal/Crane](https://github.com/lucasjinreal/Crane)
-4. 🔱 Forked [MAHDTech/llama-cpp-rs](https://github.com/MAHDTech/llama-cpp-rs) from [utilityai/llama-cpp-rs](https://github.com/utilityai/llama-cpp-rs)
-5. ⭐ Starred [utilityai/llama-cpp-rs](https://github.com/utilityai/llama-cpp-rs)
-6. 🔱 Forked [MAHDTech/pingidentity-helm-charts](https://github.com/MAHDTech/pingidentity-helm-charts) from [pingidentity/helm-charts](https://github.com/pingidentity/helm-charts)
-7. 🔱 Forked [MAHDTech/burn-onnx](https://github.com/MAHDTech/burn-onnx) from [tracel-ai/burn-onnx](https://github.com/tracel-ai/burn-onnx)
-8. 👍 Approved [#181](https://github.com/salt-labs/containers/pull/181#pullrequestreview-4078749524) in [salt-labs/containers](https://github.com/salt-labs/containers)
-9. 🔱 Forked [MAHDTech/models](https://github.com/MAHDTech/models) from [tracel-ai/models](https://github.com/tracel-ai/models)
-10. 👍 Approved [#555](https://github.com/tresr-community/chatbot-frontend/pull/555#pullrequestreview-4058498655) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+1. 👍 Approved [#570](https://github.com/tresr-community/chatbot-frontend/pull/570#pullrequestreview-4093849865) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+2. 👍 Approved [#568](https://github.com/tresr-community/chatbot-frontend/pull/568#pullrequestreview-4093849408) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+3. 👍 Approved [#570](https://github.com/tresr-community/chatbot-frontend/pull/570#pullrequestreview-4093847778) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+4. 👍 Approved [#569](https://github.com/tresr-community/chatbot-frontend/pull/569#pullrequestreview-4093847139) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+5. 👍 Approved [#568](https://github.com/tresr-community/chatbot-frontend/pull/568#pullrequestreview-4093846896) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+6. 👍 Approved [#567](https://github.com/tresr-community/chatbot-frontend/pull/567#pullrequestreview-4093846540) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+7. 👍 Approved [#566](https://github.com/tresr-community/chatbot-frontend/pull/566#pullrequestreview-4093846072) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+8. 👍 Approved [#565](https://github.com/tresr-community/chatbot-frontend/pull/565#pullrequestreview-4093845585) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+9. 👍 Approved [#564](https://github.com/tresr-community/chatbot-frontend/pull/564#pullrequestreview-4093845026) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+10. 👍 Approved [#563](https://github.com/tresr-community/chatbot-frontend/pull/563#pullrequestreview-4093844302) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
