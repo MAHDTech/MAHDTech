@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#593](https://github.com/tresr-community/chatbot-frontend/pull/593#pullrequestreview-4175645588) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-2. 👍 Approved [#590](https://github.com/tresr-community/chatbot-frontend/pull/590#pullrequestreview-4175645166) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-3. 👍 Approved [#587](https://github.com/tresr-community/chatbot-frontend/pull/587#pullrequestreview-4175645124) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-4. 👍 Approved [#593](https://github.com/tresr-community/chatbot-frontend/pull/593#pullrequestreview-4175643867) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-5. 👍 Approved [#592](https://github.com/tresr-community/chatbot-frontend/pull/592#pullrequestreview-4175643784) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-6. 👍 Approved [#591](https://github.com/tresr-community/chatbot-frontend/pull/591#pullrequestreview-4175643465) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-7. 👍 Approved [#590](https://github.com/tresr-community/chatbot-frontend/pull/590#pullrequestreview-4175643291) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-8. 👍 Approved [#589](https://github.com/tresr-community/chatbot-frontend/pull/589#pullrequestreview-4175643054) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-9. 👍 Approved [#588](https://github.com/tresr-community/chatbot-frontend/pull/588#pullrequestreview-4175642815) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-10. 👍 Approved [#586](https://github.com/tresr-community/chatbot-frontend/pull/586#pullrequestreview-4175642691) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+1. 👍 Approved [#603](https://github.com/tresr-community/chatbot-frontend/pull/603#pullrequestreview-4215080015) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+2. 👍 Approved [#603](https://github.com/tresr-community/chatbot-frontend/pull/603#pullrequestreview-4215077468) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+3. 👍 Approved [#604](https://github.com/tresr-community/chatbot-frontend/pull/604#pullrequestreview-4215077070) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+4. 👍 Approved [#597](https://github.com/tresr-community/chatbot-frontend/pull/597#pullrequestreview-4215075906) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+5. 👍 Approved [#605](https://github.com/tresr-community/chatbot-frontend/pull/605#pullrequestreview-4215075667) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+6. 👍 Approved [#604](https://github.com/tresr-community/chatbot-frontend/pull/604#pullrequestreview-4215075338) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+7. 👍 Approved [#603](https://github.com/tresr-community/chatbot-frontend/pull/603#pullrequestreview-4215075264) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+8. 👍 Approved [#602](https://github.com/tresr-community/chatbot-frontend/pull/602#pullrequestreview-4215074889) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+9. 👍 Approved [#601](https://github.com/tresr-community/chatbot-frontend/pull/601#pullrequestreview-4215074718) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+10. 👍 Approved [#600](https://github.com/tresr-community/chatbot-frontend/pull/600#pullrequestreview-4215074514) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
