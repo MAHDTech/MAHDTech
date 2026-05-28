@@ -15,7 +15,7 @@
   </p>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MAHDTech&theme=radical&column=3&margin-w=15&margin-h=15"
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=MAHDTech&theme=radical&column=3&margin-w=15&margin-h=15"
   </p>
 
 </details>
