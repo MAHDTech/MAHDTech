@@ -11,7 +11,7 @@
   <summary>GitHub stats</summary>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MAHDTech&theme=synthwave&show_icons=true"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=MAHDTech&theme=synthwave&show_icons=true"/>
   </p>
 
   <p align="center">
