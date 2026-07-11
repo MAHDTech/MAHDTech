@@ -105,16 +105,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
-2. ❌ Closed PR [#62](undefined) in [tresr-community/chatbot-backend](https://github.com/tresr-community/chatbot-backend)
-3. 💪 Opened PR [#82](undefined) in [tresr-community/chatbot-backend](https://github.com/tresr-community/chatbot-backend)
-4. 👍 Approved [#684](https://github.com/tresr-community/chatbot-frontend/pull/684#pullrequestreview-4629711107) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-5. 👍 Approved [#682](https://github.com/tresr-community/chatbot-frontend/pull/682#pullrequestreview-4629710821) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-6. 👍 Approved [#683](https://github.com/tresr-community/chatbot-frontend/pull/683#pullrequestreview-4629710692) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-7. 👍 Approved [#680](https://github.com/tresr-community/chatbot-frontend/pull/680#pullrequestreview-4629709796) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-8. 👍 Approved [#685](https://github.com/tresr-community/chatbot-frontend/pull/685#pullrequestreview-4629708336) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-9. 👍 Approved [#684](https://github.com/tresr-community/chatbot-frontend/pull/684#pullrequestreview-4629707865) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-10. 👍 Approved [#683](https://github.com/tresr-community/chatbot-frontend/pull/683#pullrequestreview-4629707742) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+1. ❌ Closed PR [#17](undefined) in [MAHDTech/BootyCall](https://github.com/MAHDTech/BootyCall)
+2. ❌ Closed PR [#15](undefined) in [MAHDTech/BootyCall](https://github.com/MAHDTech/BootyCall)
+3. ⭐ Starred [aaif-goose/goosetown](https://github.com/aaif-goose/goosetown)
+4. ⭐ Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
+5. ❌ Closed PR [#62](undefined) in [tresr-community/chatbot-backend](https://github.com/tresr-community/chatbot-backend)
+6. 💪 Opened PR [#82](undefined) in [tresr-community/chatbot-backend](https://github.com/tresr-community/chatbot-backend)
+7. 👍 Approved [#684](https://github.com/tresr-community/chatbot-frontend/pull/684#pullrequestreview-4629711107) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+8. 👍 Approved [#682](https://github.com/tresr-community/chatbot-frontend/pull/682#pullrequestreview-4629710821) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+9. 👍 Approved [#683](https://github.com/tresr-community/chatbot-frontend/pull/683#pullrequestreview-4629710692) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+10. 👍 Approved [#680](https://github.com/tresr-community/chatbot-frontend/pull/680#pullrequestreview-4629709796) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
