@@ -1,6 +1,8 @@
 
 :wave: Hello, my name is MAHDTech.
 
+[![wakatime](https://wakatime.com/badge/user/8cdb07b5-c81d-4c19-a872-d1fb726736c1.svg)](https://wakatime.com/@8cdb07b5-c81d-4c19-a872-d1fb726736c1)
+
 :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple: :salt: :pineapple:
 
 ![The doom song](https://github.com/MAHDTech/MAHDTech/blob/trunk/images/doom_song.gif?raw=true)
