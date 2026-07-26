@@ -107,16 +107,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#196](undefined) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 💪 Opened PR [#195](undefined) in [salt-labs/containers](https://github.com/salt-labs/containers)
-3. 👍 Approved [#194](https://github.com/salt-labs/containers/pull/194#pullrequestreview-4772773347) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. ❌ Closed PR [#163](undefined) in [salt-labs/containers](https://github.com/salt-labs/containers)
-5. 👍 Approved [#172](https://github.com/salt-labs/containers/pull/172#pullrequestreview-4772759528) in [salt-labs/containers](https://github.com/salt-labs/containers)
-6. 👍 Approved [#193](https://github.com/salt-labs/containers/pull/193#pullrequestreview-4772724497) in [salt-labs/containers](https://github.com/salt-labs/containers)
-7. ⭐ Starred [block/buzz](https://github.com/block/buzz)
-8. ⭐ Starred [ultraworkers/hermes-agent-helm-chart](https://github.com/ultraworkers/hermes-agent-helm-chart)
-9. 🔱 Forked [MAHDTech/OBLITERATUS](https://github.com/MAHDTech/OBLITERATUS) from [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
-10. ⭐ Starred [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
+1. 👍 Approved [#718](https://github.com/tresr-community/chatbot-frontend/pull/718#pullrequestreview-4779376343) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+2. 👍 Approved [#714](https://github.com/tresr-community/chatbot-frontend/pull/714#pullrequestreview-4779375967) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+3. 👍 Approved [#718](https://github.com/tresr-community/chatbot-frontend/pull/718#pullrequestreview-4779373732) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+4. 👍 Approved [#717](https://github.com/tresr-community/chatbot-frontend/pull/717#pullrequestreview-4779373615) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+5. 👍 Approved [#716](https://github.com/tresr-community/chatbot-frontend/pull/716#pullrequestreview-4779373619) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+6. 👍 Approved [#715](https://github.com/tresr-community/chatbot-frontend/pull/715#pullrequestreview-4779373379) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+7. 👍 Approved [#714](https://github.com/tresr-community/chatbot-frontend/pull/714#pullrequestreview-4779373266) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+8. 👍 Approved [#713](https://github.com/tresr-community/chatbot-frontend/pull/713#pullrequestreview-4779372844) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+9. 👍 Approved [#712](https://github.com/tresr-community/chatbot-frontend/pull/712#pullrequestreview-4779372657) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+10. 👍 Approved [#89](https://github.com/tresr-community/chatbot-backend/pull/89#pullrequestreview-4779372617) in [tresr-community/chatbot-backend](https://github.com/tresr-community/chatbot-backend)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
