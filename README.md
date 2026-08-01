@@ -107,14 +107,14 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#198](https://github.com/salt-labs/containers/pull/198#pullrequestreview-4795322307) in [salt-labs/containers](https://github.com/salt-labs/containers)
-2. 💪 Opened PR [#50](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
-3. 💪 Opened PR [#49](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
-4. 💪 Opened PR [#1213](undefined) in [nutanix/terraform-provider-nutanix](https://github.com/nutanix/terraform-provider-nutanix)
-5. 🔱 Forked [MAHDTech/terraform-provider-nutanix](https://github.com/MAHDTech/terraform-provider-nutanix) from [nutanix/terraform-provider-nutanix](https://github.com/nutanix/terraform-provider-nutanix)
-6. ⭐ Starred [nutanix-cloud-native/nkp-ai-applications-catalog](https://github.com/nutanix-cloud-native/nkp-ai-applications-catalog)
-7. 👍 Approved [#718](https://github.com/tresr-community/chatbot-frontend/pull/718#pullrequestreview-4779376343) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-8. 👍 Approved [#714](https://github.com/tresr-community/chatbot-frontend/pull/714#pullrequestreview-4779375967) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+1. 🔱 Forked [MAHDTech/seabird](https://github.com/MAHDTech/seabird) from [getseabird/seabird](https://github.com/getseabird/seabird)
+2. ⭐ Starred [getseabird/seabird](https://github.com/getseabird/seabird)
+3. 👍 Approved [#198](https://github.com/salt-labs/containers/pull/198#pullrequestreview-4795322307) in [salt-labs/containers](https://github.com/salt-labs/containers)
+4. 💪 Opened PR [#50](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
+5. 💪 Opened PR [#49](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
+6. 💪 Opened PR [#1213](undefined) in [nutanix/terraform-provider-nutanix](https://github.com/nutanix/terraform-provider-nutanix)
+7. 🔱 Forked [MAHDTech/terraform-provider-nutanix](https://github.com/MAHDTech/terraform-provider-nutanix) from [nutanix/terraform-provider-nutanix](https://github.com/nutanix/terraform-provider-nutanix)
+8. ⭐ Starred [nutanix-cloud-native/nkp-ai-applications-catalog](https://github.com/nutanix-cloud-native/nkp-ai-applications-catalog)
 9. 👍 Approved [#718](https://github.com/tresr-community/chatbot-frontend/pull/718#pullrequestreview-4779373732) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 10. 👍 Approved [#717](https://github.com/tresr-community/chatbot-frontend/pull/717#pullrequestreview-4779373615) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 <!--RECENT_ACTIVITY:end-->
