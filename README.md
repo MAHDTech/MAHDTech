@@ -107,16 +107,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MAHDTech/seabird](https://github.com/MAHDTech/seabird) from [getseabird/seabird](https://github.com/getseabird/seabird)
-2. ⭐ Starred [getseabird/seabird](https://github.com/getseabird/seabird)
-3. 👍 Approved [#198](https://github.com/salt-labs/containers/pull/198#pullrequestreview-4795322307) in [salt-labs/containers](https://github.com/salt-labs/containers)
-4. 💪 Opened PR [#50](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
-5. 💪 Opened PR [#49](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
-6. 💪 Opened PR [#1213](undefined) in [nutanix/terraform-provider-nutanix](https://github.com/nutanix/terraform-provider-nutanix)
-7. 🔱 Forked [MAHDTech/terraform-provider-nutanix](https://github.com/MAHDTech/terraform-provider-nutanix) from [nutanix/terraform-provider-nutanix](https://github.com/nutanix/terraform-provider-nutanix)
-8. ⭐ Starred [nutanix-cloud-native/nkp-ai-applications-catalog](https://github.com/nutanix-cloud-native/nkp-ai-applications-catalog)
-9. 👍 Approved [#718](https://github.com/tresr-community/chatbot-frontend/pull/718#pullrequestreview-4779373732) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-10. 👍 Approved [#717](https://github.com/tresr-community/chatbot-frontend/pull/717#pullrequestreview-4779373615) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+1. 👍 Approved [#725](https://github.com/tresr-community/chatbot-frontend/pull/725#pullrequestreview-4834794344) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+2. 👍 Approved [#722](https://github.com/tresr-community/chatbot-frontend/pull/722#pullrequestreview-4834794093) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+3. 👍 Approved [#727](https://github.com/tresr-community/chatbot-frontend/pull/727#pullrequestreview-4834790092) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+4. 👍 Approved [#726](https://github.com/tresr-community/chatbot-frontend/pull/726#pullrequestreview-4834789889) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+5. 👍 Approved [#724](https://github.com/tresr-community/chatbot-frontend/pull/724#pullrequestreview-4834789763) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+6. 👍 Approved [#725](https://github.com/tresr-community/chatbot-frontend/pull/725#pullrequestreview-4834789743) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+7. 👍 Approved [#723](https://github.com/tresr-community/chatbot-frontend/pull/723#pullrequestreview-4834789546) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+8. 👍 Approved [#722](https://github.com/tresr-community/chatbot-frontend/pull/722#pullrequestreview-4834789211) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+9. 👍 Approved [#721](https://github.com/tresr-community/chatbot-frontend/pull/721#pullrequestreview-4834788991) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+10. 👍 Approved [#720](https://github.com/tresr-community/chatbot-frontend/pull/720#pullrequestreview-4834788928) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
