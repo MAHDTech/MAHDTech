@@ -107,7 +107,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#737](https://github.com/tresr-community/chatbot-frontend/pull/737#pullrequestreview-4888941301) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+1. ❌ Closed PR [#31](undefined) in [bingamon-lab-tf-modules/tf-github-secmgr](https://github.com/bingamon-lab-tf-modules/tf-github-secmgr)
 2. 👍 Approved [#735](https://github.com/tresr-community/chatbot-frontend/pull/735#pullrequestreview-4888940772) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 3. 👍 Approved [#729](https://github.com/tresr-community/chatbot-frontend/pull/729#pullrequestreview-4888939933) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 4. 👍 Approved [#737](https://github.com/tresr-community/chatbot-frontend/pull/737#pullrequestreview-4888937602) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
