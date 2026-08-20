@@ -107,16 +107,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#42](undefined) in [bingamon-lab-tf-modules/tf-github-actions](https://github.com/bingamon-lab-tf-modules/tf-github-actions)
-2. 💪 Opened PR [#1](undefined) in [bingamon-lab-tf-modules/.github](https://github.com/bingamon-lab-tf-modules/.github)
-3. ❌ Closed PR [#16](undefined) in [bingamon-lab-tf-modules/tf-ntnx-objects](https://github.com/bingamon-lab-tf-modules/tf-ntnx-objects)
-4. 💪 Opened PR [#17](undefined) in [bingamon-lab-tf-modules/tf-ntnx-objects](https://github.com/bingamon-lab-tf-modules/tf-ntnx-objects)
-5. 👍 Approved [#745](https://github.com/tresr-community/chatbot-frontend/pull/745#pullrequestreview-4943982584) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-6. 👍 Approved [#744](https://github.com/tresr-community/chatbot-frontend/pull/744#pullrequestreview-4943982290) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-7. 👍 Approved [#742](https://github.com/tresr-community/chatbot-frontend/pull/742#pullrequestreview-4943981932) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-8. 👍 Approved [#746](https://github.com/tresr-community/chatbot-frontend/pull/746#pullrequestreview-4943979009) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-9. 👍 Approved [#745](https://github.com/tresr-community/chatbot-frontend/pull/745#pullrequestreview-4943978900) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-10. 👍 Approved [#744](https://github.com/tresr-community/chatbot-frontend/pull/744#pullrequestreview-4943978682) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+1. 💪 Opened PR [#60](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
+2. 💪 Opened PR [#59](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
+3. 💪 Opened PR [#42](undefined) in [bingamon-lab-tf-modules/tf-github-actions](https://github.com/bingamon-lab-tf-modules/tf-github-actions)
+4. 💪 Opened PR [#1](undefined) in [bingamon-lab-tf-modules/.github](https://github.com/bingamon-lab-tf-modules/.github)
+5. ❌ Closed PR [#16](undefined) in [bingamon-lab-tf-modules/tf-ntnx-objects](https://github.com/bingamon-lab-tf-modules/tf-ntnx-objects)
+6. 💪 Opened PR [#17](undefined) in [bingamon-lab-tf-modules/tf-ntnx-objects](https://github.com/bingamon-lab-tf-modules/tf-ntnx-objects)
+7. 👍 Approved [#745](https://github.com/tresr-community/chatbot-frontend/pull/745#pullrequestreview-4943982584) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+8. 👍 Approved [#744](https://github.com/tresr-community/chatbot-frontend/pull/744#pullrequestreview-4943982290) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+9. 👍 Approved [#742](https://github.com/tresr-community/chatbot-frontend/pull/742#pullrequestreview-4943981932) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+10. 👍 Approved [#746](https://github.com/tresr-community/chatbot-frontend/pull/746#pullrequestreview-4943979009) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
