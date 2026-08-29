@@ -107,16 +107,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abcdesktopio/docs](https://github.com/abcdesktopio/docs)
-2. ❗️ Opened issue [#858](https://github.com/google-antigravity/antigravity-cli/issues/858) in [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
-3. 👍 Approved [#752](https://github.com/tresr-community/chatbot-frontend/pull/752#pullrequestreview-5000328641) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-4. 👍 Approved [#753](https://github.com/tresr-community/chatbot-frontend/pull/753#pullrequestreview-5000328254) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-5. 👍 Approved [#750](https://github.com/tresr-community/chatbot-frontend/pull/750#pullrequestreview-5000328161) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-6. 👍 Approved [#754](https://github.com/tresr-community/chatbot-frontend/pull/754#pullrequestreview-5000324235) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-7. 👍 Approved [#753](https://github.com/tresr-community/chatbot-frontend/pull/753#pullrequestreview-5000324034) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-8. 👍 Approved [#752](https://github.com/tresr-community/chatbot-frontend/pull/752#pullrequestreview-5000323769) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-9. 👍 Approved [#751](https://github.com/tresr-community/chatbot-frontend/pull/751#pullrequestreview-5000323621) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
-10. 👍 Approved [#750](https://github.com/tresr-community/chatbot-frontend/pull/750#pullrequestreview-5000323277) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+1. ⭐ Starred [project-zot/zot](https://github.com/project-zot/zot)
+2. ⭐ Starred [abcdesktopio/docs](https://github.com/abcdesktopio/docs)
+3. ❗️ Opened issue [#858](https://github.com/google-antigravity/antigravity-cli/issues/858) in [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
+4. 👍 Approved [#752](https://github.com/tresr-community/chatbot-frontend/pull/752#pullrequestreview-5000328641) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+5. 👍 Approved [#753](https://github.com/tresr-community/chatbot-frontend/pull/753#pullrequestreview-5000328254) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+6. 👍 Approved [#750](https://github.com/tresr-community/chatbot-frontend/pull/750#pullrequestreview-5000328161) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+7. 👍 Approved [#754](https://github.com/tresr-community/chatbot-frontend/pull/754#pullrequestreview-5000324235) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+8. 👍 Approved [#753](https://github.com/tresr-community/chatbot-frontend/pull/753#pullrequestreview-5000324034) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+9. 👍 Approved [#752](https://github.com/tresr-community/chatbot-frontend/pull/752#pullrequestreview-5000323769) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
+10. 👍 Approved [#751](https://github.com/tresr-community/chatbot-frontend/pull/751#pullrequestreview-5000323621) in [tresr-community/chatbot-frontend](https://github.com/tresr-community/chatbot-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
