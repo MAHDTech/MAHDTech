@@ -107,16 +107,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#8](https://github.com/tars-cloud/actions/pull/8#pullrequestreview-5293043538) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
-2. 💪 Opened PR [#7](undefined) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
-3. 💪 Opened PR [#5](undefined) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
-4. 💪 Opened PR [#4](undefined) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
-5. 💪 Opened PR [#3](undefined) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
-6. 💪 Opened PR [#1](undefined) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
-7. 💪 Opened PR [#208](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
-8. ⭐ Starred [luizfonseca/proksi](https://github.com/luizfonseca/proksi)
-9. ❌ Closed PR [#207](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
-10. 💪 Opened PR [#207](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
+1. ❌ Closed PR [#1](undefined) in [bingamon-lab-tf-modules/.github](https://github.com/bingamon-lab-tf-modules/.github)
+2. 👍 Approved [#8](https://github.com/tars-cloud/actions/pull/8#pullrequestreview-5293043538) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
+3. 💪 Opened PR [#7](undefined) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
+4. 💪 Opened PR [#5](undefined) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
+5. 💪 Opened PR [#4](undefined) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
+6. 💪 Opened PR [#3](undefined) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
+7. 💪 Opened PR [#1](undefined) in [tars-cloud/actions](https://github.com/tars-cloud/actions)
+8. 💪 Opened PR [#208](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
+9. ⭐ Starred [luizfonseca/proksi](https://github.com/luizfonseca/proksi)
+10. ❌ Closed PR [#207](undefined) in [MAHDTech/agent-skills](https://github.com/MAHDTech/agent-skills)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
