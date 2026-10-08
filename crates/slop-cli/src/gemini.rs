@@ -333,7 +333,7 @@ mod tests {
         let res = generate_standup_from_summaries(
             &client,
             Some("dummy_key"),
-            "gemini-2.5-flash",
+            "gemini-3.8-flash",
             "mock waka",
             "mock gh",
             true,
@@ -348,7 +348,7 @@ mod tests {
         let res = generate_standup_from_summaries(
             &client,
             None,
-            "gemini-2.5-flash",
+            "gemini-3.8-flash",
             "mock waka",
             "mock gh",
             false,
@@ -363,7 +363,7 @@ mod tests {
         let res = generate_standup_from_summaries(
             &client,
             Some("   "),
-            "gemini-2.5-flash",
+            "gemini-3.8-flash",
             "mock waka",
             "mock gh",
             false,

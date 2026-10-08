@@ -13,7 +13,7 @@ The repository is organized as follows:
   - `src/main.rs`: CLI entrypoint, argument parsing, and generation pipeline orchestration.
   - `src/wakatime.rs`: WakaTime API v1 stats client and ASCII retro-terminal compute HUD generator.
   - `src/github.rs`: GitHub user activity fetcher and commit/PR aggregation.
-  - `src/gemini.rs`: Google Gemini Flash API client (`gemini-2.5-flash`), telemetry standup generator, and deterministic offline fallbacks.
+  - `src/gemini.rs`: Google Gemini Flash API client (`gemini-3.8-flash`), telemetry standup generator, and deterministic offline fallbacks.
   - `src/template.rs`: Tera template engine, dynamic context injection, and atomic file emitter.
 - `README.template.md`: Single source of truth template for the profile layout.
 - `README.md`: Generated profile markdown document.
@@ -54,7 +54,7 @@ The repository is organized as follows:
     - `--template <PATH>`: Path to input template (defaults to `README.template.md`).
     - `--output <PATH>`: Destination path for rendered markdown (defaults to `README.md`).
     - `--offline`: Bypass all network requests and force deterministic fallback telemetry.
-    - `--model <MODEL>`: Gemini model identifier (defaults to `gemini-2.5-flash` or `GEMINI_MODEL` environment variable).
+    - `--model <MODEL>`: Gemini model identifier (defaults to `gemini-3.8-flash` or `GEMINI_MODEL` environment variable).
     - `--verbose`: Emit diagnostic logs to stderr.
 
 - Deterministic Testing:

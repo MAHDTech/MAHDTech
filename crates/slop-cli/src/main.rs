@@ -34,7 +34,7 @@ pub struct CliArgs {
     pub offline: bool,
 
     /// Override the Gemini model name
-    #[arg(long, env = "GEMINI_MODEL", default_value = "gemini-2.5-flash")]
+    #[arg(long, env = "GEMINI_MODEL", default_value = "gemini-3.8-flash")]
     pub model: String,
 
     /// Enable verbose logging to stderr
@@ -173,7 +173,7 @@ mod tests {
         assert!(!args.verbose);
         assert_eq!(args.template, PathBuf::from("README.template.md"));
         assert_eq!(args.output, PathBuf::from("README.md"));
-        assert_eq!(args.model, "gemini-2.5-flash");
+        assert_eq!(args.model, "gemini-3.8-flash");
     }
 
     #[test]

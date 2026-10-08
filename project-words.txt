@@ -74,4 +74,6 @@ PYTHONDONTWRITEBYTECODE
 tmpl
 Unconfigured
 unconfigured
+fileset
+pname
 

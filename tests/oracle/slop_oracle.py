@@ -82,7 +82,7 @@ def main():
     )
     parser.add_argument(
         "--model",
-        default=os.environ.get("GEMINI_MODEL", "gemini-2.5-flash"),
+        default=os.environ.get("GEMINI_MODEL", "gemini-3.8-flash"),
         help="Override the Gemini model name",
     )
     parser.add_argument(

@@ -86,7 +86,7 @@ in
     rust = {
       enable = true;
       toolchainFile = ./rust-toolchain.toml;
-      mold.enable = pkgs.stdenv.isLinux;
+      mold.enable = pkgs.stdenv.hostPlatform.isLinux;
     };
   };
 
@@ -249,4 +249,11 @@ in
       cargo test --workspace;
     fi
   '';
+
+  ## Outputs
+  # Recipe lives in packages/slop.nix and builds from pkgs alone. This output
+  # is the local/CI build handle (devenv build outputs.slop, pushed to Cachix).
+  #
+  # Downstream projects can import packages/slop.nix directly.
+  outputs.slop = import ./packages/slop.nix { inherit pkgs; };
 }

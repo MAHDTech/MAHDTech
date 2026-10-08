@@ -562,7 +562,7 @@ run_tier_3() {
 	# TC-XF-03: --model + --dry-run
 	if should_run_case "TC-XF-03"; then
 		local xf03_out="${TEMP_DIR}/xf03.md"
-		if "${SLOP_CMD[@]}" --template "${FIXTURES_DIR}/sample_template.md" --model "gemini-2.5-flash" --dry-run >"${xf03_out}" 2>&1; then
+		if "${SLOP_CMD[@]}" --template "${FIXTURES_DIR}/sample_template.md" --model "gemini-3.8-flash" --dry-run >"${xf03_out}" 2>&1; then
 			record_result "TC-XF-03" "Pairwise: --model + --dry-run executes preview without disk write" "PASS"
 		else
 			record_result "TC-XF-03" "Pairwise: --model + --dry-run executes preview without disk write" "FAIL" "Command exited non-zero"
