@@ -45,7 +45,9 @@ in
     warnOnNewVersion = true;
   };
 
-  packages = devPackages;
+  packages = devPackages ++ [
+    config.outputs.slop
+  ];
 
   enterShell = ''
     if [[ "''${CI:-false}" == "true" ]]; then
