@@ -1,8 +1,22 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+*.pdb
+
+# Coverage and profiling
+coverage/
+*.profraw
+*.profdata
+lcov.info
+.cargo-crap/
+
+# Agent and teamwork coordination metadata
+.agents/
+
 # TARS Cloud
-.tars/scratch
+.tars/scratch/
 
-
-# Devenv
+# Devenv environment
 .devenv*
 devenv.local.nix
 devenv.local.yaml
@@ -10,5 +24,12 @@ devenv.local.yaml
 # direnv
 .direnv
 
-# pre-commit
+# pre-commit / prek configuration
 .pre-commit-config.yaml
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store

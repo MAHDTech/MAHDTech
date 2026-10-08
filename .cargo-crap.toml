@@ -1,0 +1,15 @@
+# Cargo CRAP Configuration for MAHDTech Profile Automation
+# Gating: Cyclomatic Complexity correlated with LLVM Test Coverage
+
+# Threshold above which a function is flagged as high risk (Savoia-Evans standard)
+threshold = 30.0
+
+# Weight for the try operator '?' (range: 0.0 to 1.0)
+# Setting to 0.2 prevents idiomatic error propagation from artificially inflating complexity
+try-weight = 0.2
+
+# Display uncovered line ranges in terminal reports for failing functions
+uncovered-hints = true
+
+# Additional file patterns to exclude from analysis (built-in defaults cover tests/**, benches/**, examples/**)
+exclude = []

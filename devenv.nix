@@ -92,6 +92,9 @@ in
 
   git-hooks = {
     excludes = [
+      "^target/"
+      "^.agents/"
+      "^.tars/"
       ".agents/"
       ".devenv/"
       "^.vscode/"
@@ -135,7 +138,12 @@ in
       lychee = {
         enable = true;
         excludes = [
+          "\\.rs$"
         ];
+        settings = {
+          configPath = "lychee.toml";
+          flags = "--exclude '^https://(www\\.)?linkedin\\.com/.*' --exclude 'dist/.*' --exclude 'profile-3d-contrib/.*'";
+        };
       };
       markdownlint = {
         enable = true;
@@ -237,6 +245,8 @@ in
   scripts = { };
 
   enterTest = ''
-    echo "Running tests..."
+    if [ -f Cargo.toml ]; then
+      cargo test --workspace;
+    fi
   '';
 }

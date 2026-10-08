@@ -1,0 +1,9 @@
+# lychee.toml
+# Configuration for Lychee link checker
+
+# Exclude URLs and local paths from verification
+exclude = [
+  "^https://(www\\.)?linkedin\\.com/.*",
+  "dist/.*",
+  "profile-3d-contrib/.*",
+]

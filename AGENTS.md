@@ -2,11 +2,32 @@
 
 ## Overview
 
-This repo generates the MAHDTech profile landing content via automation.
+This repository generates the MAHDTech GitHub profile landing page via automated tooling.
 
 ## Structure
 
-TODO
+The repository is organized as follows:
+
+- `Cargo.toml`: Root Cargo workspace definition.
+- `crates/slop-cli/`: Cargo workspace member crate implementing the `slop` profile generator CLI:
+  - `src/main.rs`: CLI entrypoint, argument parsing, and generation pipeline orchestration.
+  - `src/wakatime.rs`: WakaTime API v1 stats client and ASCII retro-terminal compute HUD generator.
+  - `src/github.rs`: GitHub user activity fetcher and commit/PR aggregation.
+  - `src/gemini.rs`: Google Gemini Flash API client (`gemini-2.5-flash`), telemetry standup generator, and deterministic offline fallbacks.
+  - `src/template.rs`: Tera template engine, dynamic context injection, and atomic file emitter.
+- `README.template.md`: Single source of truth template for the profile layout.
+- `README.md`: Generated profile markdown document.
+- `.cargo-crap.toml`: Change Risk Anti-Patterns (CRAP) metric and test coverage configuration.
+- `.github/workflows/`: GitHub Actions automation:
+  - `update-readme.yaml`: Daily cron and manual dispatch profile compilation workflow.
+  - `ci.yaml`: Pinned consumer devenv CI workflow (v3.3.0).
+  - `cargo-crap.yaml`: Pinned consumer cargo-crap complexity and coverage workflow (v3.3.0).
+  - `sec-codeql.yaml`: Pinned consumer CodeQL static analysis workflow (v3.3.0).
+  - `sec-trivy.yaml`: Pinned consumer Trivy vulnerability scanner workflow (v3.3.0).
+- `devenv.nix`: Hermetic development environment, packages, and `git-hooks` configured with `prek`.
+- `project-words.txt`: Custom domain vocabulary for CSpell linting.
+- `AGENTS.md`: Repository rules, governance, architecture, and behavioral guidelines.
+- `.gitignore`: Git exclusion patterns for build artifacts, environment files, and agent metadata.
 
 ## Development
 
@@ -20,18 +41,32 @@ TODO
 
 - **CRITICAL TESTING RULE:** ALWAYS run tests via `devenv --no-tui test` or the `run-tests` wrappers. This is the single guaranteed path.
 
-- If a specific linter or `prek` hook check doesn't exist, check the devenv MCP server or devenv agent docs. If you STILL don't find it, ask the user for confirmation.
+- **CRITICAL ZERO EM-DASH RULE:** Never use em-dashes (Unicode U+2014) anywhere across code, templates, generated markdown, workflows, commit messages, or documentation. Always use hyphens (-), colons (:), or rewrite phrasing.
 
-- Runtime: Rust toolchain via devenv. The native `ask` CLI binary in `crates/ask-cli` manages skills and the dashboard.
+- If a specific linter or `prek` hook check does not exist, check the devenv MCP server or devenv agent docs. If you still do not find it, ask the user for confirmation.
 
-- CLI Tool: `ask` (or `cargo run -p slop --`).
+- Runtime: Rust toolchain via devenv. The Cargo workspace member `crates/slop-cli` produces the `slop` binary.
+
+- CLI Tool Execution:
+  - Run via Cargo workspace package: `cargo run -p slop-cli -- [FLAGS]` (or `cargo run --bin slop -- [FLAGS]`).
+  - Supported flags:
+    - `--dry-run`: Preview rendered markdown to stdout without modifying destination file.
+    - `--template <PATH>`: Path to input template (defaults to `README.template.md`).
+    - `--output <PATH>`: Destination path for rendered markdown (defaults to `README.md`).
+    - `--offline`: Bypass all network requests and force deterministic fallback telemetry.
+    - `--model <MODEL>`: Gemini model identifier (defaults to `gemini-2.5-flash` or `GEMINI_MODEL` environment variable).
+    - `--verbose`: Emit diagnostic logs to stderr.
+
+- Deterministic Testing:
+  - All unit tests in `crates/slop-cli` must run completely offline without external network dependencies.
+  - When external API tokens are missing or network calls fail, `slop` must degrade gracefully to deterministic mock data and never panic.
 
 ## Behaviour
 
-Follow the behavioural guidelines that reduce common LLM coding mistakes;
+Follow the behavioural guidelines that reduce common LLM coding mistakes:
 
 - think before coding (surface assumptions and tradeoffs instead of guessing)
 - keep changes simple and surgical (minimum code, touch only what the request needs)
 - drive every task to a verified success criterion.
 
-They bias toward caution over speed, for trivial tasks, use judgment.
+They bias toward caution over speed; for trivial tasks, use judgment.
