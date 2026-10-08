@@ -44,7 +44,6 @@ Explore my interactive AI Agent Skills and Architecture Showcase:
 - Website: [mahdtech.com](https://www.mahdtech.com)
 - GitHub: [github.com/MAHDTech](https://github.com/MAHDTech)
 - Twitter: [@MAHDTecher](https://twitter.com/MAHDTecher)
-- LinkedIn: [linkedin.com/in/MAHDTech](https://www.linkedin.com/in/MAHDTech/)
 - Stack Overflow: [MAHDTech](https://stackoverflow.com/users/10085799/mahdtech)
 
 ---
