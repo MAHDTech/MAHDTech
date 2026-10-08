@@ -5,3 +5,7 @@ clippy
 nixpkgs
 oxalica
 rustc
+prek
+MAHDTech
+MAHD
+pkgs
