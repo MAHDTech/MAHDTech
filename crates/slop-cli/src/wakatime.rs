@@ -1,5 +1,5 @@
 use base64::prelude::*;
-use reqwest::header::{HeaderMap, HeaderValue, ACCEPT, AUTHORIZATION, USER_AGENT};
+use reqwest::header::{ACCEPT, AUTHORIZATION, HeaderMap, HeaderValue, USER_AGENT};
 use serde::{Deserialize, Serialize};
 
 /// Heavy horizontal line character used for terminal divider.

@@ -1,4 +1,4 @@
-use anyhow::{bail, Context, Result};
+use anyhow::{Context, Result, bail};
 use std::path::Path;
 
 pub const TEMPLATE_NAME: &str = "profile";
@@ -51,12 +51,12 @@ pub fn load_and_render_template(template_path: &Path, context: &tera::Context) -
 }
 
 pub fn write_atomic(output_path: &Path, content: &str) -> Result<()> {
-    if let Some(parent) = output_path.parent() {
-        if !parent.as_os_str().is_empty() && !parent.exists() {
-            std::fs::create_dir_all(parent).with_context(|| {
-                format!("Failed to create output directory: {}", parent.display())
-            })?;
-        }
+    if let Some(parent) = output_path.parent()
+        && !parent.as_os_str().is_empty()
+        && !parent.exists()
+    {
+        std::fs::create_dir_all(parent)
+            .with_context(|| format!("Failed to create output directory: {}", parent.display()))?;
     }
 
     let file_stem = output_path

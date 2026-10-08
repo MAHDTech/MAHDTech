@@ -1,4 +1,4 @@
-use reqwest::header::{HeaderMap, HeaderName, HeaderValue, ACCEPT, AUTHORIZATION, USER_AGENT};
+use reqwest::header::{ACCEPT, AUTHORIZATION, HeaderMap, HeaderName, HeaderValue, USER_AGENT};
 use serde::{Deserialize, Serialize};
 
 /// GitHub event object from /users/{user}/events API.
@@ -142,10 +142,10 @@ pub async fn fetch_recent_activity(
 
     if let Some(tok) = token {
         let trimmed = tok.trim();
-        if !trimmed.is_empty() {
-            if let Ok(hv) = HeaderValue::from_str(&format!("Bearer {}", trimmed)) {
-                headers.insert(AUTHORIZATION, hv);
-            }
+        if !trimmed.is_empty()
+            && let Ok(hv) = HeaderValue::from_str(&format!("Bearer {}", trimmed))
+        {
+            headers.insert(AUTHORIZATION, hv);
         }
     }
 

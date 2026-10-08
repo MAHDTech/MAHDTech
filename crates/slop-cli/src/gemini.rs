@@ -90,12 +90,11 @@ pub fn sanitize_standup_bullets(raw_text: &str) -> String {
         } else if let Some(stripped) = trimmed.strip_prefix("• ") {
             stripped.trim()
         } else {
-            let without_number = trimmed
+            trimmed
                 .find(". ")
                 .filter(|&idx| idx <= 3 && trimmed[..idx].chars().all(|c| c.is_ascii_digit()))
                 .map(|idx| trimmed[idx + 2..].trim())
-                .unwrap_or(trimmed);
-            without_number
+                .unwrap_or(trimmed)
         };
 
         if !cleaned.is_empty() {
