@@ -1,5 +1,3 @@
-use anyhow::Result;
-
 pub const FALLBACK_STANDUP: &str = "\
 - Telemetry: Active compute cycles concentrated on low-latency Rust systems and autonomous agent frameworks.
 - Platform: Advancing Kubernetes platform deployments and infrastructure as code automation.
@@ -111,6 +109,64 @@ pub fn sanitize_standup_bullets(raw_text: &str) -> String {
     }
 }
 
+/// Builds the structured Gemini JSON request envelope.
+pub fn build_gemini_request<'a>(prompt: &'a str) -> GeminiRequest<'a> {
+    GeminiRequest {
+        contents: vec![GeminiContent {
+            parts: vec![GeminiPart { text: prompt }],
+        }],
+        generation_config: GenerationConfig {
+            temperature: 0.4,
+            max_output_tokens: 300,
+        },
+    }
+}
+
+/// Extracts the first candidate generated text from Gemini response structure.
+pub fn extract_candidate_text(resp: &GeminiResponse) -> Option<&str> {
+    resp.candidates
+        .as_ref()
+        .and_then(|c| c.first())
+        .and_then(|c| c.content.as_ref())
+        .and_then(|c| c.parts.as_ref())
+        .and_then(|p| p.first())
+        .and_then(|p| p.text.as_deref())
+}
+
+/// Dispatches network request to Gemini API and deserializes response.
+async fn post_gemini_content(
+    client: &reqwest::Client,
+    key: &str,
+    model: &str,
+    prompt: &str,
+) -> Option<GeminiResponse> {
+    let request_body = build_gemini_request(prompt);
+    let url = format!(
+        "https://generativelanguage.googleapis.com/v1beta/models/{}:generateContent",
+        model
+    );
+
+    let resp = client
+        .post(&url)
+        .header("Content-Type", "application/json")
+        .header("x-goog-api-key", key)
+        .json(&request_body)
+        .timeout(std::time::Duration::from_secs(10))
+        .send()
+        .await
+        .ok()?;
+
+    if !resp.status().is_success() {
+        eprintln!(
+            "[gemini] Upstream returned status {}: falling back to deterministic standup",
+            resp.status()
+        );
+        return None;
+    }
+
+    resp.json::<GeminiResponse>().await.ok()
+}
+
 pub async fn generate_standup_from_summaries(
     client: &reqwest::Client,
     api_key: Option<&str>,
@@ -123,80 +179,21 @@ pub async fn generate_standup_from_summaries(
         return FALLBACK_STANDUP.to_string();
     }
 
-    let key = match api_key {
-        Some(k) if !k.trim().is_empty() => k.trim(),
-        _ => return FALLBACK_STANDUP.to_string(),
+    let trimmed_key = match api_key.map(str::trim).filter(|k| !k.is_empty()) {
+        Some(k) => k,
+        None => return FALLBACK_STANDUP.to_string(),
     };
 
     let prompt = build_prompt(wakatime_summary, github_summary);
-    let request_body = GeminiRequest {
-        contents: vec![GeminiContent {
-            parts: vec![GeminiPart { text: &prompt }],
-        }],
-        generation_config: GenerationConfig {
-            temperature: 0.4,
-            max_output_tokens: 300,
-        },
+    let resp = match post_gemini_content(client, trimmed_key, model, &prompt).await {
+        Some(r) => r,
+        None => return FALLBACK_STANDUP.to_string(),
     };
 
-    let url = format!(
-        "https://generativelanguage.googleapis.com/v1beta/models/{}:generateContent",
-        model
-    );
-
-    let send_res = client
-        .post(&url)
-        .header("Content-Type", "application/json")
-        .header("x-goog-api-key", key)
-        .json(&request_body)
-        .timeout(std::time::Duration::from_secs(10))
-        .send()
-        .await;
-
-    let response = match send_res {
-        Ok(res) => {
-            if !res.status().is_success() {
-                eprintln!(
-                    "[gemini] Upstream returned status {}: falling back to deterministic standup",
-                    res.status()
-                );
-                return FALLBACK_STANDUP.to_string();
-            }
-            res
-        }
-        Err(err) => {
-            eprintln!(
-                "[gemini] Network error: {}, falling back to deterministic standup",
-                err
-            );
-            return FALLBACK_STANDUP.to_string();
-        }
-    };
-
-    let parsed: Result<GeminiResponse, _> = response.json().await;
-    match parsed {
-        Ok(gemini_resp) => {
-            let candidate_text = gemini_resp
-                .candidates
-                .as_ref()
-                .and_then(|c| c.first())
-                .and_then(|c| c.content.as_ref())
-                .and_then(|c| c.parts.as_ref())
-                .and_then(|p| p.first())
-                .and_then(|p| p.text.as_ref());
-
-            if let Some(text) = candidate_text {
-                sanitize_standup_bullets(text)
-            } else {
-                eprintln!("[gemini] No candidate text returned: using fallback standup");
-                FALLBACK_STANDUP.to_string()
-            }
-        }
-        Err(err) => {
-            eprintln!(
-                "[gemini] JSON deserialization error: {}, using fallback standup",
-                err
-            );
+    match extract_candidate_text(&resp) {
+        Some(text) => sanitize_standup_bullets(text),
+        None => {
+            eprintln!("[gemini] No candidate text returned: using fallback standup");
             FALLBACK_STANDUP.to_string()
         }
     }
@@ -370,5 +367,39 @@ mod tests {
         )
         .await;
         assert_eq!(res, FALLBACK_STANDUP);
+    }
+
+    #[test]
+    fn test_build_gemini_request() {
+        let req = build_gemini_request("test prompt text");
+        assert_eq!(req.contents.len(), 1);
+        assert_eq!(req.contents[0].parts.len(), 1);
+        assert_eq!(req.contents[0].parts[0].text, "test prompt text");
+        assert_eq!(req.generation_config.max_output_tokens, 300);
+    }
+
+    #[test]
+    fn test_extract_candidate_text_empty_and_valid() {
+        let empty_resp = GeminiResponse { candidates: None };
+        assert!(extract_candidate_text(&empty_resp).is_none());
+
+        let empty_candidates = GeminiResponse {
+            candidates: Some(vec![]),
+        };
+        assert!(extract_candidate_text(&empty_candidates).is_none());
+
+        let valid_resp = GeminiResponse {
+            candidates: Some(vec![GeminiCandidate {
+                content: Some(GeminiCandidateContent {
+                    parts: Some(vec![GeminiCandidatePart {
+                        text: Some("- Standup bullet point".to_string()),
+                    }]),
+                }),
+            }]),
+        };
+        assert_eq!(
+            extract_candidate_text(&valid_resp),
+            Some("- Standup bullet point")
+        );
     }
 }

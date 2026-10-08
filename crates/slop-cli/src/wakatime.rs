@@ -218,6 +218,57 @@ pub fn render_hud(stats: &WakaTimeStats) -> String {
     output.replace('\u{2014}', "-")
 }
 
+/// Builds HTTP headers including base64 Basic auth for WakaTime API.
+pub fn build_auth_headers(api_key: &str) -> HeaderMap {
+    let mut headers = HeaderMap::new();
+    headers.insert(USER_AGENT, HeaderValue::from_static("slop-cli/0.1.0"));
+    headers.insert(ACCEPT, HeaderValue::from_static("application/json"));
+
+    let encoded_key = BASE64_STANDARD.encode(api_key.as_bytes());
+    let auth_header_val = format!("Basic {}", encoded_key);
+    if let Ok(hv) = HeaderValue::from_str(&auth_header_val) {
+        headers.insert(AUTHORIZATION, hv);
+    }
+    headers
+}
+
+/// Validates and extracts WakaTime stats from the API response payload.
+pub fn extract_stats(parsed: WakaTimeResponse) -> Option<WakaTimeStats> {
+    if parsed.data.languages.is_empty() {
+        eprintln!("[wakatime] Upstream returned empty languages: falling back to mock stats");
+        None
+    } else {
+        Some(parsed.data)
+    }
+}
+
+/// Dispatches network request to WakaTime API endpoint and parses response.
+async fn fetch_stats_from_network(
+    client: &reqwest::Client,
+    api_key: &str,
+) -> Option<WakaTimeStats> {
+    let headers = build_auth_headers(api_key);
+    let url = "https://wakatime.com/api/v1/users/current/stats/last_7_days";
+    let resp = client
+        .get(url)
+        .headers(headers)
+        .timeout(std::time::Duration::from_secs(10))
+        .send()
+        .await
+        .ok()?;
+
+    if !resp.status().is_success() {
+        eprintln!(
+            "[wakatime] Upstream API returned status {}: falling back to mock stats",
+            resp.status()
+        );
+        return None;
+    }
+
+    let parsed = resp.json::<WakaTimeResponse>().await.ok()?;
+    extract_stats(parsed)
+}
+
 /// Fetches weekly stats from the WakaTime API v1 with graceful fallback.
 pub async fn fetch_stats(
     client: &reqwest::Client,
@@ -228,54 +279,12 @@ pub async fn fetch_stats(
         return mock_stats();
     }
 
-    let key = match api_key {
-        Some(k) if !k.trim().is_empty() => k.trim(),
-        _ => return mock_stats(),
-    };
-
-    let encoded_key = BASE64_STANDARD.encode(key.as_bytes());
-    let auth_header_val = format!("Basic {}", encoded_key);
-
-    let mut headers = HeaderMap::new();
-    headers.insert(USER_AGENT, HeaderValue::from_static("slop-cli/0.1.0"));
-    headers.insert(ACCEPT, HeaderValue::from_static("application/json"));
-    if let Ok(hv) = HeaderValue::from_str(&auth_header_val) {
-        headers.insert(AUTHORIZATION, hv);
-    }
-
-    let url = "https://wakatime.com/api/v1/users/current/stats/last_7_days";
-    let resp = match client
-        .get(url)
-        .headers(headers)
-        .timeout(std::time::Duration::from_secs(10))
-        .send()
-        .await
-    {
-        Ok(r) => r,
-        Err(e) => {
-            eprintln!("[wakatime] Network error fetching stats: {}", e);
-            return mock_stats();
-        }
-    };
-
-    if !resp.status().is_success() {
-        eprintln!(
-            "[wakatime] Upstream API returned status {}: falling back to mock stats",
-            resp.status()
-        );
-        return mock_stats();
-    }
-
-    match resp.json::<WakaTimeResponse>().await {
-        Ok(parsed) if !parsed.data.languages.is_empty() => parsed.data,
-        Ok(_) => {
-            eprintln!("[wakatime] Upstream returned empty languages: falling back to mock stats");
-            mock_stats()
-        }
-        Err(e) => {
-            eprintln!("[wakatime] JSON deserialization error: {}", e);
-            mock_stats()
-        }
+    let trimmed = api_key.map(str::trim).filter(|k| !k.is_empty());
+    match trimmed {
+        Some(key) => fetch_stats_from_network(client, key)
+            .await
+            .unwrap_or_else(mock_stats),
+        None => mock_stats(),
     }
 }
 
@@ -408,5 +417,47 @@ mod tests {
         assert!(prompt_text.contains("Total weekly compute:"));
         assert!(prompt_text.contains("Rust: 58.2%"));
         assert!(!prompt_text.contains('\u{2014}'));
+    }
+
+    #[test]
+    fn test_build_auth_headers() {
+        let headers = build_auth_headers("test-secret-key");
+        assert_eq!(headers.get(USER_AGENT).unwrap(), "slop-cli/0.1.0");
+        assert_eq!(headers.get(ACCEPT).unwrap(), "application/json");
+        let auth_val = headers.get(AUTHORIZATION).unwrap().to_str().unwrap();
+        assert!(auth_val.starts_with("Basic "));
+    }
+
+    #[test]
+    fn test_extract_stats() {
+        let empty_resp = WakaTimeResponse {
+            data: WakaTimeStats {
+                languages: vec![],
+                editors: vec![],
+                operating_systems: vec![],
+                human_readable_total: None,
+                human_readable_daily_average: None,
+                total_seconds: None,
+            },
+        };
+        assert!(extract_stats(empty_resp).is_none());
+
+        let valid_resp = WakaTimeResponse { data: mock_stats() };
+        let extracted = extract_stats(valid_resp);
+        assert!(extracted.is_some());
+        assert_eq!(extracted.unwrap().languages.len(), 4);
+    }
+
+    #[tokio::test]
+    async fn test_fetch_stats_empty_and_whitespace_keys() {
+        let client = reqwest::Client::new();
+        let stats_none = fetch_stats(&client, None, false).await;
+        assert_eq!(stats_none.languages.len(), 4);
+
+        let stats_empty = fetch_stats(&client, Some(""), false).await;
+        assert_eq!(stats_empty.languages.len(), 4);
+
+        let stats_whitespace = fetch_stats(&client, Some("   "), false).await;
+        assert_eq!(stats_whitespace.languages.len(), 4);
     }
 }
