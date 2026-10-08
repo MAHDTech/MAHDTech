@@ -9,22 +9,12 @@ Explore my interactive AI Agent Skills and Architecture Showcase:
 
 ## Daily AI Telemetry
 
-- Telemetry: Active compute cycles concentrated on low-latency Rust systems and autonomous agent frameworks.
-- Platform: Advancing Kubernetes platform deployments and infrastructure as code automation.
-- Momentum: Continuous integration verification and automated profile compiler pipeline operational.
-- Focus: Scaling multi-agent coordination tooling and resilient cloud-native workflows.
+{{ ai_standup }}
 
 ## Weekly Compute Cycles
 
 ```text
-⚡ WEEKLY COMPUTE CYCLES (via WakaTime API)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Markdown      51 hrs 10 mins  [████████░░░░░░░░░░░░] 41.2%
-Rust          22 hrs 16 mins  [████░░░░░░░░░░░░░░░░] 17.9%
-Python        18 hrs 14 mins  [███░░░░░░░░░░░░░░░░░] 14.7%
-Nix           15 hrs 46 mins  [███░░░░░░░░░░░░░░░░░] 12.7%
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OS: Linux | Primary Editor: Codex CLI
+{{ wakatime_hud }}
 ```
 
 ## Contribution Activity
@@ -58,4 +48,4 @@ OS: Linux | Primary Editor: Codex CLI
 
 ---
 
-Last Updated: 2026-10-08 22:42 UTC | Built with [slop-cli](https://github.com/MAHDTech/MAHDTech) v0.1.1
+Last Updated: {{ last_updated }} | Built with [slop-cli](https://github.com/MAHDTech/MAHDTech) v{{ cli_version }}

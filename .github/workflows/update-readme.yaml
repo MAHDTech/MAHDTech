@@ -1,49 +1,84 @@
-
-name: Update README
+---
+name: Update Profile Readme
 
 on:
-
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
 
-  workflow_dispatch:
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
 
-env:
-
-  CREDLY_USER: mahdtech
+permissions:
+  contents: write
 
 jobs:
-
-  build:
-
-    name: Update README with recent GitHub activity
-
+  # -------------------------------------------------
+  # Build Profile and Refresh Visuals
+  # -------------------------------------------------
+  update-profile:
+    name: Build Profile and Refresh Visuals
     runs-on: ubuntu-latest
-
     steps:
-
       - id: checkout_repository
-        name: Checkout repository
-        uses: actions/checkout@v2
+        name: Check Out Repository
+        uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 0
 
-      # NOTE: Only these public events will show up
-      #         - IssueEvent
-      #         - IssueCommentEvent
-      #         - PullRequestEvent
-      - id: update_readme
-        name: Update Readme
-        uses: Readme-Workflows/recent-activity@v2.3.1
+      - id: setup_rust
+        name: Set Up Rust Toolchain
+        uses: actions-rust-lang/setup-rust-toolchain@v1
+        with:
+          toolchain: stable
+          cache: true
+
+      - id: generate_snake
+        name: Generate Contribution Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - id: generate_skyline_3d
+        name: Generate 3D Contribution Skyline
+        uses: yoshi389111/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-      - id: update_badges
-        name: Update Badges
-        uses: pemtajo/badge-readme@main
-        with:
-          GH_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          COMMIT_MESSAGE: "Update Credly Badges"
-          CREDLY_USER: "${{ env.CREDLY_USER }}"
-          CREDLY_SORT: RECENT
+      - id: build_slop
+        name: Build Slop CLI
+        run: cargo build --release -p slop-cli
 
+      - id: run_slop
+        name: Execute Slop CLI to Compile README
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAHDTECH_GITHUB_TOKEN: ${{ secrets.MAHDTECH_GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          cargo run --release -p slop-cli -- \
+            --template README.template.md \
+            --output README.md
+
+      - id: commit_and_push
+        name: Commit and Push Profile Updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if [ -d "dist" ]; then git add dist/; fi
+          if [ -d "profile-3d-contrib" ]; then git add profile-3d-contrib/; fi
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(readme): update profile telemetry and visuals [skip ci]"
+            git push
+          else
+            echo "No profile changes detected; skipping commit."
+          fi
