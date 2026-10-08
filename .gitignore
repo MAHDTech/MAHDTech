@@ -15,6 +15,7 @@ lcov.info
 
 # TARS Cloud
 .tars/scratch/
+.tars/goals/
 
 # Devenv environment
 .devenv*
