@@ -58,11 +58,11 @@ jobs:
       - id: run_slop
         name: Execute Slop CLI to Compile README
         env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
-          MAHDTECH_GITHUB_TOKEN: ${{ secrets.MAHDTECH_GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAHDTECH_GITHUB_TOKEN: ${{ secrets.MAHDTECH_GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           cargo run --release -p slop-cli -- \
             --template README.template.md \

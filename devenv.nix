@@ -142,7 +142,7 @@ in
         ];
         settings = {
           configPath = "lychee.toml";
-          flags = "--exclude '^https://(www\\.)?linkedin\\.com/.*' --exclude 'dist/.*' --exclude 'profile-3d-contrib/.*'";
+          flags = "--exclude 'dist/.*' --exclude 'profile-3d-contrib/.*'";
         };
       };
       markdownlint = {

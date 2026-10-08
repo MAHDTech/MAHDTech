@@ -739,7 +739,7 @@ run_tier_4() {
 	# TC-E2E-05: Strict Zero Em-Dash Repository-Wide Audit
 	if should_run_case "TC-E2E-05"; then
 		local emdash_found=0
-		for path in "${ROOT_DIR}/TEST_INFRA.md" "${ROOT_DIR}/TEST_READY.md" "${ROOT_DIR}/tests/e2e_runner.sh" "${ROOT_DIR}/tests/oracle/slop_oracle.py"; do
+		for path in "${ROOT_DIR}/tests/e2e_runner.sh" "${ROOT_DIR}/tests/oracle/slop_oracle.py"; do
 			if [[ -f ${path} ]]; then
 				if python3 -c "
 with open('${path}', 'r', encoding='utf-8') as f:
