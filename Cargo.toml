@@ -10,3 +10,6 @@ edition = "2021"
 authors = ["MAHDTech <mahdtech@salt-labs.dev>"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/MAHDTech/MAHDTech"
+
+[workspace.dependencies]
+cargo-crap = { version = "0.6.1", default-features = false }
