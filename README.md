@@ -19,12 +19,12 @@ Explore my interactive AI Agent Skills and Architecture Showcase:
 ```text
 ⚡ WEEKLY COMPUTE CYCLES (via WakaTime API)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Rust          28 hrs 40 mins  [████████████░░░░░░░░] 58.2%
-Python         8 hrs 15 mins  [███░░░░░░░░░░░░░░░░░] 16.7%
-YAML / K8s     5 hrs 10 mins  [██░░░░░░░░░░░░░░░░░░] 10.5%
-Nix            3 hrs 45 mins  [██░░░░░░░░░░░░░░░░░░]  7.6%
+Markdown      51 hrs 10 mins  [████████░░░░░░░░░░░░] 41.2%
+Rust          22 hrs 16 mins  [████░░░░░░░░░░░░░░░░] 17.9%
+Python        18 hrs 14 mins  [███░░░░░░░░░░░░░░░░░] 14.7%
+Nix           15 hrs 46 mins  [███░░░░░░░░░░░░░░░░░] 12.7%
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OS: Linux (NixOS) | Primary Editor: Neovim / Helix
+OS: Linux | Primary Editor: Codex CLI
 ```
 
 ## Contribution Activity
@@ -75,4 +75,4 @@ OS: Linux (NixOS) | Primary Editor: Neovim / Helix
 
 ---
 
-Last Updated: 2026-10-08 12:36 UTC | Built with [slop-cli](https://github.com/MAHDTech/MAHDTech) v0.1.0
+Last Updated: 2026-10-08 21:44 UTC | Built with [slop-cli](https://github.com/MAHDTech/MAHDTech) v0.1.0
