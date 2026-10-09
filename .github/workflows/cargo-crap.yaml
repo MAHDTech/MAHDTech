@@ -1,5 +1,5 @@
 ---
-name: "Consumer: Cargo CRAP"
+name: CRAP
 
 on:
   pull_request:
