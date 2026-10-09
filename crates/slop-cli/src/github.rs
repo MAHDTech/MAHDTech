@@ -119,16 +119,8 @@ pub fn summarize_events(events: &[GitHubEvent]) -> ActivitySummary {
     }
 }
 
-/// Fetches recent public activity from GitHub API with graceful fallback.
-pub async fn fetch_recent_activity(
-    client: &reqwest::Client,
-    token: Option<&str>,
-    offline: bool,
-) -> ActivitySummary {
-    if offline {
-        return mock_activity();
-    }
-
+/// Builds HTTP headers for GitHub REST API, optionally including Bearer auth.
+pub fn build_github_headers(token: Option<&str>) -> HeaderMap {
     let mut headers = HeaderMap::new();
     headers.insert(USER_AGENT, HeaderValue::from_static("slop-cli/0.1.0"));
     headers.insert(
@@ -142,42 +134,54 @@ pub async fn fetch_recent_activity(
 
     if let Some(tok) = token {
         let trimmed = tok.trim();
-        if !trimmed.is_empty()
-            && let Ok(hv) = HeaderValue::from_str(&format!("Bearer {}", trimmed))
-        {
-            headers.insert(AUTHORIZATION, hv);
+        if !trimmed.is_empty() {
+            if let Ok(hv) = HeaderValue::from_str(&format!("Bearer {}", trimmed)) {
+                headers.insert(AUTHORIZATION, hv);
+            }
         }
     }
+    headers
+}
 
+/// Dispatches network request to fetch raw events from the GitHub API.
+async fn fetch_events_from_network(
+    client: &reqwest::Client,
+    headers: HeaderMap,
+) -> Option<Vec<GitHubEvent>> {
     let url = "https://api.github.com/users/MAHDTech/events?per_page=30";
-    let resp = match client
+    let resp = client
         .get(url)
         .headers(headers)
         .timeout(std::time::Duration::from_secs(10))
         .send()
         .await
-    {
-        Ok(r) => r,
-        Err(e) => {
-            eprintln!("[github] Network error fetching events: {}", e);
-            return mock_activity();
-        }
-    };
+        .ok()?;
 
     if !resp.status().is_success() {
         eprintln!(
             "[github] Upstream returned status {}: falling back to mock activity",
             resp.status()
         );
+        return None;
+    }
+
+    resp.json::<Vec<GitHubEvent>>().await.ok()
+}
+
+/// Fetches recent public activity from GitHub API with graceful fallback.
+pub async fn fetch_recent_activity(
+    client: &reqwest::Client,
+    token: Option<&str>,
+    offline: bool,
+) -> ActivitySummary {
+    if offline {
         return mock_activity();
     }
 
-    match resp.json::<Vec<GitHubEvent>>().await {
-        Ok(events) => summarize_events(&events),
-        Err(e) => {
-            eprintln!("[github] Error deserializing events JSON: {}", e);
-            mock_activity()
-        }
+    let headers = build_github_headers(token);
+    match fetch_events_from_network(client, headers).await {
+        Some(events) => summarize_events(&events),
+        None => mock_activity(),
     }
 }
 
@@ -291,5 +295,23 @@ mod tests {
         assert_eq!(summary.pull_requests_opened.len(), 1);
         assert_eq!(summary.pull_requests_merged.len(), 1);
         assert_eq!(summary.recent_repos.len(), 2);
+    }
+
+    #[test]
+    fn test_build_github_headers() {
+        let headers_none = build_github_headers(None);
+        assert_eq!(headers_none.get(USER_AGENT).unwrap(), "slop-cli/0.1.0");
+        assert_eq!(
+            headers_none.get(ACCEPT).unwrap(),
+            "application/vnd.github+json"
+        );
+        assert!(headers_none.get(AUTHORIZATION).is_none());
+
+        let headers_empty = build_github_headers(Some("   "));
+        assert!(headers_empty.get(AUTHORIZATION).is_none());
+
+        let headers_token = build_github_headers(Some("ghp_valid_token_123"));
+        let auth_val = headers_token.get(AUTHORIZATION).unwrap().to_str().unwrap();
+        assert_eq!(auth_val, "Bearer ghp_valid_token_123");
     }
 }
