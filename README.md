@@ -19,10 +19,10 @@ Explore my interactive AI Agent Skills and Architecture Showcase:
 ```text
 ⚡ WEEKLY COMPUTE CYCLES (via WakaTime API)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Markdown      45 hrs 47 mins  [████████░░░░░░░░░░░░] 40.4%
-Rust          20 hrs 17 mins  [████░░░░░░░░░░░░░░░░] 17.9%
-Python        17 hrs 33 mins  [███░░░░░░░░░░░░░░░░░] 15.5%
-Nix           12 hrs 35 mins  [██░░░░░░░░░░░░░░░░░░] 11.1%
+Markdown      40 hrs 44 mins  [████████░░░░░░░░░░░░] 39.7%
+Rust          15 hrs 58 mins  [███░░░░░░░░░░░░░░░░░] 15.6%
+Python        13 hrs 33 mins  [███░░░░░░░░░░░░░░░░░] 13.2%
+Other         12 hrs 22 mins  [██░░░░░░░░░░░░░░░░░░] 12.1%
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 OS: Linux | Primary Editor: Codex CLI
 ```
@@ -58,4 +58,4 @@ OS: Linux | Primary Editor: Codex CLI
 
 ---
 
-Last Updated: 2026-10-11 00:04 UTC | Built with [slop-cli](https://github.com/MAHDTech/MAHDTech) v0.1.1
+Last Updated: 2026-10-12 00:04 UTC | Built with [slop-cli](https://github.com/MAHDTech/MAHDTech) v0.1.1
