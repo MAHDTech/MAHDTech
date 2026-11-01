@@ -1,0 +1,473 @@
+{
+  "$schema": "https://raw.githubusercontent.com/minikin/cargo-crap/main/schemas/report-v1.json",
+  "diagnostics": {
+    "analyzed_files": 5,
+    "lcov_files": 5,
+    "lcov_only": {
+      "count": 0,
+      "examples": []
+    },
+    "matched_files": 5,
+    "source_only": {
+      "count": 0,
+      "examples": []
+    }
+  },
+  "entries": [
+    {
+      "coverage": 100.0,
+      "crap": 1.0,
+      "crate": "slop-cli",
+      "cyclomatic": 1.0,
+      "file": "crates/slop-cli/src/gemini.rs",
+      "function": "build_gemini_request",
+      "line": 113
+    },
+    {
+      "coverage": 100.0,
+      "crap": 1.0,
+      "crate": "slop-cli",
+      "cyclomatic": 1.0,
+      "file": "crates/slop-cli/src/gemini.rs",
+      "function": "build_prompt",
+      "line": 51
+    },
+    {
+      "coverage": 100.0,
+      "crap": 1.0,
+      "crate": "slop-cli",
+      "cyclomatic": 1.0,
+      "file": "crates/slop-cli/src/gemini.rs",
+      "function": "extract_candidate_text",
+      "line": 126
+    },
+    {
+      "coverage": 100.0,
+      "crap": 1.0,
+      "crate": "slop-cli",
+      "cyclomatic": 1.0,
+      "file": "crates/slop-cli/src/gemini.rs",
+      "function": "generate_standup",
+      "line": 202
+    },
+    {
+      "coverage": 60.86956521739131,
+      "crap": 11.834634667543353,
+      "crate": "slop-cli",
+      "cyclomatic": 8.0,
+      "file": "crates/slop-cli/src/gemini.rs",
+      "function": "generate_standup_from_summaries",
+      "line": 170,
+      "uncovered": [
+        {
+          "end": 183,
+          "start": 183
+        },
+        {
+          "end": 197,
+          "start": 187
+        }
+      ]
+    },
+    {
+      "coverage": 0.0,
+      "crap": 7.040000000000001,
+      "crate": "slop-cli",
+      "cyclomatic": 2.2,
+      "file": "crates/slop-cli/src/gemini.rs",
+      "function": "post_gemini_content",
+      "line": 137,
+      "uncovered": [
+        {
+          "end": 168,
+          "start": 137
+        }
+      ]
+    },
+    {
+      "coverage": 96.875,
+      "crap": 10.0030517578125,
+      "crate": "slop-cli",
+      "cyclomatic": 10.0,
+      "file": "crates/slop-cli/src/gemini.rs",
+      "function": "sanitize_standup_bullets",
+      "line": 70,
+      "uncovered": [
+        {
+          "end": 81,
+          "start": 81
+        }
+      ]
+    },
+    {
+      "coverage": 87.5,
+      "crap": 1.001953125,
+      "crate": "slop-cli",
+      "cyclomatic": 1.0,
+      "file": "crates/slop-cli/src/github.rs",
+      "function": "ActivitySummary::format_for_prompt",
+      "line": 34,
+      "uncovered": [
+        {
+          "end": 41,
+          "start": 41
+        }
+      ]
+    },
+    {
+      "coverage": 100.0,
+      "crap": 4.0,
+      "crate": "slop-cli",
+      "cyclomatic": 4.0,
+      "file": "crates/slop-cli/src/github.rs",
+      "function": "build_github_headers",
+      "line": 123
+    },
+    {
+      "coverage": 100.0,
+      "crap": 1.0,
+      "crate": "slop-cli",
+      "cyclomatic": 1.0,
+      "file": "crates/slop-cli/src/github.rs",
+      "function": "fetch_activity",
+      "line": 190
+    },
+    {
+      "coverage": 0.0,
+      "crap": 7.040000000000001,
+      "crate": "slop-cli",
+      "cyclomatic": 2.2,
+      "file": "crates/slop-cli/src/github.rs",
+      "function": "fetch_events_from_network",
+      "line": 147,
+      "uncovered": [
+        {
+          "end": 169,
+          "start": 147
+        }
+      ]
+    },
+    {
+      "coverage": 61.53846153846154,
+      "crap": 4.9103322712790165,
+      "crate": "slop-cli",
+      "cyclomatic": 4.0,
+      "file": "crates/slop-cli/src/github.rs",
+      "function": "fetch_recent_activity",
+      "line": 172,
+      "uncovered": [
+        {
+          "end": 184,
+          "start": 179
+        }
+      ]
+    },
+    {
+      "coverage": 100.0,
+      "crap": 1.0,
+      "crate": "slop-cli",
+      "cyclomatic": 1.0,
+      "file": "crates/slop-cli/src/github.rs",
+      "function": "mock_activity",
+      "line": 50
+    },
+    {
+      "coverage": 87.75510204081633,
+      "crap": 15.413093183962465,
+      "crate": "slop-cli",
+      "cyclomatic": 15.0,
+      "file": "crates/slop-cli/src/github.rs",
+      "function": "summarize_events",
+      "line": 63,
+      "uncovered": [
+        {
+          "end": 82,
+          "start": 79
+        },
+        {
+          "end": 106,
+          "start": 106
+        },
+        {
+          "end": 111,
+          "start": 111
+        }
+      ]
+    },
+    {
+      "coverage": 100.0,
+      "crap": 2.0,
+      "crate": "slop-cli",
+      "cyclomatic": 2.0,
+      "file": "crates/slop-cli/src/main.rs",
+      "function": "check_rogue_em_dash",
+      "line": 87
+    },
+    {
+      "coverage": 80.0,
+      "crap": 3.49248,
+      "crate": "slop-cli",
+      "cyclomatic": 3.4,
+      "file": "crates/slop-cli/src/main.rs",
+      "function": "execute",
+      "line": 139,
+      "uncovered": [
+        {
+          "end": 155,
+          "start": 152
+        }
+      ]
+    },
+    {
+      "coverage": 0.0,
+      "crap": 6.0,
+      "crate": "slop-cli",
+      "cyclomatic": 2.0,
+      "file": "crates/slop-cli/src/main.rs",
+      "function": "main",
+      "line": 159,
+      "uncovered": [
+        {
+          "end": 165,
+          "start": 159
+        }
+      ]
+    },
+    {
+      "coverage": 40.0,
+      "crap": 2.864,
+      "crate": "slop-cli",
+      "cyclomatic": 2.0,
+      "file": "crates/slop-cli/src/main.rs",
+      "function": "resolve_github_token",
+      "line": 75,
+      "uncovered": [
+        {
+          "end": 83,
+          "start": 78
+        }
+      ]
+    },
+    {
+      "coverage": 90.0,
+      "crap": 5.025,
+      "crate": "slop-cli",
+      "cyclomatic": 5.0,
+      "file": "crates/slop-cli/src/main.rs",
+      "function": "resolve_template_path",
+      "line": 46,
+      "uncovered": [
+        {
+          "end": 51,
+          "start": 51
+        }
+      ]
+    },
+    {
+      "coverage": 100.0,
+      "crap": 2.0,
+      "crate": "slop-cli",
+      "cyclomatic": 2.0,
+      "file": "crates/slop-cli/src/main.rs",
+      "function": "resolve_token",
+      "line": 64
+    },
+    {
+      "coverage": 100.0,
+      "crap": 1.8,
+      "crate": "slop-cli",
+      "cyclomatic": 1.8,
+      "file": "crates/slop-cli/src/main.rs",
+      "function": "run_pipeline",
+      "line": 96
+    },
+    {
+      "coverage": 100.0,
+      "crap": 1.0,
+      "crate": "slop-cli",
+      "cyclomatic": 1.0,
+      "file": "crates/slop-cli/src/template.rs",
+      "function": "create_context",
+      "line": 6
+    },
+    {
+      "coverage": 50.0,
+      "crap": 2.805,
+      "crate": "slop-cli",
+      "cyclomatic": 2.2,
+      "file": "crates/slop-cli/src/template.rs",
+      "function": "load_and_render_template",
+      "line": 42,
+      "uncovered": [
+        {
+          "end": 50,
+          "start": 45
+        }
+      ]
+    },
+    {
+      "coverage": 100.0,
+      "crap": 1.0,
+      "crate": "slop-cli",
+      "cyclomatic": 1.0,
+      "file": "crates/slop-cli/src/template.rs",
+      "function": "render_profile",
+      "line": 37
+    },
+    {
+      "coverage": 100.0,
+      "crap": 2.4,
+      "crate": "slop-cli",
+      "cyclomatic": 2.4,
+      "file": "crates/slop-cli/src/template.rs",
+      "function": "render_template",
+      "line": 20
+    },
+    {
+      "coverage": 52.77777777777778,
+      "crap": 21.15568672839506,
+      "crate": "slop-cli",
+      "cyclomatic": 10.2,
+      "file": "crates/slop-cli/src/template.rs",
+      "function": "write_atomic",
+      "line": 53,
+      "uncovered": [
+        {
+          "end": 60,
+          "start": 60
+        },
+        {
+          "end": 69,
+          "start": 69
+        },
+        {
+          "end": 81,
+          "start": 73
+        },
+        {
+          "end": 94,
+          "start": 85
+        }
+      ]
+    },
+    {
+      "coverage": 100.0,
+      "crap": 1.0,
+      "crate": "slop-cli",
+      "cyclomatic": 1.0,
+      "file": "crates/slop-cli/src/wakatime.rs",
+      "function": "WakaTimeStats::format_for_prompt",
+      "line": 66
+    },
+    {
+      "coverage": 100.0,
+      "crap": 2.0,
+      "crate": "slop-cli",
+      "cyclomatic": 2.0,
+      "file": "crates/slop-cli/src/wakatime.rs",
+      "function": "build_auth_headers",
+      "line": 222
+    },
+    {
+      "coverage": 100.0,
+      "crap": 2.0,
+      "crate": "slop-cli",
+      "cyclomatic": 2.0,
+      "file": "crates/slop-cli/src/wakatime.rs",
+      "function": "extract_stats",
+      "line": 236
+    },
+    {
+      "coverage": 80.0,
+      "crap": 4.128,
+      "crate": "slop-cli",
+      "cyclomatic": 4.0,
+      "file": "crates/slop-cli/src/wakatime.rs",
+      "function": "fetch_stats",
+      "line": 273,
+      "uncovered": [
+        {
+          "end": 286,
+          "start": 284
+        }
+      ]
+    },
+    {
+      "coverage": 0.0,
+      "crap": 8.16,
+      "crate": "slop-cli",
+      "cyclomatic": 2.4,
+      "file": "crates/slop-cli/src/wakatime.rs",
+      "function": "fetch_stats_from_network",
+      "line": 246,
+      "uncovered": [
+        {
+          "end": 270,
+          "start": 246
+        }
+      ]
+    },
+    {
+      "coverage": 100.0,
+      "crap": 1.0,
+      "crate": "slop-cli",
+      "cyclomatic": 1.0,
+      "file": "crates/slop-cli/src/wakatime.rs",
+      "function": "mock_stats",
+      "line": 82
+    },
+    {
+      "coverage": 96.29629629629629,
+      "crap": 3.0004572473708278,
+      "crate": "slop-cli",
+      "cyclomatic": 3.0,
+      "file": "crates/slop-cli/src/wakatime.rs",
+      "function": "render_hud",
+      "line": 183,
+      "uncovered": [
+        {
+          "end": 191,
+          "start": 191
+        }
+      ]
+    },
+    {
+      "coverage": 80.95238095238095,
+      "crap": 8.442284850448116,
+      "crate": "slop-cli",
+      "cyclomatic": 8.0,
+      "file": "crates/slop-cli/src/wakatime.rs",
+      "function": "render_language_row",
+      "line": 151,
+      "uncovered": [
+        {
+          "end": 153,
+          "start": 153
+        },
+        {
+          "end": 164,
+          "start": 164
+        },
+        {
+          "end": 170,
+          "start": 170
+        },
+        {
+          "end": 172,
+          "start": 172
+        }
+      ]
+    },
+    {
+      "coverage": 100.0,
+      "crap": 4.0,
+      "crate": "slop-cli",
+      "cyclomatic": 4.0,
+      "file": "crates/slop-cli/src/wakatime.rs",
+      "function": "render_progress_bar",
+      "line": 133
+    }
+  ],
+  "try_weight": 0.2,
+  "version": "0.9.0"
+}
