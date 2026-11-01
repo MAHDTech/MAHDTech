@@ -19,12 +19,12 @@ Explore my interactive AI Agent Skills and Architecture Showcase:
 ```text
 ⚡ WEEKLY COMPUTE CYCLES (via WakaTime API)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Markdown      35 hrs 27 mins  [███████░░░░░░░░░░░░░] 32.5%
-Other         32 hrs 37 mins  [██████░░░░░░░░░░░░░░] 29.9%
-Python        20 hrs  8 mins  [████░░░░░░░░░░░░░░░░] 18.5%
-Nix            7 hrs  5 mins  [█░░░░░░░░░░░░░░░░░░░]  6.5%
+Rust          28 hrs 40 mins  [████████████░░░░░░░░] 58.2%
+Python         8 hrs 15 mins  [███░░░░░░░░░░░░░░░░░] 16.7%
+YAML / K8s     5 hrs 10 mins  [██░░░░░░░░░░░░░░░░░░] 10.5%
+Nix            3 hrs 45 mins  [██░░░░░░░░░░░░░░░░░░]  7.6%
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OS: Linux | Primary Editor: Codex CLI
+OS: Linux (NixOS) | Primary Editor: Neovim / Helix
 ```
 
 ## Contribution Activity
@@ -64,7 +64,7 @@ OS: Linux | Primary Editor: Codex CLI
 [![Release Automation][badge-release]][workflow-release]
 [![SecOps][badge-secops]][workflow-secops]
 
-Last Updated: 2026-11-01 00:03 UTC | Built with [slop-cli](https://github.com/MAHDTech/MAHDTech) v0.1.1
+Last Updated: 2026-11-01 23:20 UTC | Built with [slop-cli](https://github.com/MAHDTech/MAHDTech) v0.1.1
 
 [badge-ci]: https://img.shields.io/github/actions/workflow/status/MAHDTech/MAHDTech/ci.yaml?branch=trunk&event=push&label=CI&style=flat-square
 [workflow-ci]: https://github.com/MAHDTech/MAHDTech/actions/workflows/ci.yaml
