@@ -19,7 +19,7 @@ pub fn create_context(
 
 pub fn render_template(template_content: &str, context: &tera::Context) -> Result<String> {
     let mut tera = tera::Tera::default();
-    tera.autoescape_on(vec![]);
+    tera.autoescape_on(Vec::<&str>::new());
     tera.add_raw_template(TEMPLATE_NAME, template_content)
         .context("Failed to parse Tera template syntax")?;
 
