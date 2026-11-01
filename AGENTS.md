@@ -18,12 +18,17 @@ The repository is organized as follows:
 - `README.template.md`: Single source of truth template for the profile layout.
 - `README.md`: Generated profile markdown document.
 - `.cargo-crap.toml`: Change Risk Anti-Patterns (CRAP) metric and test coverage configuration.
-- `.github/workflows/`: GitHub Actions automation:
-  - `update-readme.yaml`: Daily cron and manual dispatch profile compilation workflow.
-  - `ci.yaml`: Pinned consumer devenv CI workflow (v3.3.0).
-  - `cargo-crap.yaml`: Pinned consumer cargo-crap complexity and coverage workflow (v3.3.0).
-  - `sec-codeql.yaml`: Pinned consumer CodeQL static analysis workflow (v3.3.0).
-  - `sec-trivy.yaml`: Pinned consumer Trivy vulnerability scanner workflow (v3.3.0).
+- `.github/`: GitHub configuration, ownership, and Actions automation:
+  - `CODEOWNERS`: Repository code ownership rules (`@MAHDTech`).
+  - `dependabot.yml`: Weekly Dependabot updates for GitHub Actions and Cargo.
+  - `codeql-config.yml`: CodeQL path exclusions for build artifacts, visuals, and tests.
+  - `badges/crap-badge.json`: Shields.io endpoint payload maintained by `cargo-crap.yaml`.
+  - `workflows/update-readme.yaml`: Daily cron and manual dispatch profile compilation workflow.
+  - `workflows/ci.yaml`: Pinned consumer devenv CI workflow (v3.13.0).
+  - `workflows/cargo-crap.yaml`: Pinned consumer cargo-crap complexity, coverage, and badge workflow (v3.13.0).
+  - `workflows/devenv-update.yaml`: Weekly consumer devenv lockfile update workflow (v3.13.0).
+  - `workflows/release.yaml`: Pinned consumer Rust release candidate, PR, and tag publication workflow (v3.13.0).
+  - `workflows/secops.yaml`: Unified consumer Trivy and CodeQL static analysis workflow (v3.13.0).
 - `devenv.nix`: Hermetic development environment, packages, and `git-hooks` configured with `prek`.
 - `project-words.txt`: Custom domain vocabulary for CSpell linting.
 - `AGENTS.md`: Repository rules, governance, architecture, and behavioral guidelines.

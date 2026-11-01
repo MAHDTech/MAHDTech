@@ -2,33 +2,34 @@
 name: CI
 
 on:
-  pull_request: {}
+  pull_request:
+    branches:
+      - trunk
+      - main
   push:
     branches:
       - trunk
       - main
+  workflow_dispatch: {}
 
 permissions:
   contents: read
   actions: read
 
 concurrency:
-  group: ci-${{ github.ref }}
+  group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  # -------------------------------------------------
-  # Consumer Devenv CI
-  # -------------------------------------------------
-  ci:
-    name: Consumer CI - ${{ matrix.architecture }}
-    strategy:
-      fail-fast: false
-      matrix:
-        architecture:
-          - AMD64
-          - ARM64
-    uses: tars-cloud/actions/.github/workflows/consumer-devenv-ci.yaml@822009e983b73316cbf67a3606842502c7be4599 # v3.3.0
+  validate:
+    name: CI Validation
+    uses: tars-cloud/actions/.github/workflows/consumer-devenv-ci.yaml@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
     with:
-      runner-architecture: ${{ matrix.architecture }}
+      job-name: validate
       lint-command: prek run --all-files
+      test-command: cargo test --workspace && ./tests/e2e_runner.sh --all
+      cleanup-android: true
+      cleanup-dotnet: true
+      cleanup-haskell: true
+      cleanup-boost: true
+      cleanup-swift: true

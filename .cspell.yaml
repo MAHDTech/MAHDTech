@@ -14,6 +14,9 @@ ignorePaths:
   - .devenv
   - .direnv
   - .git
+  - .github/badges
+  - .github/crap
+  - CHANGELOG.md
   - devenv.nix
   - node_modules
   - "*.svg"

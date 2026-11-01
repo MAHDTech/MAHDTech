@@ -1,0 +1,8 @@
+# Default owner for everything in the repository.
+* @MAHDTech
+
+# Primary repository trees.
+/crates/ @MAHDTech
+/packages/ @MAHDTech
+/.github/ @MAHDTech
+/tests/ @MAHDTech

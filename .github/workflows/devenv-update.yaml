@@ -1,0 +1,28 @@
+---
+name: Devenv Update
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch: {}
+
+concurrency:
+  group: devenv-update
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  update:
+    name: Update Devenv Dependencies
+    uses: tars-cloud/actions/.github/workflows/consumer-devenv-update.yaml@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
+    with:
+      cleanup-android: true
+      cleanup-dotnet: true
+      cleanup-haskell: true
+      cleanup-boost: true
+      cleanup-swift: true
+    secrets:
+      client-id: ${{ secrets.APP_CLIENT_ID }}
+      app-private-key: ${{ secrets.APP_PRIVATE_KEY }}
