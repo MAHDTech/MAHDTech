@@ -1,0 +1,57 @@
+---
+name: SecOps
+
+on:
+  push:
+    branches:
+      - trunk
+      - main
+  pull_request:
+    branches:
+      - trunk
+      - main
+  schedule:
+    - cron: "17 3 * * 0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  actions: read
+  security-events: write
+
+concurrency:
+  group: secops-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # -------------------------------------------------
+  # Trivy Scan
+  # -------------------------------------------------
+  trivy:
+    name: Trivy Scan
+    uses: tars-cloud/actions/.github/workflows/consumer-trivy.yaml@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
+    with:
+      timeout-minutes: 60
+      config-file: auto
+      cleanup-android: true
+      cleanup-dotnet: true
+      cleanup-haskell: true
+      cleanup-boost: true
+      cleanup-swift: true
+
+  # -------------------------------------------------
+  # CodeQL Analysis
+  # -------------------------------------------------
+  codeql:
+    name: CodeQL Analysis
+    uses: tars-cloud/actions/.github/workflows/consumer-codeql.yaml@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
+    with:
+      type: devenv
+      timeout-minutes: 120
+      languages: '["actions", "rust"]'
+      config-file: auto
+      cleanup-android: true
+      cleanup-dotnet: true
+      cleanup-haskell: true
+      cleanup-boost: true
+      cleanup-swift: true

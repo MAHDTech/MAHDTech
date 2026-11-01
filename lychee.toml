@@ -5,4 +5,5 @@
 exclude = [
   "dist/.*",
   "profile-3d-contrib/.*",
+  ".*MAHDTech/MAHDTech/actions/workflows/.*",
 ]

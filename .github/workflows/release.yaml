@@ -1,0 +1,86 @@
+---
+name: Rust Release
+
+on:
+  push:
+    branches:
+      - trunk
+      - main
+  workflow_dispatch: {}
+
+concurrency:
+  group: rust-release
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pull-requests: read
+  actions: read
+
+jobs:
+  candidate:
+    name: Resolve Release Candidate
+    uses: tars-cloud/actions/.github/workflows/consumer-rust-release-candidate.yaml@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
+    with:
+      commit-sha: ${{ github.sha }}
+
+  prepare:
+    name: Prepare Release PR
+    needs: candidate
+    if: needs.candidate.outputs.prepare-ready == 'true'
+    permissions:
+      contents: read
+      pull-requests: read
+      actions: read
+    uses: tars-cloud/actions/.github/workflows/consumer-rust-release-prepare.yaml@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
+    with:
+      commit-sha: ${{ github.sha }}
+    secrets:
+      client-id: ${{ secrets.APP_CLIENT_ID }}
+      app-private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
+  artifacts:
+    name: Describe Release Artifacts
+    needs: candidate
+    if: needs.candidate.outputs.release-ready == 'true'
+    runs-on: ubuntu-24.04
+    steps:
+      - id: manifest
+        name: Write the Explicit Empty Asset Manifest
+        shell: bash
+        env:
+          RELEASE_VERSION: ${{ needs.candidate.outputs.version }}
+          RELEASE_TAG: ${{ needs.candidate.outputs.tag }}
+          RELEASE_COMMIT: ${{ needs.candidate.outputs.commit-sha }}
+        run: |
+          printf '{"schema":1,"version":"%s","tag":"%s","commit_sha":"%s","assets":[],"reference_artifacts":[]}\n' \
+            "$RELEASE_VERSION" "$RELEASE_TAG" "$RELEASE_COMMIT" > release-manifest.json
+
+      - id: upload
+        name: Upload the Release Manifest
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: release-manifest
+          path: release-manifest.json
+          if-no-files-found: error
+          overwrite: true
+          retention-days: 14
+
+  publish:
+    name: Publish Rust Release
+    needs:
+      - candidate
+      - artifacts
+    if: needs.candidate.outputs.release-ready == 'true'
+    permissions:
+      contents: write
+      pull-requests: read
+      actions: read
+    uses: tars-cloud/actions/.github/workflows/consumer-rust-release-publish.yaml@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
+    with:
+      commit-sha: ${{ needs.candidate.outputs.commit-sha }}
+      artifact-run-id: ${{ github.run_id }}
+      release-manifest-artifact: release-manifest
+    secrets:
+      client-id: ${{ secrets.APP_CLIENT_ID }}
+      app-private-key: ${{ secrets.APP_PRIVATE_KEY }}

@@ -12,6 +12,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: read
 
 jobs:
   # -------------------------------------------------
@@ -19,25 +20,20 @@ jobs:
   # -------------------------------------------------
   update-profile:
     name: Build Profile and Refresh Visuals
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    env:
+      APP_CONFIGURED: ${{ secrets.APP_CLIENT_ID != '' && secrets.APP_PRIVATE_KEY != '' }}
     steps:
-      - id: checkout_repository
-        name: Check Out Repository
-        uses: actions/checkout@v4
+      - id: setup_consumer
+        name: Set Up Consumer
+        uses: tars-cloud/actions/composite/setup-consumer@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
         with:
-          persist-credentials: true
           fetch-depth: 0
-
-      - id: setup_rust
-        name: Set Up Rust Toolchain
-        uses: actions-rust-lang/setup-rust-toolchain@v1
-        with:
-          toolchain: stable
-          cache: true
 
       - id: generate_snake
         name: Generate Contribution Snake SVG
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -46,30 +42,40 @@ jobs:
 
       - id: generate_skyline_3d
         name: Generate 3D Contribution Skyline
-        uses: yoshi389111/github-profile-3d-contrib@0.7.2
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - id: build_slop
-        name: Build Slop CLI
-        run: cargo build --release -p slop-cli
-
       - id: run_slop
         name: Execute Slop CLI to Compile README
+        uses: tars-cloud/actions/composite/run-devenv@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAHDTECH_GITHUB_TOKEN: ${{ secrets.MAHDTECH_GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: |
-          cargo run --release -p slop-cli -- \
-            --template README.template.md \
-            --output README.md
+        with:
+          run: |
+            slop \
+              --template README.template.md \
+              --output README.md
+
+      - id: app_token
+        name: Mint Profile Update App Token
+        if: env.APP_CONFIGURED == 'true'
+        uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
+        with:
+          client-id: ${{ secrets.APP_CLIENT_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          permission-contents: write
 
       - id: commit_and_push
         name: Commit and Push Profile Updates
+        shell: bash
+        env:
+          PUSH_TOKEN: ${{ steps.app_token.outputs.token || secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -78,7 +84,9 @@ jobs:
           if [ -d "profile-3d-contrib" ]; then git add profile-3d-contrib/; fi
           if ! git diff --staged --quiet; then
             git commit -m "chore(readme): update profile telemetry and visuals [skip ci]"
-            git push
+            auth_header="$(printf 'x-access-token:%s' "${PUSH_TOKEN}" | base64 -w 0)"
+            git -c "http.https://github.com/.extraheader=AUTHORIZATION: basic ${auth_header}" \
+              push origin "HEAD:${GITHUB_REF_NAME}"
           else
             echo "No profile changes detected; skipping commit."
           fi

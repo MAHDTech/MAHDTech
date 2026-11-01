@@ -1,0 +1,21 @@
+---
+# CodeQL paths-ignore for compiled languages requires build-mode: none.
+
+name: "MAHDTech CodeQL Configuration"
+
+paths-ignore:
+  # --- Build and tooling output ---
+  - "target/**"
+  - "**/target/**"
+  - ".devenv/**"
+  - ".direnv/**"
+  - ".tars/**"
+
+  # --- Generated profile visuals ---
+  - "dist/**"
+  - "profile-3d-contrib/**"
+
+  # --- Non-shipping Rust code ---
+  - "**/tests/**"
+  - "**/benches/**"
+  - "**/examples/**"
