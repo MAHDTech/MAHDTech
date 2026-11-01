@@ -1,0 +1,44 @@
+version: 2
+
+updates:
+  #########################
+  # GitHub Actions
+  #########################
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+      time: "00:00"
+      timezone: "Australia/Sydney"
+    assignees:
+      - "MAHDTech"
+    labels:
+      - "chore"
+    target-branch: "trunk"
+    commit-message:
+      prefix: "chore(deps)"
+    rebase-strategy: "auto"
+    open-pull-requests-limit: 5
+
+  #########################
+  # Cargo
+  #########################
+
+  - package-ecosystem: "cargo"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+      time: "00:00"
+      timezone: "Australia/Sydney"
+    assignees:
+      - "MAHDTech"
+    labels:
+      - "chore"
+    target-branch: "trunk"
+    commit-message:
+      prefix: "chore(deps)"
+    rebase-strategy: "auto"
+    open-pull-requests-limit: 5
