@@ -75,6 +75,9 @@ tmpl
 Unconfigured
 unconfigured
 fileset
+misconfig
 pname
 secops
+unfixed
+vuln
 

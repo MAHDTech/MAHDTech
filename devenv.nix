@@ -15,7 +15,9 @@ let
     clang
     codeql
     convco
+    coreutils
     figlet
+    gh
     git
     hello
     jq
@@ -75,7 +77,6 @@ in
         echo "#########################"
       ''}
     fi
-    echo -e "\nAGENT_SKILLS_HOME is set to ''${AGENT_SKILLS_HOME:-(not set!)}"
   '';
 
   languages = {
@@ -99,9 +100,12 @@ in
       "^.tars/"
       ".agents/"
       ".devenv/"
+      "^\\.github/badges/"
+      "^\\.github/crap/"
       "^.vscode/"
       "/resources/"
       "^\\.cache/"
+      "CHANGELOG.md"
     ];
     hooks = {
       action-validator.enable = true;

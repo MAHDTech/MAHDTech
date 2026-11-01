@@ -1,0 +1,21 @@
+---
+scan:
+  scanners:
+    - vuln
+    - misconfig
+    - secret
+    - license
+  skip-dirs:
+    - .git
+    - .devenv
+    - .direnv
+    - .tars
+    - target
+
+vulnerability:
+  ignore-unfixed: true
+
+severity:
+  - CRITICAL
+  - HIGH
+  - MEDIUM

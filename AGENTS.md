@@ -18,6 +18,7 @@ The repository is organized as follows:
 - `README.template.md`: Single source of truth template for the profile layout.
 - `README.md`: Generated profile markdown document.
 - `.cargo-crap.toml`: Change Risk Anti-Patterns (CRAP) metric and test coverage configuration.
+- `trivy.yaml`: Trivy filesystem scanner configuration and directory exclusions.
 - `.github/`: GitHub configuration, ownership, and Actions automation:
   - `CODEOWNERS`: Repository code ownership rules (`@MAHDTech`).
   - `dependabot.yml`: Weekly Dependabot updates for GitHub Actions and Cargo.
