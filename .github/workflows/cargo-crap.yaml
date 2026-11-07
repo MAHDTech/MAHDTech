@@ -24,7 +24,7 @@ concurrency:
 jobs:
   cargo-crap:
     name: Cargo CRAP
-    uses: tars-cloud/actions/.github/workflows/consumer-cargo-crap.yaml@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
+    uses: tars-cloud/actions/.github/workflows/consumer-cargo-crap.yaml@66eaed79bdbbb12ecbc98d3a50b6ab58b289b19b # v3.13.2
     with:
       baseline-branch: trunk
       coverage-tool: llvm-cov
