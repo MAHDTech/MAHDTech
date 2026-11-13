@@ -5,6 +5,7 @@
   ...
 }:
 let
+  # HACK: cargo-llvm-cov is broken on rolling.
   # Skip cargo-llvm-cov checkPhase while devenv-nixpkgs/rolling lacks NixOS/nixpkgs@248d3d41
   # (nixpkgs rustc 1.99.0 + llvm 21/22 mismatch crashes checkPhase instrumentation tests).
   cargoLlvmCov =
