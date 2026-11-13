@@ -5,11 +5,20 @@
   ...
 }:
 let
+  # HACK: cargo-llvm-cov is broken on rolling.
+  # Skip cargo-llvm-cov checkPhase while devenv-nixpkgs/rolling lacks NixOS/nixpkgs@248d3d41
+  # (nixpkgs rustc 1.99.0 + llvm 21/22 mismatch crashes checkPhase instrumentation tests).
+  cargoLlvmCov =
+    if (lib.functionArgs pkgs.cargo-llvm-cov.override) ? llvmPackages_22 then
+      pkgs.cargo-llvm-cov.overrideAttrs { doCheck = false; }
+    else
+      pkgs.cargo-llvm-cov;
+
   devPackages = with pkgs; [
     cargo-audit
     cargo-edit
     cargo-deny
-    cargo-llvm-cov
+    cargoLlvmCov
     cargo-nextest
     cargo-watch
     clang
