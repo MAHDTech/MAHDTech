@@ -16,7 +16,7 @@ permissions:
 jobs:
   update:
     name: Update Devenv Dependencies
-    uses: tars-cloud/actions/.github/workflows/consumer-devenv-update.yaml@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
+    uses: tars-cloud/actions/.github/workflows/consumer-devenv-update.yaml@66eaed79bdbbb12ecbc98d3a50b6ab58b289b19b # v3.13.2
     with:
       cleanup-android: true
       cleanup-dotnet: true
