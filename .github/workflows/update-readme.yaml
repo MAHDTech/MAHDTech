@@ -49,7 +49,7 @@ jobs:
 
       - id: run_slop
         name: Execute Slop CLI to Compile README
-        uses: tars-cloud/actions/composite/run-devenv@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
+        uses: tars-cloud/actions/composite/run-devenv@68bf7f5eb020c47825bd5510eee164ef11fbcf9d # v3.14.0
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
