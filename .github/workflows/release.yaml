@@ -20,7 +20,7 @@ permissions:
 jobs:
   candidate:
     name: Resolve Release Candidate
-    uses: tars-cloud/actions/.github/workflows/consumer-rust-release-candidate.yaml@0739d57927859d7ba35c4d9a923957565d08d2b4 # v3.13.0
+    uses: tars-cloud/actions/.github/workflows/consumer-rust-release-candidate.yaml@68bf7f5eb020c47825bd5510eee164ef11fbcf9d # v3.14.0
     with:
       commit-sha: ${{ github.sha }}
 
