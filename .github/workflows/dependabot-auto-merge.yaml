@@ -22,7 +22,12 @@ jobs:
     name: Approve and Enable Auto-Merge
     # The approval alone merges nothing: the ruleset's required status
     # checks gate the merge, so auto-merge waits for CI to pass.
-    if: github.event.pull_request.user.login == 'dependabot[bot]'
+    # Checking the actor as well skips runs where someone else pushed to a
+    # Dependabot branch, so only Dependabot's own commits get approved.
+    if: >-
+      github.event.pull_request.user.login == 'dependabot[bot]' &&
+      github.actor == 'dependabot[bot]' &&
+      github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-24.04
     timeout-minutes: 5
     steps:
