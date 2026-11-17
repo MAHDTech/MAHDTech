@@ -6,3 +6,10 @@
 /packages/ @MAHDTech
 /.github/ @MAHDTech
 /tests/ @MAHDTech
+
+# Unowned paths touched by Dependabot, so the approval from
+# dependabot-auto-merge.yaml satisfies the code owner review rule.
+# Later patterns take precedence, so these must stay last.
+/.github/workflows/
+Cargo.toml
+Cargo.lock
