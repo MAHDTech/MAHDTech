@@ -20,11 +20,12 @@ The repository is organized as follows:
 - `.cargo-crap.toml`: Change Risk Anti-Patterns (CRAP) metric and test coverage configuration.
 - `trivy.yaml`: Trivy filesystem scanner configuration and directory exclusions.
 - `.github/`: GitHub configuration, ownership, and Actions automation:
-  - `CODEOWNERS`: Repository code ownership rules (`@MAHDTech`).
+  - `CODEOWNERS`: Repository code ownership rules (`@MAHDTech`), with workflows and Cargo manifests left unowned for Dependabot auto-merge.
   - `dependabot.yml`: Weekly Dependabot updates for GitHub Actions and Cargo.
   - `codeql-config.yml`: CodeQL path exclusions for build artifacts, visuals, and tests.
   - `badges/crap-badge.json`: Shields.io endpoint payload maintained by `cargo-crap.yaml`.
   - `workflows/update-readme.yaml`: Daily cron and manual dispatch profile compilation workflow.
+  - `workflows/dependabot-auto-merge.yaml`: Approves Dependabot pull requests and enables squash auto-merge, gated by required status checks.
   - `workflows/ci.yaml`: Pinned consumer devenv CI workflow (v3.13.0).
   - `workflows/cargo-crap.yaml`: Pinned consumer cargo-crap complexity, coverage, and badge workflow (v3.13.0).
   - `workflows/devenv-update.yaml`: Weekly consumer devenv lockfile update workflow (v3.13.0).
