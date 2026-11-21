@@ -44,7 +44,7 @@ jobs:
   # -------------------------------------------------
   codeql:
     name: CodeQL Analysis
-    uses: tars-cloud/actions/.github/workflows/consumer-codeql.yaml@66eaed79bdbbb12ecbc98d3a50b6ab58b289b19b # v3.13.2
+    uses: tars-cloud/actions/.github/workflows/consumer-codeql.yaml@253eb09c3b4249a2f4adb70f8a6e87203129e4e2 # v3.15.0
     with:
       type: devenv
       timeout-minutes: 120
