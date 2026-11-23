@@ -23,7 +23,6 @@ let
     cargo-watch
     clang
     codeql
-    convco
     coreutils
     figlet
     gh
