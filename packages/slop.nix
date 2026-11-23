@@ -47,6 +47,17 @@ pkgs.rustPlatform.buildRustPackage {
   # needs it instead of drifting from it.
   cargoLock.lockFile = src + "/Cargo.lock";
 
+  # nixpkgs rustPlatform.cargoSetupHook enables AWS_LC_SYS_USE_SYSTEM=1 by
+  # default (cargoUseSystemLibs), so aws-lc-sys (via reqwest/rustls) links
+  # against nixpkgs's aws-lc via pkg-config instead of compiling vendored C.
+  nativeBuildInputs = [
+    pkgs.pkg-config
+  ];
+
+  buildInputs = [
+    pkgs.aws-lc
+  ];
+
   # Build only the `slop` binary, not the whole workspace.
   cargoBuildFlags = [
     "--bin"
