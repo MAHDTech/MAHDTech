@@ -60,7 +60,6 @@ OS: Linux (NixOS) | Primary Editor: Neovim / Helix
 
 [![CI][badge-ci]][workflow-ci]
 [![Cargo CRAP CI][badge-crap-ci]][workflow-crap]
-[![CRAP][badge-crap-score]][workflow-crap]
 [![Release Automation][badge-release]][workflow-release]
 [![SecOps][badge-secops]][workflow-secops]
 
@@ -70,7 +69,6 @@ Last Updated: 2026-11-25 00:06 UTC | Built with [slop-cli](https://github.com/MA
 [workflow-ci]: https://github.com/MAHDTech/MAHDTech/actions/workflows/ci.yaml
 [badge-crap-ci]: https://github.com/MAHDTech/MAHDTech/actions/workflows/cargo-crap.yaml/badge.svg?branch=trunk&event=push
 [workflow-crap]: https://github.com/MAHDTech/MAHDTech/actions/workflows/cargo-crap.yaml
-[badge-crap-score]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMAHDTech%2FMAHDTech%2Ftrunk%2F.github%2Fbadges%2Fcrap-badge.json&style=flat-square
 [badge-release]: https://github.com/MAHDTech/MAHDTech/actions/workflows/release.yaml/badge.svg?branch=trunk&event=push
 [workflow-release]: https://github.com/MAHDTech/MAHDTech/actions/workflows/release.yaml
 [badge-secops]: https://github.com/MAHDTech/MAHDTech/actions/workflows/secops.yaml/badge.svg?branch=trunk
