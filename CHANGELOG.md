@@ -1,9 +1,17 @@
 <!-- markdownlint-disable MD024 -->
 # Changelog
 
-## v0.1.1 (2026-11-02)
+### [v0.1.2](https://github.com/MAHDTech/MAHDTech/compare/v0.1.1...d4141f022e3c9f4f01303b3009ed3b7b30be60cb) (2026-11-25)
 
-### Features
+#### Fixes
+
+* workaround convco (#27)
+([d4141f0](https://github.com/MAHDTech/MAHDTech/commit/d4141f022e3c9f4f01303b3009ed3b7b30be60cb)),
+closes [#27](https://github.com/MAHDTech/MAHDTech/issues/27)
+
+### v0.1.1 (2026-11-02)
+
+#### Features
 
 * **profile:** automate profile generation via in-repo slop CLI, tera
 templates, and pinned ci workflows (#1)
@@ -12,7 +20,7 @@ closes [#1](https://github.com/MAHDTech/MAHDTech/issues/1)
 * add wakatime badge
 ([348b37f](https://github.com/MAHDTech/MAHDTech/commit/348b37fb47251536fd09d1288fcdf0c5183e91ed))
 
-### Fixes
+#### Fixes
 
 * name (#3)
 ([7f82463](https://github.com/MAHDTech/MAHDTech/commit/7f8246372cfba4ee82e6b02634454db8c4831244)),
