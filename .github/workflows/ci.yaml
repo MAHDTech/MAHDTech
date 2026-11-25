@@ -17,19 +17,16 @@ permissions:
   actions: read
 
 concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  group: ci-${{ github.workflow }}-${{ github.ref }}-${{ github.event_name == 'pull_request' && 'pr' || github.sha }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   validate:
     name: CI Validation
-    uses: tars-cloud/actions/.github/workflows/consumer-devenv-ci.yaml@253eb09c3b4249a2f4adb70f8a6e87203129e4e2 # v3.15.0
+    uses: tars-cloud/actions/.github/workflows/devenv-ci.yaml@e237e0ca8fbf31df927e9418d6b94dd81a462a35 # v4.0.0
     with:
       job-name: validate
-      lint-command: prek run --all-files
       test-command: cargo test --workspace && ./tests/e2e_runner.sh --all
-      cleanup-android: true
-      cleanup-dotnet: true
-      cleanup-haskell: true
-      cleanup-boost: true
-      cleanup-swift: true
+    secrets:
+      TARS_CLOUD_S3_ACCESS_KEY: ${{ secrets.TARS_CLOUD_S3_ACCESS_KEY }}
+      TARS_CLOUD_S3_SECRET_ACCESS_KEY: ${{ secrets.TARS_CLOUD_S3_SECRET_ACCESS_KEY }}

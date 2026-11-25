@@ -13,28 +13,20 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: read
+  contents: write
   actions: read
   pull-requests: write
 
 concurrency:
-  group: cargo-crap-${{ github.ref }}
-  cancel-in-progress: true
+  group: cargo-crap-${{ github.workflow }}-${{ github.ref }}-${{ github.event_name == 'pull_request' && 'pr' || github.sha }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   cargo-crap:
     name: Cargo CRAP
-    uses: tars-cloud/actions/.github/workflows/consumer-cargo-crap.yaml@253eb09c3b4249a2f4adb70f8a6e87203129e4e2 # v3.15.0
+    uses: tars-cloud/actions/.github/workflows/cargo-crap.yaml@e237e0ca8fbf31df927e9418d6b94dd81a462a35 # v4.0.0
     with:
-      baseline-branch: trunk
-      coverage-tool: llvm-cov
       post-comment: true
-      update-records-pr: true
-      cleanup-android: true
-      cleanup-dotnet: true
-      cleanup-haskell: true
-      cleanup-boost: true
-      cleanup-swift: true
     secrets:
-      client-id: ${{ secrets.APP_CLIENT_ID }}
-      app-private-key: ${{ secrets.APP_PRIVATE_KEY }}
+      TARS_CLOUD_S3_ACCESS_KEY: ${{ secrets.TARS_CLOUD_S3_ACCESS_KEY }}
+      TARS_CLOUD_S3_SECRET_ACCESS_KEY: ${{ secrets.TARS_CLOUD_S3_SECRET_ACCESS_KEY }}

@@ -23,14 +23,13 @@ The repository is organized as follows:
   - `CODEOWNERS`: Repository code ownership rules (`@MAHDTech`), with workflows and Cargo manifests left unowned for Dependabot auto-merge.
   - `dependabot.yml`: Weekly Dependabot updates for GitHub Actions and Cargo.
   - `codeql-config.yml`: CodeQL path exclusions for build artifacts, visuals, and tests.
-  - `badges/crap-badge.json`: Shields.io endpoint payload maintained by `cargo-crap.yaml`.
   - `workflows/update-readme.yaml`: Daily cron and manual dispatch profile compilation workflow.
   - `workflows/dependabot-auto-merge.yaml`: Approves Dependabot pull requests and enables squash auto-merge, gated by required status checks.
-  - `workflows/ci.yaml`: Pinned consumer devenv CI workflow (v3.13.0).
-  - `workflows/cargo-crap.yaml`: Pinned consumer cargo-crap complexity, coverage, and badge workflow (v3.13.0).
-  - `workflows/devenv-update.yaml`: Weekly consumer devenv lockfile update workflow (v3.13.0).
-  - `workflows/release.yaml`: Pinned consumer Rust release candidate, PR, and tag publication workflow (v3.13.0).
-  - `workflows/secops.yaml`: Unified consumer Trivy and CodeQL static analysis workflow (v3.13.0).
+  - `workflows/ci.yaml`: Pinned devenv CI workflow (v4.0.0).
+  - `workflows/cargo-crap.yaml`: Pinned cargo-crap complexity, coverage, and orphan `crap` branch badge workflow (v4.0.0).
+  - `workflows/devenv-update.yaml`: Weekly devenv lockfile update workflow (v4.0.0).
+  - `workflows/release.yaml`: Pinned Rust release candidate, PR, and tag publication workflow (v4.0.0).
+  - `workflows/secops.yaml`: Unified Trivy and CodeQL static analysis workflow (v4.0.0).
 - `devenv.nix`: Hermetic development environment, packages, and `git-hooks` configured with `prek`.
 - `project-words.txt`: Custom domain vocabulary for CSpell linting.
 - `AGENTS.md`: Repository rules, governance, architecture, and behavioral guidelines.

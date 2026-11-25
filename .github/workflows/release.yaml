@@ -6,7 +6,12 @@ on:
     branches:
       - trunk
       - main
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      recover-pending:
+        description: Retry the pending approved release using this workflow revision.
+        type: boolean
+        default: false
 
 concurrency:
   group: rust-release
@@ -20,24 +25,21 @@ permissions:
 jobs:
   candidate:
     name: Resolve Release Candidate
-    uses: tars-cloud/actions/.github/workflows/consumer-rust-release-candidate.yaml@253eb09c3b4249a2f4adb70f8a6e87203129e4e2 # v3.15.0
+    uses: tars-cloud/actions/.github/workflows/rust-release-candidate.yaml@e237e0ca8fbf31df927e9418d6b94dd81a462a35 # v4.0.0
     with:
       commit-sha: ${{ github.sha }}
+      recover-pending: ${{ inputs.recover-pending || false }}
 
   prepare:
     name: Prepare Release PR
     needs: candidate
     if: needs.candidate.outputs.prepare-ready == 'true'
-    permissions:
-      contents: read
-      pull-requests: read
-      actions: read
-    uses: tars-cloud/actions/.github/workflows/consumer-rust-release-prepare.yaml@253eb09c3b4249a2f4adb70f8a6e87203129e4e2 # v3.15.0
+    uses: tars-cloud/actions/.github/workflows/rust-release-prepare.yaml@e237e0ca8fbf31df927e9418d6b94dd81a462a35 # v4.0.0
     with:
       commit-sha: ${{ github.sha }}
     secrets:
-      client-id: ${{ secrets.APP_CLIENT_ID }}
-      app-private-key: ${{ secrets.APP_PRIVATE_KEY }}
+      client-id: ${{ secrets.CI_APP_CLIENT_ID }}
+      app-private-key: ${{ secrets.CI_APP_PRIVATE_KEY }}
 
   artifacts:
     name: Describe Release Artifacts
@@ -76,11 +78,23 @@ jobs:
       contents: write
       pull-requests: read
       actions: read
-    uses: tars-cloud/actions/.github/workflows/consumer-rust-release-publish.yaml@253eb09c3b4249a2f4adb70f8a6e87203129e4e2 # v3.15.0
+    uses: tars-cloud/actions/.github/workflows/rust-release-publish.yaml@e237e0ca8fbf31df927e9418d6b94dd81a462a35 # v4.0.0
     with:
       commit-sha: ${{ needs.candidate.outputs.commit-sha }}
-      artifact-run-id: ${{ github.run_id }}
-      release-manifest-artifact: release-manifest
+      recovery: ${{ needs.candidate.outputs.recovery == 'true' }}
     secrets:
-      client-id: ${{ secrets.APP_CLIENT_ID }}
-      app-private-key: ${{ secrets.APP_PRIVATE_KEY }}
+      client-id: ${{ secrets.CI_APP_CLIENT_ID }}
+      app-private-key: ${{ secrets.CI_APP_PRIVATE_KEY }}
+
+  resume:
+    name: Prepare Next Release After Recovery
+    needs:
+      - candidate
+      - publish
+    if: needs.candidate.outputs.recovery == 'true'
+    uses: tars-cloud/actions/.github/workflows/rust-release-prepare.yaml@e237e0ca8fbf31df927e9418d6b94dd81a462a35 # v4.0.0
+    with:
+      commit-sha: ${{ github.sha }}
+    secrets:
+      client-id: ${{ secrets.CI_APP_CLIENT_ID }}
+      app-private-key: ${{ secrets.CI_APP_PRIVATE_KEY }}

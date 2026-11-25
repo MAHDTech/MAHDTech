@@ -60,18 +60,19 @@ OS: Linux (NixOS) | Primary Editor: Neovim / Helix
 
 [![CI][badge-ci]][workflow-ci]
 [![Cargo CRAP CI][badge-crap-ci]][workflow-crap]
-[![CRAP][badge-crap-score]][workflow-crap]
+[![CRAP][badge-crap-score]][crap-badge-source]
 [![Release Automation][badge-release]][workflow-release]
 [![SecOps][badge-secops]][workflow-secops]
 
 Last Updated: 2026-11-25 00:06 UTC | Built with [slop-cli](https://github.com/MAHDTech/MAHDTech) v0.1.1
 
-[badge-ci]: https://img.shields.io/github/actions/workflow/status/MAHDTech/MAHDTech/ci.yaml?branch=trunk&event=push&label=CI&style=flat-square
+[badge-ci]: https://github.com/MAHDTech/MAHDTech/actions/workflows/ci.yaml/badge.svg?branch=trunk&event=push
 [workflow-ci]: https://github.com/MAHDTech/MAHDTech/actions/workflows/ci.yaml
-[badge-crap-ci]: https://img.shields.io/github/actions/workflow/status/MAHDTech/MAHDTech/cargo-crap.yaml?branch=trunk&event=push&label=Cargo%20CRAP%20CI&style=flat-square
+[badge-crap-ci]: https://github.com/MAHDTech/MAHDTech/actions/workflows/cargo-crap.yaml/badge.svg?branch=trunk&event=push
 [workflow-crap]: https://github.com/MAHDTech/MAHDTech/actions/workflows/cargo-crap.yaml
-[badge-crap-score]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMAHDTech%2FMAHDTech%2Ftrunk%2F.github%2Fbadges%2Fcrap-badge.json&style=flat-square
-[badge-release]: https://img.shields.io/github/actions/workflow/status/MAHDTech/MAHDTech/release.yaml?branch=trunk&event=push&label=Release%20Automation&style=flat-square
+[badge-crap-score]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMAHDTech%2FMAHDTech%2Fcrap%2Fcrap-badge.json
+[crap-badge-source]: https://github.com/MAHDTech/MAHDTech/blob/crap/crap-badge.json
+[badge-release]: https://github.com/MAHDTech/MAHDTech/actions/workflows/release.yaml/badge.svg?branch=trunk&event=push
 [workflow-release]: https://github.com/MAHDTech/MAHDTech/actions/workflows/release.yaml
-[badge-secops]: https://img.shields.io/github/actions/workflow/status/MAHDTech/MAHDTech/secops.yaml?branch=trunk&label=SecOps&style=flat-square
+[badge-secops]: https://github.com/MAHDTech/MAHDTech/actions/workflows/secops.yaml/badge.svg?branch=trunk
 [workflow-secops]: https://github.com/MAHDTech/MAHDTech/actions/workflows/secops.yaml

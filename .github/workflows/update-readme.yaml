@@ -23,13 +23,18 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 60
     env:
-      APP_CONFIGURED: ${{ secrets.APP_CLIENT_ID != '' && secrets.APP_PRIVATE_KEY != '' }}
+      APP_CONFIGURED: ${{ secrets.CI_APP_CLIENT_ID != '' && secrets.CI_APP_PRIVATE_KEY != '' }}
     steps:
-      - id: setup_consumer
-        name: Set Up Consumer
-        uses: tars-cloud/actions/composite/setup-consumer@253eb09c3b4249a2f4adb70f8a6e87203129e4e2 # v3.15.0
+      - id: setup_project
+        name: Set Up Project
+        uses: tars-cloud/actions/composite/setup-project@e237e0ca8fbf31df927e9418d6b94dd81a462a35 # v4.0.0
         with:
           fetch-depth: 0
+          s3-endpoint: ${{ vars.TARS_CLOUD_S3_ENDPOINT }}
+          s3-bucket: ${{ vars.TARS_CLOUD_S3_BUCKET }}
+          s3-region: ${{ vars.TARS_CLOUD_S3_REGION }}
+          s3-access-key: ${{ secrets.TARS_CLOUD_S3_ACCESS_KEY }}
+          s3-secret-key: ${{ secrets.TARS_CLOUD_S3_SECRET_ACCESS_KEY }}
 
       - id: generate_snake
         name: Generate Contribution Snake SVG
@@ -49,7 +54,7 @@ jobs:
 
       - id: run_slop
         name: Execute Slop CLI to Compile README
-        uses: tars-cloud/actions/composite/run-devenv@253eb09c3b4249a2f4adb70f8a6e87203129e4e2 # v3.15.0
+        uses: tars-cloud/actions/composite/run-devenv@e237e0ca8fbf31df927e9418d6b94dd81a462a35 # v4.0.0
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
@@ -67,8 +72,8 @@ jobs:
         if: env.APP_CONFIGURED == 'true'
         uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
         with:
-          client-id: ${{ secrets.APP_CLIENT_ID }}
-          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          client-id: ${{ secrets.CI_APP_CLIENT_ID }}
+          private-key: ${{ secrets.CI_APP_PRIVATE_KEY }}
           permission-contents: write
 
       - id: commit_and_push

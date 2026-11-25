@@ -23,7 +23,6 @@ let
     cargo-watch
     clang
     codeql
-    convco
     coreutils
     figlet
     gh
@@ -109,8 +108,6 @@ in
       "^.tars/"
       ".agents/"
       ".devenv/"
-      "^\\.github/badges/"
-      "^\\.github/crap/"
       "^.vscode/"
       "/resources/"
       "^\\.cache/"
