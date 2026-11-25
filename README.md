@@ -64,7 +64,7 @@ OS: Linux (NixOS) | Primary Editor: Neovim / Helix
 [![Release Automation][badge-release]][workflow-release]
 [![SecOps][badge-secops]][workflow-secops]
 
-Last Updated: 2026-11-25 00:06 UTC | Built with [slop-cli](https://github.com/MAHDTech/MAHDTech) v0.1.1
+Last Updated: 2026-11-25 03:59 UTC | Built with [slop-cli](https://github.com/MAHDTech/MAHDTech) v0.1.2
 
 [badge-ci]: https://github.com/MAHDTech/MAHDTech/actions/workflows/ci.yaml/badge.svg?branch=trunk&event=push
 [workflow-ci]: https://github.com/MAHDTech/MAHDTech/actions/workflows/ci.yaml
