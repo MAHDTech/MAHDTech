@@ -108,8 +108,6 @@ in
       "^.tars/"
       ".agents/"
       ".devenv/"
-      "^\\.github/badges/"
-      "^\\.github/crap/"
       "^.vscode/"
       "/resources/"
       "^\\.cache/"

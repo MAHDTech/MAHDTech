@@ -16,13 +16,7 @@ permissions:
 jobs:
   update:
     name: Update Devenv Dependencies
-    uses: tars-cloud/actions/.github/workflows/consumer-devenv-update.yaml@253eb09c3b4249a2f4adb70f8a6e87203129e4e2 # v3.15.0
-    with:
-      cleanup-android: true
-      cleanup-dotnet: true
-      cleanup-haskell: true
-      cleanup-boost: true
-      cleanup-swift: true
+    uses: tars-cloud/actions/.github/workflows/devenv-update.yaml@e237e0ca8fbf31df927e9418d6b94dd81a462a35 # v4.0.0
     secrets:
-      client-id: ${{ secrets.APP_CLIENT_ID }}
-      app-private-key: ${{ secrets.APP_PRIVATE_KEY }}
+      client-id: ${{ secrets.CI_APP_CLIENT_ID }}
+      app-private-key: ${{ secrets.CI_APP_PRIVATE_KEY }}

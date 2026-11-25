@@ -6,4 +6,5 @@ exclude = [
   "dist/.*",
   "profile-3d-contrib/.*",
   ".*MAHDTech/MAHDTech/actions/workflows/.*",
+  ".*MAHDTech/MAHDTech/blob/crap/crap-badge\\.json",
 ]

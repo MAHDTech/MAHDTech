@@ -50,6 +50,7 @@ Explore my interactive AI Agent Skills and Architecture Showcase:
 
 [![CI][badge-ci]][workflow-ci]
 [![Cargo CRAP CI][badge-crap-ci]][workflow-crap]
+[![CRAP][badge-crap-score]][crap-badge-source]
 [![Release Automation][badge-release]][workflow-release]
 [![SecOps][badge-secops]][workflow-secops]
 
@@ -59,6 +60,8 @@ Last Updated: {{ last_updated }} | Built with [slop-cli](https://github.com/MAHD
 [workflow-ci]: https://github.com/MAHDTech/MAHDTech/actions/workflows/ci.yaml
 [badge-crap-ci]: https://github.com/MAHDTech/MAHDTech/actions/workflows/cargo-crap.yaml/badge.svg?branch=trunk&event=push
 [workflow-crap]: https://github.com/MAHDTech/MAHDTech/actions/workflows/cargo-crap.yaml
+[badge-crap-score]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMAHDTech%2FMAHDTech%2Fcrap%2Fcrap-badge.json
+[crap-badge-source]: https://github.com/MAHDTech/MAHDTech/blob/crap/crap-badge.json
 [badge-release]: https://github.com/MAHDTech/MAHDTech/actions/workflows/release.yaml/badge.svg?branch=trunk&event=push
 [workflow-release]: https://github.com/MAHDTech/MAHDTech/actions/workflows/release.yaml
 [badge-secops]: https://github.com/MAHDTech/MAHDTech/actions/workflows/secops.yaml/badge.svg?branch=trunk
